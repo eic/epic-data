@@ -5637,7 +5637,7 @@
   <position name="Mesh2Tess_5630" unit="mm" x="1812.1903076171875" y="726.930908203125" z="-1593.74951171875"/>
   <position name="Mesh2Tess_5631" unit="mm" x="1660.235595703125" y="-1027.55859375" z="1593.593505859375"/>
   <position name="center" x="0" y="0" z="0" unit="mm"/>
-  <rotation name="identity" x="0" y="0" z="0"/>
+  <rotation name="identity" x="0" y="0" z="0" unit="deg"/>
   </define>
 <materials/>
 <solids>
