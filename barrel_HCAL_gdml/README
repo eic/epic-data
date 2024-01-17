@@ -2,11 +2,11 @@
 ePIC Barrel HCAL Detector Geometry
 ----------------------------------
 
-John Lajoie - 1/16/2024
+John Lajoie - 1/17/2024
 lajoiejg@ornl.gov
 
 
-This directory contains the gdml geometry files for the ePIC barrel hadronic calorimeter absorber structure as well as the orginal CAD step files and the FreeCAD projects used to generat the GDML. 
+This directory contains the gdml geometry files for the ePIC barrel hadronic calorimeter absorber structure as well as the orginal CAD step files and the FreeCAD projects used to generate the GDML. 
 
 STEP Files: 
 -----------
@@ -25,7 +25,9 @@ STEP Files:
 FreeCAD File: 
 -------------
 
-The FreeCAD files follow the same naming convention as the STEP files above. The files were created by importing the relevant STEP file above in the GDML workbench and translating the imported structure to y=-3959.37mm to remove an offset in the original CAD model. If the dogbone rings are included they are translated to create a 1mm gap between the endplates and dogbone rings to avoid numerical precision errors creating overlap errors on contact surfaces between the parts
+The FreeCAD files follow the same naming convention as the STEP files above. The files were created by importing the relevant STEP file above in the GDML workbench and translating the imported structure to y=-3959.37mm to remove an offset in the original CAD model. If the dogbone rings are included they are translated to create a 1mm gap between the endplates and dogbone rings to avoid numerical precision errors creating overlap errors on contact surfaces between the parts. 
+
+These files were created with FreeCAD version 0.21 using GDML workbench v2.0 Beta. 
 
 *preMesh*: Project with imported geometry prior to creating the mesh
 
@@ -47,5 +49,23 @@ These files can be accessed directly by the simulation by editing the epic/compa
 *barrel_hcal_steel_plates_only.gdml*: Very simplified ePIC barrel HCAL geometry, with only the absorber plates.  The dogbone rings and endplates are not included. 
 
 
+The GDML had to be hand edited to fix two issues: 
 
+- The units needed to be added to the identity matrix definition at the end of the <define> section: 
+
+<rotation name="identity" x="0" y="0" z="0" unit="deg"/> 
+
+- The <structure> and <setup> sections at the very end of the file were simplified to: 
+
+<structure>
+  <volume name="BarrelHCalSteel">
+    <solidref ref="Mesh2Tess"/>
+  </volume>
+</structure>
+<setup name="Default" version="1.0">
+    <world ref="BarrelHCalSteel"/>
+</setup>
+
+
+Note that the material for the structure is defined in barrel HCAL xml file. 
 
