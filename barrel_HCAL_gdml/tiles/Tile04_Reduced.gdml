@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
   <define>
-    <constant name="HALFPI" value="pi/2." />
-  <constant name="PI" value="1.*pi" />
-  <constant name="TWOPI" value="2.*pi" />
   <position name="Mesh2Tess_0" unit="mm" x="856.9021606445312" y="799.2944946289062" z="3.5" />
   <position name="Mesh2Tess_1" unit="mm" x="856.9021606445312" y="808.344482421875" z="-3.5" />
   <position name="Mesh2Tess_2" unit="mm" x="856.9021606445312" y="808.344482421875" z="3.5" />
@@ -21,7 +18,7 @@
   <position name="Mesh2Tess_14" unit="mm" x="508.9106750488281" y="3.5561831257524545e-15" z="3.5" />
   <position name="Mesh2Tess_15" unit="mm" x="856.9021606445312" y="799.2944946289062" z="-3.5" />
   <position name="center" x="0" y="0" z="0" unit="mm" />
-  <rotation name="identity" x="0" y="0" z="0" />
+  <rotation name="identity" x="0" y="0" z="0" unit="deg" />
   </define>
 <materials />
 <solids>
@@ -58,24 +55,11 @@
     </tessellated>
   </solids>
 <structure>
-    <volume name="LV_Defeatured001__Meshed_">
-      <materialref ref="G4_AIR" />
-    <solidref ref="WorldBox" />
-    <physvol name="PV-dummy">
-        <volumeref ref="dummy" />
-      </physvol>
-    <physvol name="PV-LV_Defeatured001__Meshed_">
-        <volumeref ref="LV_Defeatured001__Meshed_" />
-      <positionref ref="center" />
-      <rotationref ref="identity" />
-      </physvol>
-    </volume>
-  <volume name="LV_Defeatured001__Meshed_">
-      <materialref ref="G4_A-150_TISSUE" />
-    <solidref ref="Mesh2Tess" />
-    </volume>
-  </structure>
+  <volume name="Tile04">
+    <solidref ref="Mesh2Tess"/>
+  </volume>
+</structure>
 <setup name="Default" version="1.0">
-    <world ref="LV_Defeatured001__Meshed_" />
-  </setup>
+    <world ref="Tile04"/>
+</setup>
 </gdml>
