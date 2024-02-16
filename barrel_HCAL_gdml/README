@@ -3,6 +3,7 @@ ePIC Barrel HCAL Detector Geometry
 ----------------------------------
 
 John Lajoie - 1/17/2024
+revised 2/16/2024
 lajoiejg@ornl.gov
 
 
@@ -11,7 +12,7 @@ This directory contains the gdml geometry files for the ePIC barrel hadronic cal
 STEP Files: 
 -----------
 
-*2021MAY12_sPHENIX_CM.STEP*: Original geometry STEP file reeceived from sPHENIX engineers. Note that this contains the magnet poletips for sPHENIX that are not a part of ePIC. These must be removed. 
+*2021MAY12_sPHENIX_CM.STEP*: Original geometry STEP file received from sPHENIX engineers. Note that this contains the magnet poletips for sPHENIX that are not a part of ePIC. These must be removed. 
 
 *2021MAY12_sPHENIX_CM_Full.STEP*: STEP file created using SolidWorks 2021 and removing the sPHENIX poletips. Written out in AP214 STEP format. 
 
@@ -20,6 +21,13 @@ STEP Files:
 *2021MAY12_sPHENIX_CM_Plates_EndPlates_Only.STEP*: STEP file created using SolidWorks 2021 and removing the sPHENIX poletips, combs and dogbone rings. Written out in AP214 STEP format. 
 
 *2021MAY12_sPHENIX_CM_Plates_EndPlates_Only.STEP*: STEP file created using SolidWorks 2021 and removing the sPHENIX poletips, combs, dogbone rings and endplates. Written out in AP214 STEP format. This is usually used in debugging the tile placement in DD4HEP as it allows better visibility in the viewer. 
+
+*2021MAY12_sPHENIX_CM_Sector_NoCombs.STEP*: STEP file extracted from the full geometry for a single HCAL sector. The sector combs have been removed.  
+
+*2021MAY12_sPHENIX_CM_ChimneySector_NoCombs.STEP*: STEP file extracted from the full geometry for a single HCAL chimney sector. The sector combs have been removed.  
+
+*2021MAY12_sPHENIX_CM_EndRing.STEP*: STEP file extracted from the full geometry for the end ring ("dogbones").   
+
 
 
 FreeCAD File: 
@@ -47,6 +55,12 @@ These files can be accessed directly by the simulation by editing the epic/compa
 *barrel_hcal_steel_plates_endplates_only.gdml*: Simplified ePIC barrel HCAL geometry, with only the absorber plates and endplates.  The dogbone rings are not included. 
 
 *barrel_hcal_steel_plates_only.gdml*: Very simplified ePIC barrel HCAL geometry, with only the absorber plates.  The dogbone rings and endplates are not included. 
+
+*barrel_hcal_steel_sector_nocombs.gdml*: Single HCAL sector without sector combs. 
+
+*barrel_hcal_steel_chimneysector_nocombs.gdml*: Single HCAL chimney sector without sector combs. 
+
+*barrel_hcal_steel_sector_endring.gdml*: Single end-ring (dogbones)
 
 
 The GDML had to be hand edited to fix two issues: 
