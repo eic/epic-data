@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
   <define>
-  <position name="Mesh2Tess_0" unit="mm" x="1638.95751953125" y="799.2944946289062" z="-3.5" />
-  <position name="Mesh2Tess_1" unit="mm" x="1795.1790771484375" y="808.344482421875" z="3.5" />
-  <position name="Mesh2Tess_2" unit="mm" x="1795.1790771484375" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_3" unit="mm" x="1567.487548828125" y="799.2944946289062" z="3.5" />
-  <position name="Mesh2Tess_4" unit="mm" x="1638.95751953125" y="799.2944946289062" z="3.5" />
-  <position name="Mesh2Tess_5" unit="mm" x="1055.96240234375" y="1.0321604682062002e-15" z="3.5" />
-  <position name="Mesh2Tess_6" unit="mm" x="1512.6500244140625" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_7" unit="mm" x="1567.487548828125" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_8" unit="mm" x="1638.95751953125" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_9" unit="mm" x="1055.96240234375" y="1.0321604682062002e-15" z="-3.5" />
-  <position name="Mesh2Tess_10" unit="mm" x="1512.6500244140625" y="808.344482421875" z="3.5" />
-  <position name="Mesh2Tess_11" unit="mm" x="1567.487548828125" y="808.344482421875" z="3.5" />
-  <position name="Mesh2Tess_12" unit="mm" x="1638.95751953125" y="808.344482421875" z="3.5" />
-  <position name="Mesh2Tess_13" unit="mm" x="1252.8128662109375" y="2.048137313163923e-15" z="-3.5" />
-  <position name="Mesh2Tess_14" unit="mm" x="1252.8128662109375" y="2.048137313163923e-15" z="3.5" />
-  <position name="Mesh2Tess_15" unit="mm" x="1567.487548828125" y="799.2944946289062" z="-3.5" />
+  <position name="Mesh2Tess_0" unit="mm" x="-1418.405+1638.95751953125" y="-426.976+799.2944946289062" z="-3.5" />
+  <position name="Mesh2Tess_1" unit="mm" x="-1418.405+1795.1790771484375" y="-426.976+808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_2" unit="mm" x="-1418.405+1795.1790771484375" y="-426.976+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_3" unit="mm" x="-1418.405+1567.487548828125" y="-426.976+799.2944946289062" z="3.5" />
+  <position name="Mesh2Tess_4" unit="mm" x="-1418.405+1638.95751953125" y="-426.976+799.2944946289062" z="3.5" />
+  <position name="Mesh2Tess_5" unit="mm" x="-1418.405+1055.96240234375" y="-426.976" z="3.5" />
+  <position name="Mesh2Tess_6" unit="mm" x="-1418.405+1512.6500244140625" y="-426.976+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_7" unit="mm" x="-1418.405+1567.487548828125" y="-426.976+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_8" unit="mm" x="-1418.405+1638.95751953125" y="-426.976+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_9" unit="mm" x="-1418.405+1055.96240234375" y="-426.976" z="-3.5" />
+  <position name="Mesh2Tess_10" unit="mm" x="-1418.405+1512.6500244140625" y="-426.976+808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_11" unit="mm" x="-1418.405+1567.487548828125" y="-426.976+808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_12" unit="mm" x="-1418.405+1638.95751953125" y="-426.976+808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_13" unit="mm" x="-1418.405+1252.8128662109375" y="-426.976" z="-3.5" />
+  <position name="Mesh2Tess_14" unit="mm" x="-1418.405+1252.8128662109375" y="-426.976" z="3.5" />
+  <position name="Mesh2Tess_15" unit="mm" x="-1418.405+1567.487548828125" y="-426.976+799.2944946289062" z="-3.5" />
   </define>
 <materials />
 <solids>

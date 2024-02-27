@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
   <define>
-  <position name="Mesh2Tess_0" unit="mm" x="3039.54248046875" y="799.2944946289062" z="-3.5" />
-  <position name="Mesh2Tess_1" unit="mm" x="3039.54248046875" y="799.2944946289062" z="3.5" />
-  <position name="Mesh2Tess_2" unit="mm" x="3116.512451171875" y="519.7784423828125" z="3.5" />
-  <position name="Mesh2Tess_3" unit="mm" x="3116.512451171875" y="519.7784423828125" z="-3.5" />
-  <position name="Mesh2Tess_4" unit="mm" x="3116.512451171875" y="808.344482421875" z="3.5" />
-  <position name="Mesh2Tess_5" unit="mm" x="3111.012451171875" y="799.2944946289062" z="-3.5" />
-  <position name="Mesh2Tess_6" unit="mm" x="3111.012451171875" y="799.2944946289062" z="3.5" />
-  <position name="Mesh2Tess_7" unit="mm" x="3017.741943359375" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_8" unit="mm" x="3111.012451171875" y="808.344482421875" z="3.5" />
-  <position name="Mesh2Tess_9" unit="mm" x="3111.012451171875" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_10" unit="mm" x="3061.598876953125" y="477.66448974609375" z="-3.5" />
-  <position name="Mesh2Tess_11" unit="mm" x="2666.427734375" y="477.66448974609375" z="-3.5" />
-  <position name="Mesh2Tess_12" unit="mm" x="3116.512451171875" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_13" unit="mm" x="3039.54248046875" y="808.344482421875" z="-3.5" />
-  <position name="Mesh2Tess_14" unit="mm" x="3061.598876953125" y="477.66448974609375" z="3.5" />
-  <position name="Mesh2Tess_15" unit="mm" x="2666.427734375" y="477.66448974609375" z="3.5" />
-  <position name="Mesh2Tess_16" unit="mm" x="3017.741943359375" y="808.344482421875" z="3.5" />
-  <position name="Mesh2Tess_17" unit="mm" x="3039.54248046875" y="808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_0" unit="mm" x="-2957.924+3039.54248046875" y="-607.790+799.2944946289062" z="-3.5" />
+  <position name="Mesh2Tess_1" unit="mm" x="-2957.924+3039.54248046875" y="-607.790+799.2944946289062" z="3.5" />
+  <position name="Mesh2Tess_2" unit="mm" x="-2957.924+3116.512451171875" y="-607.790+519.7784423828125" z="3.5" />
+  <position name="Mesh2Tess_3" unit="mm" x="-2957.924+3116.512451171875" y="-607.790+519.7784423828125" z="-3.5" />
+  <position name="Mesh2Tess_4" unit="mm" x="-2957.924+3116.512451171875" y="-607.790+808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_5" unit="mm" x="-2957.924+3111.012451171875" y="-607.790+799.2944946289062" z="-3.5" />
+  <position name="Mesh2Tess_6" unit="mm" x="-2957.924+3111.012451171875" y="-607.790+799.2944946289062" z="3.5" />
+  <position name="Mesh2Tess_7" unit="mm" x="-2957.924+3017.741943359375" y="-607.790+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_8" unit="mm" x="-2957.924+3111.012451171875" y="-607.790+808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_9" unit="mm" x="-2957.924+3111.012451171875" y="-607.790+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_10" unit="mm" x="-2957.924+3061.598876953125" y="-607.790+477.66448974609375" z="-3.5" />
+  <position name="Mesh2Tess_11" unit="mm" x="-2957.924+2666.427734375" y="-607.790+477.66448974609375" z="-3.5" />
+  <position name="Mesh2Tess_12" unit="mm" x="-2957.924+3116.512451171875" y="-607.790+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_13" unit="mm" x="-2957.924+3039.54248046875" y="-607.790+808.344482421875" z="-3.5" />
+  <position name="Mesh2Tess_14" unit="mm" x="-2957.924+3061.598876953125" y="-607.790+477.66448974609375" z="3.5" />
+  <position name="Mesh2Tess_15" unit="mm" x="-2957.924+2666.427734375" y="-607.790+477.66448974609375" z="3.5" />
+  <position name="Mesh2Tess_16" unit="mm" x="-2957.924+3017.741943359375" y="-607.790+808.344482421875" z="3.5" />
+  <position name="Mesh2Tess_17" unit="mm" x="-2957.924+3039.54248046875" y="-607.790+808.344482421875" z="3.5" />
   </define>
 <materials />
 <solids>
