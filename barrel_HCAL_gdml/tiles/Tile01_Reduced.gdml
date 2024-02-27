@@ -56,6 +56,8 @@
 <structure>
   <volume name="Tile01">
     <solidref ref="Mesh2Tess"/>
+    <positionref ref="center"/>
+    <rotationref ref="identity"/>
   </volume>
 </structure>
 <setup name="Default" version="1.0">
