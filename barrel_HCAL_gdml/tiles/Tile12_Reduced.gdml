@@ -24,9 +24,8 @@
   </define>
 <materials />
 <solids>
-    <box name="WorldBox" x="1000" y="1000" z="1000" lunit="mm" />
-  <tessellated name="Mesh2Tess">
-      <triangular vertex1="Mesh2Tess_9" vertex2="Mesh2Tess_13" vertex3="Mesh2Tess_12" type="ABSOLUTE" />
+    <tessellated name="Mesh2Tess">
+    <triangular vertex1="Mesh2Tess_9" vertex2="Mesh2Tess_13" vertex3="Mesh2Tess_12" type="ABSOLUTE" />
     <triangular vertex1="Mesh2Tess_15" vertex2="Mesh2Tess_13" vertex3="Mesh2Tess_9" type="ABSOLUTE" />
     <triangular vertex1="Mesh2Tess_14" vertex2="Mesh2Tess_4" vertex3="Mesh2Tess_16" type="ABSOLUTE" />
     <triangular vertex1="Mesh2Tess_14" vertex2="Mesh2Tess_16" vertex3="Mesh2Tess_7" type="ABSOLUTE" />
