@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v0" unit="mm" x="-0.23230590820313068" y="-4.085852050781227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v1" unit="mm" x="-0.23230590820313068" y="-4.085852050781227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v2" unit="mm" x="-1.1488861083984432" y="-4.078619384765602" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v3" unit="mm" x="-1.1488861083984432" y="-4.078619384765602" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v4" unit="mm" x="-2.065359497070318" y="-4.062078857421852" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v5" unit="mm" x="-2.065359497070318" y="-4.062078857421852" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v6" unit="mm" x="-2.9816040039062557" y="-4.036199951171852" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v7" unit="mm" x="-2.9816040039062557" y="-4.036199951171852" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v8" unit="mm" x="0.018395996093744316" y="-3.8358520507812273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v9" unit="mm" x="0.018395996093744316" y="3.6634460449218977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v10" unit="mm" x="0.018395996093744316" y="-3.8358520507812273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v11" unit="mm" x="0.018395996093744316" y="3.6634460449218977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v12" unit="mm" x="-2.065359497070318" y="3.8896728515625227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v13" unit="mm" x="-2.9816040039062557" y="3.8637939453125227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v14" unit="mm" x="-2.065359497070318" y="3.8896728515625227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v15" unit="mm" x="-1.1488861083984432" y="3.9062133789062727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v16" unit="mm" x="-2.9816040039062557" y="3.8637939453125227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v17" unit="mm" x="-1.1488861083984432" y="3.9062133789062727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v18" unit="mm" x="-0.23230590820313068" y="3.9134460449218977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v19" unit="mm" x="-0.23230590820313068" y="3.9134460449218977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v20" unit="mm" x="-2.9782775878906307" y="3.7638488769531477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v21" unit="mm" x="-2.9782775878906307" y="3.7638488769531477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v22" unit="mm" x="-2.063040161132818" y="3.7896972656250227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v23" unit="mm" x="-2.063040161132818" y="3.7896972656250227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v24" unit="mm" x="-1.1475891113281307" y="3.8062377929687727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v25" unit="mm" x="-1.1475891113281307" y="3.8062377929687727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v26" unit="mm" x="-0.23201599121094318" y="3.8134399414062727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v27" unit="mm" x="-0.23201599121094318" y="3.8134399414062727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v28" unit="mm" x="-0.08161010742188068" y="3.6634460449218977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v29" unit="mm" x="-0.08161010742188068" y="-3.8358520507812273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v30" unit="mm" x="-0.08161010742188068" y="3.6634460449218977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v31" unit="mm" x="-0.08161010742188068" y="-3.8358520507812273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v32" unit="mm" x="-0.23201599121094318" y="-3.9858459472656023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v33" unit="mm" x="-1.1475891113281307" y="-3.9786437988281023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v34" unit="mm" x="-0.23201599121094318" y="-3.9858459472656023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v35" unit="mm" x="-1.1475891113281307" y="-3.9786437988281023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v36" unit="mm" x="-2.063040161132818" y="-3.9621032714843523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v37" unit="mm" x="-2.063040161132818" y="-3.9621032714843523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v38" unit="mm" x="-2.9782775878906307" y="-3.9362548828124773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v39" unit="mm" x="-2.9782775878906307" y="-3.9362548828124773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v40" unit="mm" x="-0.055075073242193184" y="-4.012884521484352" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v41" unit="mm" x="-0.12569274902344318" y="-3.9420532226562273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v42" unit="mm" x="-0.06398620605469318" y="-4.021337890624977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v43" unit="mm" x="-0.046591186523443184" y="-4.003973388671852" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v44" unit="mm" x="-0.038549804687505684" y="-3.9946960449218523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v45" unit="mm" x="-0.11894836425781818" y="-3.9349121093749773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v46" unit="mm" x="-0.13287963867188068" y="-3.9487670898437273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v47" unit="mm" x="-0.07330932617188068" y="-4.029364013671852" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v48" unit="mm" x="-0.030966186523443184" y="-3.9850219726562273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v49" unit="mm" x="-0.11270751953125568" y="-3.9273132324218523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v50" unit="mm" x="-0.14047851562500568" y="-3.9549926757812273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v51" unit="mm" x="-0.08301391601563068" y="-4.036901855468727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v52" unit="mm" x="-0.10697021484375568" y="-3.9193176269531023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v53" unit="mm" x="-0.023886108398443184" y="-3.9749511718749773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v54" unit="mm" x="-0.017294311523443184" y="-3.9645751953124773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v55" unit="mm" x="-0.14848937988281818" y="-3.9607299804687273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v56" unit="mm" x="-0.09306945800781818" y="-4.043951416015602" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v57" unit="mm" x="-0.10347595214844318" y="-4.050512695312477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v58" unit="mm" x="-0.10176696777344318" y="-3.9109863281249773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v59" unit="mm" x="-0.011221313476568184" y="-3.9538940429687273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v60" unit="mm" x="-0.15685119628906818" y="-3.9658874511718523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v61" unit="mm" x="-0.11417236328125568" y="-4.056555175781227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v62" unit="mm" x="-0.005697631835943184" y="-3.9429077148437273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v63" unit="mm" x="-0.09712829589844318" y="-3.9023193359374773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v64" unit="mm" x="-0.16553344726563068" y="-3.9705261230468523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v65" unit="mm" x="-0.12517395019531818" y="-4.062078857421852" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v66" unit="mm" x="-0.09306945800781818" y="-3.8933471679687273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v67" unit="mm" x="-0.0007080078125056843" y="-3.9316772460937273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v68" unit="mm" x="0.0037322998046818157" y="-3.9202331542968523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v69" unit="mm" x="-0.13641967773438068" y="-4.067022705078102" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v70" unit="mm" x="-0.17449035644531818" y="-3.9745544433593523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v71" unit="mm" x="-0.14789428710938068" y="-4.071417236328102" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v72" unit="mm" x="0.007592773437494316" y="-3.9085449218749773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v73" unit="mm" x="-0.08959045410156818" y="-3.8841613769531023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v74" unit="mm" x="-0.18370666503906818" y="-3.9780029296874773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v75" unit="mm" x="-0.15956726074219318" y="-4.075262451171852" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v76" unit="mm" x="-0.08673706054688068" y="-3.8747314453124773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v77" unit="mm" x="0.010873413085931816" y="-3.8967041015624773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v78" unit="mm" x="-0.19312133789063068" y="-3.9808410644531023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v79" unit="mm" x="-0.17142333984375568" y="-4.078497314453102" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v80" unit="mm" x="0.013574218749994316" y="-3.8847106933593523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v81" unit="mm" x="-0.08449401855469318" y="-3.8651794433593523" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v82" unit="mm" x="0.015679931640619316" y="-3.8725952148437273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v83" unit="mm" x="-0.20270385742188068" y="-3.9830383300781023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v84" unit="mm" x="-0.18343200683594318" y="-4.081182861328102" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v85" unit="mm" x="-0.19554748535156818" y="-4.083227539062477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v86" unit="mm" x="-0.08289184570313068" y="-3.8554748535156023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v87" unit="mm" x="0.017190551757806816" y="-3.8603881835937273" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v88" unit="mm" x="-0.21240844726563068" y="-3.9846252441406023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v89" unit="mm" x="-0.20775451660156818" y="-4.084722900390602" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v90" unit="mm" x="-0.08193054199219318" y="-3.8456787109374773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v91" unit="mm" x="0.018090820312494316" y="-3.8481506347656023" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v92" unit="mm" x="-0.22218933105469318" y="-3.9855712890624773" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v93" unit="mm" x="-0.22000732421875568" y="-4.085577392578102" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v94" unit="mm" x="0.018090820312494316" y="3.6757446289062727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v95" unit="mm" x="0.017190551757806816" y="3.6879821777343977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v96" unit="mm" x="-0.08193054199219318" y="3.6732727050781477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v97" unit="mm" x="0.015679931640619316" y="3.7001892089843977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v98" unit="mm" x="-0.08289184570313068" y="3.6830688476562727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v99" unit="mm" x="-0.08449401855469318" y="3.6927734375000227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v100" unit="mm" x="0.013574218749994316" y="3.7123046875000227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v101" unit="mm" x="0.010873413085931816" y="3.7242980957031477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v102" unit="mm" x="0.007592773437494316" y="3.7361389160156477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v103" unit="mm" x="-0.08673706054688068" y="3.7023254394531477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v104" unit="mm" x="0.0037322998046818157" y="3.7478271484375227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v105" unit="mm" x="-0.08959045410156818" y="3.7117553710937727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v106" unit="mm" x="-0.0007080078125056843" y="3.7592712402343977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v107" unit="mm" x="-0.09306945800781818" y="3.7209411621093977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v108" unit="mm" x="-0.005697631835943184" y="3.7705017089843977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v109" unit="mm" x="-0.011221313476568184" y="3.7814880371093977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v110" unit="mm" x="-0.09712829589844318" y="3.7299133300781477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v111" unit="mm" x="-0.017294311523443184" y="3.7921691894531477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v112" unit="mm" x="-0.10176696777344318" y="3.7385803222656477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v113" unit="mm" x="-0.023886108398443184" y="3.8025451660156477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v114" unit="mm" x="-0.10697021484375568" y="3.7469116210937727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v115" unit="mm" x="-0.030966186523443184" y="3.8126159667968977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v116" unit="mm" x="-0.11270751953125568" y="3.7549072265625227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v117" unit="mm" x="-0.038549804687505684" y="3.8222900390625227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v118" unit="mm" x="-0.046591186523443184" y="3.8315673828125227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v119" unit="mm" x="-0.11894836425781818" y="3.7625061035156477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v120" unit="mm" x="-0.12569274902344318" y="3.7696472167968977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v121" unit="mm" x="-0.055075073242193184" y="3.8404785156250227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v122" unit="mm" x="-0.06398620605469318" y="3.8489318847656477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v123" unit="mm" x="-0.13287963867188068" y="3.7763610839843977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v124" unit="mm" x="-0.07330932617188068" y="3.8569580078125227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v125" unit="mm" x="-0.14047851562500568" y="3.7825866699218977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v126" unit="mm" x="-0.08301391601563068" y="3.8644958496093977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v127" unit="mm" x="-0.14848937988281818" y="3.7883239746093977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v128" unit="mm" x="-0.09306945800781818" y="3.8715454101562727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v129" unit="mm" x="-0.10347595214844318" y="3.8781066894531477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v130" unit="mm" x="-0.15685119628906818" y="3.7934814453125227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v131" unit="mm" x="-0.11417236328125568" y="3.8841491699218977" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v132" unit="mm" x="-0.16553344726563068" y="3.7981201171875227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v133" unit="mm" x="-0.12517395019531818" y="3.8896728515625227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v134" unit="mm" x="-0.17449035644531818" y="3.8021484375000227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v135" unit="mm" x="-0.13641967773438068" y="3.8946166992187727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v136" unit="mm" x="-0.14789428710938068" y="3.8990112304687727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v137" unit="mm" x="-0.18370666503906818" y="3.8055969238281477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v138" unit="mm" x="-0.15956726074219318" y="3.9028564453125227" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v139" unit="mm" x="-0.19312133789063068" y="3.8084350585937727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v140" unit="mm" x="-0.17142333984375568" y="3.9060913085937727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v141" unit="mm" x="-0.20270385742188068" y="3.8106323242187727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v142" unit="mm" x="-0.18343200683594318" y="3.9087768554687727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v143" unit="mm" x="-0.19554748535156818" y="3.9108215332031477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v144" unit="mm" x="-0.21240844726563068" y="3.8122192382812727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v145" unit="mm" x="-0.20775451660156818" y="3.9123168945312727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v146" unit="mm" x="-0.22218933105469318" y="3.8131652832031477" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v147" unit="mm" x="-0.22000732421875568" y="3.9131713867187727" z="262.7746948242187"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v148" unit="mm" x="-0.12569274902344318" y="-3.9420532226562273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v149" unit="mm" x="-0.046591186523443184" y="-4.003973388671852" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v150" unit="mm" x="-0.055075073242193184" y="-4.012884521484352" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v151" unit="mm" x="-0.06398620605469318" y="-4.021337890624977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v152" unit="mm" x="-0.11894836425781818" y="-3.9349121093749773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v153" unit="mm" x="-0.038549804687505684" y="-3.9946960449218523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v154" unit="mm" x="-0.13287963867188068" y="-3.9487670898437273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v155" unit="mm" x="-0.07330932617188068" y="-4.029364013671852" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v156" unit="mm" x="-0.11270751953125568" y="-3.9273132324218523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v157" unit="mm" x="-0.030966186523443184" y="-3.9850219726562273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v158" unit="mm" x="-0.14047851562500568" y="-3.9549926757812273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v159" unit="mm" x="-0.08301391601563068" y="-4.036901855468727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v160" unit="mm" x="-0.10697021484375568" y="-3.9193176269531023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v161" unit="mm" x="-0.017294311523443184" y="-3.9645751953124773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v162" unit="mm" x="-0.023886108398443184" y="-3.9749511718749773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v163" unit="mm" x="-0.14848937988281818" y="-3.9607299804687273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v164" unit="mm" x="-0.09306945800781818" y="-4.043951416015602" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v165" unit="mm" x="-0.10347595214844318" y="-4.050512695312477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v166" unit="mm" x="-0.10176696777344318" y="-3.9109863281249773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v167" unit="mm" x="-0.011221313476568184" y="-3.9538940429687273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v168" unit="mm" x="-0.15685119628906818" y="-3.9658874511718523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v169" unit="mm" x="-0.11417236328125568" y="-4.056555175781227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v170" unit="mm" x="-0.09712829589844318" y="-3.9023193359374773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v171" unit="mm" x="-0.005697631835943184" y="-3.9429077148437273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v172" unit="mm" x="-0.16553344726563068" y="-3.9705261230468523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v173" unit="mm" x="-0.12517395019531818" y="-4.062078857421852" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v174" unit="mm" x="-0.09306945800781818" y="-3.8933471679687273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v175" unit="mm" x="0.0037322998046818157" y="-3.9202331542968523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v176" unit="mm" x="-0.0007080078125056843" y="-3.9316772460937273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v177" unit="mm" x="-0.17449035644531818" y="-3.9745544433593523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v178" unit="mm" x="-0.13641967773438068" y="-4.067022705078102" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v179" unit="mm" x="-0.14789428710938068" y="-4.071417236328102" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v180" unit="mm" x="-0.08959045410156818" y="-3.8841613769531023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v181" unit="mm" x="0.007592773437494316" y="-3.9085449218749773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v182" unit="mm" x="-0.18370666503906818" y="-3.9780029296874773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v183" unit="mm" x="-0.15956726074219318" y="-4.075262451171852" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v184" unit="mm" x="-0.08673706054688068" y="-3.8747314453124773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v185" unit="mm" x="0.010873413085931816" y="-3.8967041015624773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v186" unit="mm" x="-0.19312133789063068" y="-3.9808410644531023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v187" unit="mm" x="-0.17142333984375568" y="-4.078497314453102" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v188" unit="mm" x="-0.08449401855469318" y="-3.8651794433593523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v189" unit="mm" x="0.015679931640619316" y="-3.8725952148437273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v190" unit="mm" x="0.013574218749994316" y="-3.8847106933593523" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v191" unit="mm" x="-0.20270385742188068" y="-3.9830383300781023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v192" unit="mm" x="-0.18343200683594318" y="-4.081182861328102" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v193" unit="mm" x="-0.19554748535156818" y="-4.083227539062477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v194" unit="mm" x="-0.08289184570313068" y="-3.8554748535156023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v195" unit="mm" x="0.017190551757806816" y="-3.8603881835937273" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v196" unit="mm" x="-0.21240844726563068" y="-3.9846252441406023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v197" unit="mm" x="-0.20775451660156818" y="-4.084722900390602" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v198" unit="mm" x="-0.08193054199219318" y="-3.8456787109374773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v199" unit="mm" x="0.018090820312494316" y="-3.8481506347656023" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v200" unit="mm" x="-0.22218933105469318" y="-3.9855712890624773" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v201" unit="mm" x="-0.22000732421875568" y="-4.085577392578102" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v202" unit="mm" x="0.018090820312494316" y="3.6757446289062727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v203" unit="mm" x="-0.08193054199219318" y="3.6732727050781477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v204" unit="mm" x="0.017190551757806816" y="3.6879821777343977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v205" unit="mm" x="-0.08289184570313068" y="3.6830688476562727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v206" unit="mm" x="0.015679931640619316" y="3.7001892089843977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v207" unit="mm" x="-0.08449401855469318" y="3.6927734375000227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v208" unit="mm" x="0.010873413085931816" y="3.7242980957031477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v209" unit="mm" x="0.013574218749994316" y="3.7123046875000227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v210" unit="mm" x="-0.08673706054688068" y="3.7023254394531477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v211" unit="mm" x="0.007592773437494316" y="3.7361389160156477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v212" unit="mm" x="-0.08959045410156818" y="3.7117553710937727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v213" unit="mm" x="0.0037322998046818157" y="3.7478271484375227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v214" unit="mm" x="-0.09306945800781818" y="3.7209411621093977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v215" unit="mm" x="-0.005697631835943184" y="3.7705017089843977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v216" unit="mm" x="-0.0007080078125056843" y="3.7592712402343977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v217" unit="mm" x="-0.09712829589844318" y="3.7299133300781477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v218" unit="mm" x="-0.011221313476568184" y="3.7814880371093977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v219" unit="mm" x="-0.10176696777344318" y="3.7385803222656477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v220" unit="mm" x="-0.017294311523443184" y="3.7921691894531477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v221" unit="mm" x="-0.10697021484375568" y="3.7469116210937727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v222" unit="mm" x="-0.030966186523443184" y="3.8126159667968977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v223" unit="mm" x="-0.023886108398443184" y="3.8025451660156477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v224" unit="mm" x="-0.11270751953125568" y="3.7549072265625227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v225" unit="mm" x="-0.038549804687505684" y="3.8222900390625227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v226" unit="mm" x="-0.11894836425781818" y="3.7625061035156477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v227" unit="mm" x="-0.046591186523443184" y="3.8315673828125227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v228" unit="mm" x="-0.12569274902344318" y="3.7696472167968977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v229" unit="mm" x="-0.055075073242193184" y="3.8404785156250227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v230" unit="mm" x="-0.06398620605469318" y="3.8489318847656477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v231" unit="mm" x="-0.13287963867188068" y="3.7763610839843977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v232" unit="mm" x="-0.07330932617188068" y="3.8569580078125227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v233" unit="mm" x="-0.14047851562500568" y="3.7825866699218977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v234" unit="mm" x="-0.08301391601563068" y="3.8644958496093977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v235" unit="mm" x="-0.14848937988281818" y="3.7883239746093977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v236" unit="mm" x="-0.09306945800781818" y="3.8715454101562727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v237" unit="mm" x="-0.10347595214844318" y="3.8781066894531477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v238" unit="mm" x="-0.15685119628906818" y="3.7934814453125227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v239" unit="mm" x="-0.11417236328125568" y="3.8841491699218977" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v240" unit="mm" x="-0.16553344726563068" y="3.7981201171875227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v241" unit="mm" x="-0.12517395019531818" y="3.8896728515625227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v242" unit="mm" x="-0.17449035644531818" y="3.8021484375000227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v243" unit="mm" x="-0.13641967773438068" y="3.8946166992187727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v244" unit="mm" x="-0.14789428710938068" y="3.8990112304687727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v245" unit="mm" x="-0.18370666503906818" y="3.8055969238281477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v246" unit="mm" x="-0.15956726074219318" y="3.9028564453125227" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v247" unit="mm" x="-0.19312133789063068" y="3.8084350585937727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v248" unit="mm" x="-0.17142333984375568" y="3.9060913085937727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v249" unit="mm" x="-0.20270385742188068" y="3.8106323242187727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v250" unit="mm" x="-0.18343200683594318" y="3.9087768554687727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v251" unit="mm" x="-0.19554748535156818" y="3.9108215332031477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v252" unit="mm" x="-0.21240844726563068" y="3.8122192382812727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v253" unit="mm" x="-0.20775451660156818" y="3.9123168945312727" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v254" unit="mm" x="-0.22218933105469318" y="3.8131652832031477" z="-262.4752899169922"/>
+        <position name="Carbon_Compsite_Central_Spar_L3_ASCII_v255" unit="mm" x="-0.22000732421875568" y="3.9131713867187727" z="-262.4752899169922"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Carbon_Compsite_Central_Spar_L3_ASCII-SOL">
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v0" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v1" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v2"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v3" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v2" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v4"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v3" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v0" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v2"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v5" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v3" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v4"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v6" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v4" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v7"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v6" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v5" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v4"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v8" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v9" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v10"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v8" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v11" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v9"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v12" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v13" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v14"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v12" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v14" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v15"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v12" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v16" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v13"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v17" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v12" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v15"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v18" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v15" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v19"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v18" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v17" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v15"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v13" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v16" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v20"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v16" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v21" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v20"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v21" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v22" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v20"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v20" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v22" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v23"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v23" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v24" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v25"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v22" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v24" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v23"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v25" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v26" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v27"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v24" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v26" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v25"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v28" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v29" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v30"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v30" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v29" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v31"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v32" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v33" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v34"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v34" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v33" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v35"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v35" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v36" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v37"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v37" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v36" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v38"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v33" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v36" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v35"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v36" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v39" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v38"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v38" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v39" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v7"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v39" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v6" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v7"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v40" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v41" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v42"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v43" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v41" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v40"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v44" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v45" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v43"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v43" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v45" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v41"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v42" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v46" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v47"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v41" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v46" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v42"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v48" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v49" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v44"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v44" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v49" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v45"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v47" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v50" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v51"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v46" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v50" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v47"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v48" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v52" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v49"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v53" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v52" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v48"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v54" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v52" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v53"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v50" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v55" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v51"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v56" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v55" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v57"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v51" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v55" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v56"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v54" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v58" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v52"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v59" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v58" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v54"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v57" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v60" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v61"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v55" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v60" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v57"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v62" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v63" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v59"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v59" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v63" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v58"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v61" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v64" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v65"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v60" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v64" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v61"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v62" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v66" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v63"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v67" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v66" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v62"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v68" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v66" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v67"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v69" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v70" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v71"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v65" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v70" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v69"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v64" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v70" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v65"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v72" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v73" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v68"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v68" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v73" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v66"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v70" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v74" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v71"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v71" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v74" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v75"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v72" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v76" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v73"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v77" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v76" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v72"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v74" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v78" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v75"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v75" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v78" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v79"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v80" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v81" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v77"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v82" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v81" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v80"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v77" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v81" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v76"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v78" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v83" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v79"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v84" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v83" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v85"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v79" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v83" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v84"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v82" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v86" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v81"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v87" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v86" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v82"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v83" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v88" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v85"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v85" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v88" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v89"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v87" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v90" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v86"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v91" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v90" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v87"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v88" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v92" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v89"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v89" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v92" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v93"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v10" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v31" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v91"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v91" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v31" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v90"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v92" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v34" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v93"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v93" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v34" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v1"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v34" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v2" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v1"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v34" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v35" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v2"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v35" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v4" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v2"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v35" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v37" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v4"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v37" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v7" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v4"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v37" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v38" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v7"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v10" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v30" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v31"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v94" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v30" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v9"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v9" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v30" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v10"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v95" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v96" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v94"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v94" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v96" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v30"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v97" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v98" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v95"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v95" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v98" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v96"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v97" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v99" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v98"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v100" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v99" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v97"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v101" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v99" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v100"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v102" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v103" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v101"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v101" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v103" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v99"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v104" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v105" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v102"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v102" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v105" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v103"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v106" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v107" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v104"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v108" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v107" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v106"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v104" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v107" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v105"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v109" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v110" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v108"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v108" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v110" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v107"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v111" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v112" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v109"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v109" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v112" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v110"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v113" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v114" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v111"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v115" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v114" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v113"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v111" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v114" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v112"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v115" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v116" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v114"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v117" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v116" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v115"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v118" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v119" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v117"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v117" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v119" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v116"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v118" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v120" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v119"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v118" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v121" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v120"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v121" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v122" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v120"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v120" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v122" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v123"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v123" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v124" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v125"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v122" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v124" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v123"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v124" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v126" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v125"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v125" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v126" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v127"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v126" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v128" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v127"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v128" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v129" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v127"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v127" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v129" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v130"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v130" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v131" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v132"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v129" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v131" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v130"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v132" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v133" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v134"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v131" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v133" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v132"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v133" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v135" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v134"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v134" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v136" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v137"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v135" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v136" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v134"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v136" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v138" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v137"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v137" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v138" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v139"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v139" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v140" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v141"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v138" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v140" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v139"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v140" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v142" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v141"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v141" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v143" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v144"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v142" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v143" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v141"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v144" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v145" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v146"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v143" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v145" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v144"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v146" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v147" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v27"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v145" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v147" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v146"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v147" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v19" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v27"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v27" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v15" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v25"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v19" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v15" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v27"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v25" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v14" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v23"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v15" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v14" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v25"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v23" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v13" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v20"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v14" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v13" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v23"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v148" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v149" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v150"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v148" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v150" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v151"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v152" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v153" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v149"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v152" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v149" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v148"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v154" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v151" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v155"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v154" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v148" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v151"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v156" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v157" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v153"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v156" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v153" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v152"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v158" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v155" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v159"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v158" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v154" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v155"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v160" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v161" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v162"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v160" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v162" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v157"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v160" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v157" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v156"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v163" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v159" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v164"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v163" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v164" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v165"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v163" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v158" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v159"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v166" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v167" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v161"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v166" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v161" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v160"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v168" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v165" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v169"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v168" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v163" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v165"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v170" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v171" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v167"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v170" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v167" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v166"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v172" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v169" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v173"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v172" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v168" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v169"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v174" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v175" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v176"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v174" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v176" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v171"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v174" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v171" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v170"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v172" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v173"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v173" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v178"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v178" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v179"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v180" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v181" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v175"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v180" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v175" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v174"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v182" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v179" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v183"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v182" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v179"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v184" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v185" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v181"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v184" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v181" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v180"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v186" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v183" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v187"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v186" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v182" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v183"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v188" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v189" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v190"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v188" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v190" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v185"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v188" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v185" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v184"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v186" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v187"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v187" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v192"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v192" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v193"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v194" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v195" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v189"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v194" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v189" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v188"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v196" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v193"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v196" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v193" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v197"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v198" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v199" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v195"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v198" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v195" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v194"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v200" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v196" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v197"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v200" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v197" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v201"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v29" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v8" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v199"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v29" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v199" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v198"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v32" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v201" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v0"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v32" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v200" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v201"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v3" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v32" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v0"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v33" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v32" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v3"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v5" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v33" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v3"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v36" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v33" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v5"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v6" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v36" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v5"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v39" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v36" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v6"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v28" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v11" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v8"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v28" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v202" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v11"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v28" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v8" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v29"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v203" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v204" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v202"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v203" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v202" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v28"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v205" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v206" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v204"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v205" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v204" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v203"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v207" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v208" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v209"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v207" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v209" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v206"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v207" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v206" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v205"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v210" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v211" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v208"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v210" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v208" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v207"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v212" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v213" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v211"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v212" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v211" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v210"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v214" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v215" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v216"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v214" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v216" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v213"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v214" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v213" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v212"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v217" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v218" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v215"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v217" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v215" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v214"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v219" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v220" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v218"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v219" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v218" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v217"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v221" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v222" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v223"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v221" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v223" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v220"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v221" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v220" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v219"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v224" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v225" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v222"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v224" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v222" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v221"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v226" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v225" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v224"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v226" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v227" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v225"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v228" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v227" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v226"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v229" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v227" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v228"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v230" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v229" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v228"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v230" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v228" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v231"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v232" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v230" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v231"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v232" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v231" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v233"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v234" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v232" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v233"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v234" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v233" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v235"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v236" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v234" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v235"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v237" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v236" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v235"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v237" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v235" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v238"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v239" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v237" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v238"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v239" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v238" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v240"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v241" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v239" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v240"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v241" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v240" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v242"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v243" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v241" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v242"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v244" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v243" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v242"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v244" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v242" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v245"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v246" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v244" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v245"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v246" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v245" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v247"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v248" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v246" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v247"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v248" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v247" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v249"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v250" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v248" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v249"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v251" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v250" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v249"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v251" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v249" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v252"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v253" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v251" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v252"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v253" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v252" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v254"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v255" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v253" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v254"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v255" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v254" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v26"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v18" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v255" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v26"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v17" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v18" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v26"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v17" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v26" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v24"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v12" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v17" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v24"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v12" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v24" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v22"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v16" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v12" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v22"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v16" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v22" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v21"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v29" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v198" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v31"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v31" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v198" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v90"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v90" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v194" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v86"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v198" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v194" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v90"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v86" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v188" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v81"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v194" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v188" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v86"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v81" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v184" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v76"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v188" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v184" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v81"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v76" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v180" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v73"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v184" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v180" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v76"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v73" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v174" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v66"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v180" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v174" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v73"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v66" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v170" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v63"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v174" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v170" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v66"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v63" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v166" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v58"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v170" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v166" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v63"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v58" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v160" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v52"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v166" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v160" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v58"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v52" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v156" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v49"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v160" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v156" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v52"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v49" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v152" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v45"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v156" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v152" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v49"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v152" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v148" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v45"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v45" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v148" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v41"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v148" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v154" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v41"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v41" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v154" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v46"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v154" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v158" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v46"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v46" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v158" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v50"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v158" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v163" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v50"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v50" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v163" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v55"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v163" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v168" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v55"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v55" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v168" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v60"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v168" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v172" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v60"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v60" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v172" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v64"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v172" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v64"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v64" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v70"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v70" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v74"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v177" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v182" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v74"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v74" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v182" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v78"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v182" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v186" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v78"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v186" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v78"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v78" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v83"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v83" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v88"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v191" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v196" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v88"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v196" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v200" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v88"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v88" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v200" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v92"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v92" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v200" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v34"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v200" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v32" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v34"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v27" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v26" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v146"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v146" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v254" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v144"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v26" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v254" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v146"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v144" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v252" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v141"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v254" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v252" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v144"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v141" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v249" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v139"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v252" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v249" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v141"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v139" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v247" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v137"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v249" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v247" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v139"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v247" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v245" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v137"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v137" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v242" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v134"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v245" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v242" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v137"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v134" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v240" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v132"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v242" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v240" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v134"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v132" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v238" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v130"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v240" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v238" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v132"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v130" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v235" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v127"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v238" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v235" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v130"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v127" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v233" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v125"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v235" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v233" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v127"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v125" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v231" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v123"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v233" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v231" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v125"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v231" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v228" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v123"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v123" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v228" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v120"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v228" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v226" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v120"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v120" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v226" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v119"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v226" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v224" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v119"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v119" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v224" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v116"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v224" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v221" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v116"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v116" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v221" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v114"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v221" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v219" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v114"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v114" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v219" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v112"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v219" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v217" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v112"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v112" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v217" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v110"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v217" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v214" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v110"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v110" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v214" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v107"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v214" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v212" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v107"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v107" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v212" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v105"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v212" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v210" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v105"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v105" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v210" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v103"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v210" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v207" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v103"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v103" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v207" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v99"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v207" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v205" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v99"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v99" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v205" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v98"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v205" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v203" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v98"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v98" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v203" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v96"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v203" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v28" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v96"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v96" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v28" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v30"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v199" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v10" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v91"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v199" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v8" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v10"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v195" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v91" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v87"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v195" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v199" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v91"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v189" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v87" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v82"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v189" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v195" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v87"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v190" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v82" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v80"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v190" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v189" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v82"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v185" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v80" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v77"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v185" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v190" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v80"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v181" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v77" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v72"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v181" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v185" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v77"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v175" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v72" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v68"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v175" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v181" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v72"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v176" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v175" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v68"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v176" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v68" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v67"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v171" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v176" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v67"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v171" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v67" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v62"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v167" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v171" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v62"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v167" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v62" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v59"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v161" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v167" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v59"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v161" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v59" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v54"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v162" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v54" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v53"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v162" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v161" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v54"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v157" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v53" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v48"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v157" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v162" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v53"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v153" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v48" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v44"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v153" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v157" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v48"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v149" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v44" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v43"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v149" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v153" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v44"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v150" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v43" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v40"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v150" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v149" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v43"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v151" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v40" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v42"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v151" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v150" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v40"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v155" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v42" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v47"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v155" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v151" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v42"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v159" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v47" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v51"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v159" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v155" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v47"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v164" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v51" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v56"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v164" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v159" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v51"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v165" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v56" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v57"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v165" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v164" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v56"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v169" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v57" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v61"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v169" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v165" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v57"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v173" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v61" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v65"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v173" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v169" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v61"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v178" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v65" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v69"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v178" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v173" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v65"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v179" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v69" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v71"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v179" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v178" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v69"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v183" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v71" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v75"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v183" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v179" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v71"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v187" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v75" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v79"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v187" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v183" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v75"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v192" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v79" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v84"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v192" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v187" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v79"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v193" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v84" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v85"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v193" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v192" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v84"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v197" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v85" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v89"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v197" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v193" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v85"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v201" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v89" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v93"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v201" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v197" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v89"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v0" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v93" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v1"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v0" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v201" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v93"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v255" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v19" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v147"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v255" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v18" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v19"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v253" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v147" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v145"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v253" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v255" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v147"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v251" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v145" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v143"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v251" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v253" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v145"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v250" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v143" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v142"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v250" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v251" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v143"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v248" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v142" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v140"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v248" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v250" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v142"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v246" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v140" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v138"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v246" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v248" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v140"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v244" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v138" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v136"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v244" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v246" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v138"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v243" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v244" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v136"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v243" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v136" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v135"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v241" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v243" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v135"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v241" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v135" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v133"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v239" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v241" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v133"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v239" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v133" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v131"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v237" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v239" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v131"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v237" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v131" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v129"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v236" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v129" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v128"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v236" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v237" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v129"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v234" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v128" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v126"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v234" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v236" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v128"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v232" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v126" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v124"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v232" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v234" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v126"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v230" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v124" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v122"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v230" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v232" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v124"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v229" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v122" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v121"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v229" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v230" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v122"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v227" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v121" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v118"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v227" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v229" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v121"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v225" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v118" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v117"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v225" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v227" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v118"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v222" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v117" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v115"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v222" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v225" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v117"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v223" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v115" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v113"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v223" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v222" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v115"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v220" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v113" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v111"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v220" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v223" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v113"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v218" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v111" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v109"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v218" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v220" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v111"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v215" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v109" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v108"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v215" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v218" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v109"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v216" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v108" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v106"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v216" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v215" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v108"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v213" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v106" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v104"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v213" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v216" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v106"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v211" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v104" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v102"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v211" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v213" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v104"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v208" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v102" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v101"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v208" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v211" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v102"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v209" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v101" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v100"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v209" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v208" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v101"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v206" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v100" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v97"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v206" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v209" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v100"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v204" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v95" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v94"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v204" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v97" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v95"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v204" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v206" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v97"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v202" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v204" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v94"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v11" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v94" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v9"/>
+             <triangular vertex1="Carbon_Compsite_Central_Spar_L3_ASCII_v11" vertex2="Carbon_Compsite_Central_Spar_L3_ASCII_v202" vertex3="Carbon_Compsite_Central_Spar_L3_ASCII_v94"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Carbon_Compsite_Central_Spar_L3_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="Carbon_Compsite_Central_Spar_L3_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Carbon_Compsite_Central_Spar_L3_ASCII"/>
+    </setup>
+</gdml>

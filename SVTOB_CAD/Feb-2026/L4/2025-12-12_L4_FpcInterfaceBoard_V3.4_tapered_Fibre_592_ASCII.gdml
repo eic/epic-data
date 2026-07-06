@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0" unit="mm" x="-5.031497955322266" y="32.683734130859364" z="427.3407287597656"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1" unit="mm" x="-5.031497955322266" y="32.433734130859364" z="427.3407287597656"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v2" unit="mm" x="-5.031497955322266" y="32.433734130859364" z="427.1007385253906"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v3" unit="mm" x="-5.031497955322266" y="32.683734130859364" z="427.1007385253906"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4" unit="mm" x="-5.381496429443359" y="32.683734130859364" z="427.3407287597656"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v5" unit="mm" x="-5.381496429443359" y="32.683734130859364" z="427.1007385253906"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v6" unit="mm" x="-5.381496429443359" y="32.433734130859364" z="427.1007385253906"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v7" unit="mm" x="-5.381496429443359" y="32.433734130859364" z="427.3407287597656"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" unit="mm" x="-5.3614959716796875" y="32.433734130859364" z="427.3607177734375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v9" unit="mm" x="-5.375640869140625" y="32.433734130859364" z="427.3548583984375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v10" unit="mm" x="-5.379974365234375" y="32.433734130859364" z="427.348388671875"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v11" unit="mm" x="-5.369152069091797" y="32.433734130859364" z="427.35919189453125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" unit="mm" x="-5.3614959716796875" y="32.433734130859364" z="427.0807189941406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v13" unit="mm" x="-5.375640869140625" y="32.433734130859364" z="427.0865783691406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v14" unit="mm" x="-5.369152069091797" y="32.433734130859364" z="427.0822448730469"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v15" unit="mm" x="-5.379974365234375" y="32.433734130859364" z="427.09307861328125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v16" unit="mm" x="-5.043842315673828" y="32.433734130859364" z="427.35919189453125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v17" unit="mm" x="-5.0514984130859375" y="32.433734130859364" z="427.3607177734375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v18" unit="mm" x="-5.037353515625" y="32.433734130859364" z="427.3548583984375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v19" unit="mm" x="-5.03302001953125" y="32.433734130859364" z="427.348388671875"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20" unit="mm" x="-5.0514984130859375" y="32.433734130859364" z="427.0807189941406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v21" unit="mm" x="-5.03302001953125" y="32.433734130859364" z="427.09307861328125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v22" unit="mm" x="-5.037353515625" y="32.433734130859364" z="427.0865783691406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v23" unit="mm" x="-5.043842315673828" y="32.433734130859364" z="427.0822448730469"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v24" unit="mm" x="-5.03302001953125" y="32.683734130859364" z="427.09307861328125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v25" unit="mm" x="-5.037353515625" y="32.683734130859364" z="427.0865783691406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v26" unit="mm" x="-5.043842315673828" y="32.683734130859364" z="427.0822448730469"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" unit="mm" x="-5.0514984130859375" y="32.683734130859364" z="427.0807189941406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v28" unit="mm" x="-5.043842315673828" y="32.683734130859364" z="427.35919189453125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" unit="mm" x="-5.0514984130859375" y="32.683734130859364" z="427.3607177734375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v30" unit="mm" x="-5.037353515625" y="32.683734130859364" z="427.3548583984375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v31" unit="mm" x="-5.03302001953125" y="32.683734130859364" z="427.348388671875"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32" unit="mm" x="-5.3614959716796875" y="32.683734130859364" z="427.3607177734375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v33" unit="mm" x="-5.369152069091797" y="32.683734130859364" z="427.35919189453125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v34" unit="mm" x="-5.375640869140625" y="32.683734130859364" z="427.3548583984375"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v35" unit="mm" x="-5.379974365234375" y="32.683734130859364" z="427.348388671875"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36" unit="mm" x="-5.3614959716796875" y="32.683734130859364" z="427.0807189941406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v37" unit="mm" x="-5.379974365234375" y="32.683734130859364" z="427.09307861328125"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v38" unit="mm" x="-5.375640869140625" y="32.683734130859364" z="427.0865783691406"/>
+        <position name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v39" unit="mm" x="-5.369152069091797" y="32.683734130859364" z="427.0822448730469"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII-SOL">
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v2"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v2" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v3"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v5" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v6"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v6" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v7"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v9" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v10"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v11" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v9"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v7" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v10"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v13" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v14"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v15" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v13"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v6" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v15"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v7" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v6"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v7"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v16" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v17"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v18" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v16"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v19" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v18"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v2" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v17" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v17"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v21" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v2" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v22" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v23"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v22" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v21" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v24" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v3" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v2"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v24" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v2" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v21"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v25" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v21" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v22"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v25" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v24" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v21"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v26" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v22" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v23"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v26" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v25" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v22"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v23" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v26" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v23"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v28" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v17"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v28" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v17" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v16"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v30" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v16" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v18"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v30" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v28" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v16"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v31" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v18" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v19"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v31" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v30" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v18"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v19" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v1"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v31" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v19"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v17" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v11" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v8" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v11" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v33"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v9" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v33" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v34"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v9" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v11" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v33"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v10" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v34" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v35"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v10" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v9" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v34"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v7" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v35" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v7" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v10" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v35"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v34" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v33"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v35" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v34"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v34" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v37" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v5"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v38" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v37"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v39" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v38"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v5" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v4" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v30" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v28"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v30" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v31"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v30"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v3" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v0"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v32"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v29" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v3"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v25" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v26" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v25" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v3" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v24"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v25" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v3"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v27" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v20" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v15" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v6" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v5"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v15" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v5" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v37"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v13" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v37" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v38"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v13" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v15" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v37"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v14" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v38" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v39"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v14" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v13" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v38"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v39" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v36"/>
+             <triangular vertex1="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v12" vertex2="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v14" vertex3="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII_v39"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="2025-12-12_L4_FpcInterfaceBoard_V3.4_tapered_Fibre_592_ASCII"/>
+    </setup>
+</gdml>

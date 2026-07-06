@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="MTP_Brace003_ASCII_v0" unit="mm" x="15.96432113647461" y="75.52330322265624" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v1" unit="mm" x="15.968265533447266" y="69.52330322265624" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v2" unit="mm" x="14.964324951171875" y="75.52266235351561" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v3" unit="mm" x="14.968269348144531" y="69.52266235351561" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v4" unit="mm" x="-16.031726837158203" y="69.50227661132811" z="435.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v5" unit="mm" x="-16.03333854675293" y="71.95225830078124" z="436.03204345703125"/>
+        <position name="MTP_Brace003_ASCII_v6" unit="mm" x="-16.031726837158203" y="69.50227661132811" z="432.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v7" unit="mm" x="-16.02800750732422" y="63.845416259765614" z="441.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v8" unit="mm" x="-16.028921127319336" y="65.23475952148436" z="442.74957275390625"/>
+        <position name="MTP_Brace003_ASCII_v9" unit="mm" x="-16.035673141479492" y="75.50227661132811" z="432.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v10" unit="mm" x="-16.034778594970703" y="74.14430541992186" z="438.2240905761719"/>
+        <position name="MTP_Brace003_ASCII_v11" unit="mm" x="-16.03036117553711" y="67.42677612304686" z="444.94158935546875"/>
+        <position name="MTP_Brace003_ASCII_v12" unit="mm" x="-16.035673141479492" y="75.50227661132811" z="441.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v13" unit="mm" x="-16.031951904296875" y="69.84541625976561" z="447.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v14" unit="mm" x="15.966655731201172" y="71.97331542968749" z="436.03204345703125"/>
+        <position name="MTP_Brace003_ASCII_v15" unit="mm" x="15.968265533447266" y="69.52330322265624" z="435.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v16" unit="mm" x="15.968265533447266" y="69.52330322265624" z="432.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v17" unit="mm" x="15.971073150634766" y="65.25581665039061" z="442.74957275390625"/>
+        <position name="MTP_Brace003_ASCII_v18" unit="mm" x="15.97198486328125" y="63.866473388671864" z="441.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v19" unit="mm" x="15.96432113647461" y="75.52330322265624" z="432.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v20" unit="mm" x="15.965213775634766" y="74.16533203124999" z="438.2240905761719"/>
+        <position name="MTP_Brace003_ASCII_v21" unit="mm" x="15.96432113647461" y="75.52330322265624" z="441.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v22" unit="mm" x="15.96963119506836" y="67.44783325195311" z="444.94158935546875"/>
+        <position name="MTP_Brace003_ASCII_v23" unit="mm" x="15.968040466308594" y="69.86647338867186" z="447.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v24" unit="mm" x="-2.8317298889160156" y="69.51094360351561" z="435.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v25" unit="mm" x="-2.8326416015625" y="70.90028686523436" z="437.09271240234375"/>
+        <position name="MTP_Brace003_ASCII_v26" unit="mm" x="-12.031726837158203" y="69.50490112304686" z="435.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v27" unit="mm" x="-12.03264045715332" y="70.89424438476561" z="437.09271240234375"/>
+        <position name="MTP_Brace003_ASCII_v28" unit="mm" x="11.968265533447266" y="69.52067871093749" z="435.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v29" unit="mm" x="11.967353820800781" y="70.91002197265624" z="437.09271240234375"/>
+        <position name="MTP_Brace003_ASCII_v30" unit="mm" x="2.768268585205078" y="69.51463623046874" z="435.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v31" unit="mm" x="2.7673568725585938" y="70.90397949218749" z="437.09271240234375"/>
+        <position name="MTP_Brace003_ASCII_v32" unit="mm" x="-20.03567123413086" y="75.49965209960936" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v33" unit="mm" x="-16.035673141479492" y="75.50227661132811" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v34" unit="mm" x="-20.03567123413086" y="75.49965209960936" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v35" unit="mm" x="-16.035673141479492" y="75.50227661132811" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v36" unit="mm" x="-17.03567123413086" y="75.50160522460936" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v37" unit="mm" x="-16.986604690551758" y="75.50163574218749" z="431.4892578125"/>
+        <position name="MTP_Brace003_ASCII_v38" unit="mm" x="-16.937654495239258" y="75.50166625976561" z="431.49285888671875"/>
+        <position name="MTP_Brace003_ASCII_v39" unit="mm" x="-16.888940811157227" y="75.50169677734374" z="431.4988708496094"/>
+        <position name="MTP_Brace003_ASCII_v40" unit="mm" x="-16.8405818939209" y="75.50172729492186" z="431.50726318359375"/>
+        <position name="MTP_Brace003_ASCII_v41" unit="mm" x="-16.792692184448242" y="75.50175781249999" z="431.51800537109375"/>
+        <position name="MTP_Brace003_ASCII_v42" unit="mm" x="-16.74538803100586" y="75.50181884765624" z="431.5310974121094"/>
+        <position name="MTP_Brace003_ASCII_v43" unit="mm" x="-16.698781967163086" y="75.50184936523436" z="431.5465087890625"/>
+        <position name="MTP_Brace003_ASCII_v44" unit="mm" x="-16.65298843383789" y="75.50184936523436" z="431.5641784667969"/>
+        <position name="MTP_Brace003_ASCII_v45" unit="mm" x="-16.608116149902344" y="75.50187988281249" z="431.58404541015625"/>
+        <position name="MTP_Brace003_ASCII_v46" unit="mm" x="-16.56427574157715" y="75.50191040039061" z="431.60614013671875"/>
+        <position name="MTP_Brace003_ASCII_v47" unit="mm" x="-16.521570205688477" y="75.50194091796874" z="431.63031005859375"/>
+        <position name="MTP_Brace003_ASCII_v48" unit="mm" x="-16.4801025390625" y="75.50197143554686" z="431.6565856933594"/>
+        <position name="MTP_Brace003_ASCII_v49" unit="mm" x="-16.439971923828125" y="75.50200195312499" z="431.6848449707031"/>
+        <position name="MTP_Brace003_ASCII_v50" unit="mm" x="-15.035675048828125" y="75.50291748046874" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v51" unit="mm" x="-16.40127944946289" y="75.50203247070311" z="431.71502685546875"/>
+        <position name="MTP_Brace003_ASCII_v52" unit="mm" x="-16.364112854003906" y="75.50206298828124" z="431.7471008300781"/>
+        <position name="MTP_Brace003_ASCII_v53" unit="mm" x="-16.32856559753418" y="75.50206298828124" z="431.78094482421875"/>
+        <position name="MTP_Brace003_ASCII_v54" unit="mm" x="-16.294721603393555" y="75.50209350585936" z="431.8164978027344"/>
+        <position name="MTP_Brace003_ASCII_v55" unit="mm" x="-16.26266098022461" y="75.50212402343749" z="431.8536682128906"/>
+        <position name="MTP_Brace003_ASCII_v56" unit="mm" x="-16.232463836669922" y="75.50215454101561" z="431.892333984375"/>
+        <position name="MTP_Brace003_ASCII_v57" unit="mm" x="-16.20420265197754" y="75.50215454101561" z="431.9324645996094"/>
+        <position name="MTP_Brace003_ASCII_v58" unit="mm" x="-16.17794418334961" y="75.50218505859374" z="431.97393798828125"/>
+        <position name="MTP_Brace003_ASCII_v59" unit="mm" x="-16.153751373291016" y="75.50218505859374" z="432.01666259765625"/>
+        <position name="MTP_Brace003_ASCII_v60" unit="mm" x="-16.131683349609375" y="75.50221557617186" z="432.06048583984375"/>
+        <position name="MTP_Brace003_ASCII_v61" unit="mm" x="-16.111793518066406" y="75.50221557617186" z="432.1053771972656"/>
+        <position name="MTP_Brace003_ASCII_v62" unit="mm" x="-16.094127655029297" y="75.50224609374999" z="432.1511535644531"/>
+        <position name="MTP_Brace003_ASCII_v63" unit="mm" x="-16.078731536865234" y="75.50224609374999" z="432.19775390625"/>
+        <position name="MTP_Brace003_ASCII_v64" unit="mm" x="-16.065641403198242" y="75.50224609374999" z="432.24505615234375"/>
+        <position name="MTP_Brace003_ASCII_v65" unit="mm" x="-16.054887771606445" y="75.50224609374999" z="432.29296875"/>
+        <position name="MTP_Brace003_ASCII_v66" unit="mm" x="-16.04649543762207" y="75.50227661132811" z="432.34130859375"/>
+        <position name="MTP_Brace003_ASCII_v67" unit="mm" x="-16.04048728942871" y="75.50227661132811" z="432.3900451660156"/>
+        <position name="MTP_Brace003_ASCII_v68" unit="mm" x="-16.036876678466797" y="75.50227661132811" z="432.4389953613281"/>
+        <position name="MTP_Brace003_ASCII_v69" unit="mm" x="-15.030553817749023" y="75.50291748046874" z="436.7760925292969"/>
+        <position name="MTP_Brace003_ASCII_v70" unit="mm" x="-14.576986312866211" y="75.50322265624999" z="437.95947265625"/>
+        <position name="MTP_Brace003_ASCII_v71" unit="mm" x="-14.548124313354492" y="75.50325317382811" z="437.9851379394531"/>
+        <position name="MTP_Brace003_ASCII_v72" unit="mm" x="-14.605310440063477" y="75.50322265624999" z="437.9323425292969"/>
+        <position name="MTP_Brace003_ASCII_v73" unit="mm" x="-14.63304328918457" y="75.50319213867186" z="437.90374755859375"/>
+        <position name="MTP_Brace003_ASCII_v74" unit="mm" x="-14.660131454467773" y="75.50316162109374" z="437.873779296875"/>
+        <position name="MTP_Brace003_ASCII_v75" unit="mm" x="-14.686519622802734" y="75.50316162109374" z="437.8424377441406"/>
+        <position name="MTP_Brace003_ASCII_v76" unit="mm" x="-14.712160110473633" y="75.50313110351561" z="437.8097839355469"/>
+        <position name="MTP_Brace003_ASCII_v77" unit="mm" x="-14.737003326416016" y="75.50313110351561" z="437.7759094238281"/>
+        <position name="MTP_Brace003_ASCII_v78" unit="mm" x="-14.761005401611328" y="75.50310058593749" z="437.7408142089844"/>
+        <position name="MTP_Brace003_ASCII_v79" unit="mm" x="-14.784124374389648" y="75.50310058593749" z="437.70458984375"/>
+        <position name="MTP_Brace003_ASCII_v80" unit="mm" x="-14.80632209777832" y="75.50307006835936" z="437.6673278808594"/>
+        <position name="MTP_Brace003_ASCII_v81" unit="mm" x="-14.827560424804688" y="75.50307006835936" z="437.6290588378906"/>
+        <position name="MTP_Brace003_ASCII_v82" unit="mm" x="-14.847808837890625" y="75.50303955078124" z="437.5898742675781"/>
+        <position name="MTP_Brace003_ASCII_v83" unit="mm" x="-14.867040634155273" y="75.50303955078124" z="437.54986572265625"/>
+        <position name="MTP_Brace003_ASCII_v84" unit="mm" x="-14.885231018066406" y="75.50303955078124" z="437.5090637207031"/>
+        <position name="MTP_Brace003_ASCII_v85" unit="mm" x="-14.907831192016602" y="75.50300903320311" z="437.4536437988281"/>
+        <position name="MTP_Brace003_ASCII_v86" unit="mm" x="-14.93095588684082" y="75.50300903320311" z="437.3901062011719"/>
+        <position name="MTP_Brace003_ASCII_v87" unit="mm" x="-14.951614379882812" y="75.50297851562499" z="437.3255615234375"/>
+        <position name="MTP_Brace003_ASCII_v88" unit="mm" x="-14.969795227050781" y="75.50297851562499" z="437.26025390625"/>
+        <position name="MTP_Brace003_ASCII_v89" unit="mm" x="-14.985502243041992" y="75.50294799804686" z="437.1944885253906"/>
+        <position name="MTP_Brace003_ASCII_v90" unit="mm" x="-14.99876594543457" y="75.50294799804686" z="437.1285400390625"/>
+        <position name="MTP_Brace003_ASCII_v91" unit="mm" x="-15.009622573852539" y="75.50294799804686" z="437.0626220703125"/>
+        <position name="MTP_Brace003_ASCII_v92" unit="mm" x="-14.51878547668457" y="75.50325317382811" z="438.0093078613281"/>
+        <position name="MTP_Brace003_ASCII_v93" unit="mm" x="-13.835672378540039" y="75.50371093749999" z="439.5820617675781"/>
+        <position name="MTP_Brace003_ASCII_v94" unit="mm" x="-14.489023208618164" y="75.50328369140624" z="438.0319519042969"/>
+        <position name="MTP_Brace003_ASCII_v95" unit="mm" x="-14.059263229370117" y="75.50355834960936" z="438.1890563964844"/>
+        <position name="MTP_Brace003_ASCII_v96" unit="mm" x="-14.029624938964844" y="75.50358886718749" z="438.18963623046875"/>
+        <position name="MTP_Brace003_ASCII_v97" unit="mm" x="-14.089227676391602" y="75.50355834960936" z="438.1871643066406"/>
+        <position name="MTP_Brace003_ASCII_v98" unit="mm" x="-14.119482040405273" y="75.50352783203124" z="438.1839904785156"/>
+        <position name="MTP_Brace003_ASCII_v99" unit="mm" x="-14.149991989135742" y="75.50349731445311" z="438.179443359375"/>
+        <position name="MTP_Brace003_ASCII_v100" unit="mm" x="-14.180713653564453" y="75.50349731445311" z="438.17352294921875"/>
+        <position name="MTP_Brace003_ASCII_v101" unit="mm" x="-14.211603164672852" y="75.50346679687499" z="438.1661682128906"/>
+        <position name="MTP_Brace003_ASCII_v102" unit="mm" x="-14.242616653442383" y="75.50343627929686" z="438.1573486328125"/>
+        <position name="MTP_Brace003_ASCII_v103" unit="mm" x="-14.273704528808594" y="75.50343627929686" z="438.14703369140625"/>
+        <position name="MTP_Brace003_ASCII_v104" unit="mm" x="-14.304819107055664" y="75.50340576171874" z="438.1352233886719"/>
+        <position name="MTP_Brace003_ASCII_v105" unit="mm" x="-14.335905075073242" y="75.50337524414061" z="438.12188720703125"/>
+        <position name="MTP_Brace003_ASCII_v106" unit="mm" x="-14.366912841796875" y="75.50337524414061" z="438.1070251464844"/>
+        <position name="MTP_Brace003_ASCII_v107" unit="mm" x="-14.397785186767578" y="75.50334472656249" z="438.090576171875"/>
+        <position name="MTP_Brace003_ASCII_v108" unit="mm" x="-14.428464889526367" y="75.50331420898436" z="438.0726013183594"/>
+        <position name="MTP_Brace003_ASCII_v109" unit="mm" x="-14.45889663696289" y="75.50331420898436" z="438.05303955078125"/>
+        <position name="MTP_Brace003_ASCII_v110" unit="mm" x="-13.835672378540039" y="75.50371093749999" z="441.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v111" unit="mm" x="-1.035675048828125" y="75.51213378906249" z="439.5820617675781"/>
+        <position name="MTP_Brace003_ASCII_v112" unit="mm" x="0.964324951171875" y="75.51344604492186" z="441.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v113" unit="mm" x="0.964324951171875" y="75.51344604492186" z="439.5820617675781"/>
+        <position name="MTP_Brace003_ASCII_v114" unit="mm" x="-1.035675048828125" y="75.51213378906249" z="441.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v115" unit="mm" x="19.96432113647461" y="75.52595825195311" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v116" unit="mm" x="15.96432113647461" y="75.52330322265624" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v117" unit="mm" x="16.223369598388672" y="75.52348632812499" z="431.8164978027344"/>
+        <position name="MTP_Brace003_ASCII_v118" unit="mm" x="16.257213592529297" y="75.52351684570311" z="431.78094482421875"/>
+        <position name="MTP_Brace003_ASCII_v119" unit="mm" x="16.292762756347656" y="75.52351684570311" z="431.7471008300781"/>
+        <position name="MTP_Brace003_ASCII_v120" unit="mm" x="16.32992935180664" y="75.52354736328124" z="431.71502685546875"/>
+        <position name="MTP_Brace003_ASCII_v121" unit="mm" x="16.19131088256836" y="75.52345581054686" z="431.8536682128906"/>
+        <position name="MTP_Brace003_ASCII_v122" unit="mm" x="16.161113739013672" y="75.52345581054686" z="431.892333984375"/>
+        <position name="MTP_Brace003_ASCII_v123" unit="mm" x="16.368621826171875" y="75.52357788085936" z="431.6848449707031"/>
+        <position name="MTP_Brace003_ASCII_v124" unit="mm" x="16.132850646972656" y="75.52342529296874" z="431.9324645996094"/>
+        <position name="MTP_Brace003_ASCII_v125" unit="mm" x="16.408748626708984" y="75.52360839843749" z="431.6565856933594"/>
+        <position name="MTP_Brace003_ASCII_v126" unit="mm" x="16.10659408569336" y="75.52339477539061" z="431.97393798828125"/>
+        <position name="MTP_Brace003_ASCII_v127" unit="mm" x="16.450218200683594" y="75.52363891601561" z="431.63031005859375"/>
+        <position name="MTP_Brace003_ASCII_v128" unit="mm" x="16.082401275634766" y="75.52339477539061" z="432.01666259765625"/>
+        <position name="MTP_Brace003_ASCII_v129" unit="mm" x="16.492923736572266" y="75.52366943359374" z="431.60614013671875"/>
+        <position name="MTP_Brace003_ASCII_v130" unit="mm" x="16.536766052246094" y="75.52369995117186" z="431.58404541015625"/>
+        <position name="MTP_Brace003_ASCII_v131" unit="mm" x="16.060333251953125" y="75.52336425781249" z="432.06048583984375"/>
+        <position name="MTP_Brace003_ASCII_v132" unit="mm" x="16.58163833618164" y="75.52373046874999" z="431.5641784667969"/>
+        <position name="MTP_Brace003_ASCII_v133" unit="mm" x="16.04043960571289" y="75.52336425781249" z="432.1053771972656"/>
+        <position name="MTP_Brace003_ASCII_v134" unit="mm" x="16.022777557373047" y="75.52336425781249" z="432.1511535644531"/>
+        <position name="MTP_Brace003_ASCII_v135" unit="mm" x="16.627429962158203" y="75.52376098632811" z="431.5465087890625"/>
+        <position name="MTP_Brace003_ASCII_v136" unit="mm" x="16.674034118652344" y="75.52379150390624" z="431.5310974121094"/>
+        <position name="MTP_Brace003_ASCII_v137" unit="mm" x="16.007381439208984" y="75.52333374023436" z="432.19775390625"/>
+        <position name="MTP_Brace003_ASCII_v138" unit="mm" x="16.72134017944336" y="75.52382202148436" z="431.51800537109375"/>
+        <position name="MTP_Brace003_ASCII_v139" unit="mm" x="15.99428939819336" y="75.52333374023436" z="432.24505615234375"/>
+        <position name="MTP_Brace003_ASCII_v140" unit="mm" x="16.769229888916016" y="75.52385253906249" z="431.50726318359375"/>
+        <position name="MTP_Brace003_ASCII_v141" unit="mm" x="15.983535766601562" y="75.52333374023436" z="432.29296875"/>
+        <position name="MTP_Brace003_ASCII_v142" unit="mm" x="16.817588806152344" y="75.52388305664061" z="431.4988708496094"/>
+        <position name="MTP_Brace003_ASCII_v143" unit="mm" x="15.975143432617188" y="75.52333374023436" z="432.34130859375"/>
+        <position name="MTP_Brace003_ASCII_v144" unit="mm" x="15.969135284423828" y="75.52330322265624" z="432.3900451660156"/>
+        <position name="MTP_Brace003_ASCII_v145" unit="mm" x="16.866302490234375" y="75.52391357421874" z="431.49285888671875"/>
+        <position name="MTP_Brace003_ASCII_v146" unit="mm" x="16.915252685546875" y="75.52394409179686" z="431.4892578125"/>
+        <position name="MTP_Brace003_ASCII_v147" unit="mm" x="15.965526580810547" y="75.52330322265624" z="432.4389953613281"/>
+        <position name="MTP_Brace003_ASCII_v148" unit="mm" x="16.96432113647461" y="75.52397460937499" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v149" unit="mm" x="19.96432113647461" y="75.52595825195311" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v150" unit="mm" x="14.969432830810547" y="75.52266235351561" z="436.75634765625"/>
+        <position name="MTP_Brace003_ASCII_v151" unit="mm" x="13.764320373535156" y="75.52186889648436" z="439.5820617675781"/>
+        <position name="MTP_Brace003_ASCII_v152" unit="mm" x="13.97036361694336" y="75.52199096679686" z="438.1712341308594"/>
+        <position name="MTP_Brace003_ASCII_v153" unit="mm" x="14.447078704833984" y="75.52232666015624" z="437.9997863769531"/>
+        <position name="MTP_Brace003_ASCII_v154" unit="mm" x="14.481857299804688" y="75.52232666015624" z="437.9717712402344"/>
+        <position name="MTP_Brace003_ASCII_v155" unit="mm" x="14.415298461914062" y="75.52229614257811" z="438.0231628417969"/>
+        <position name="MTP_Brace003_ASCII_v156" unit="mm" x="14.383132934570312" y="75.52226562499999" z="438.0447998046875"/>
+        <position name="MTP_Brace003_ASCII_v157" unit="mm" x="14.350654602050781" y="75.52226562499999" z="438.064697265625"/>
+        <position name="MTP_Brace003_ASCII_v158" unit="mm" x="14.317935943603516" y="75.52223510742186" z="438.0827941894531"/>
+        <position name="MTP_Brace003_ASCII_v159" unit="mm" x="14.285037994384766" y="75.52220458984374" z="438.0991516113281"/>
+        <position name="MTP_Brace003_ASCII_v160" unit="mm" x="14.252029418945312" y="75.52217407226561" z="438.11376953125"/>
+        <position name="MTP_Brace003_ASCII_v161" unit="mm" x="14.218978881835938" y="75.52217407226561" z="438.12664794921875"/>
+        <position name="MTP_Brace003_ASCII_v162" unit="mm" x="14.185943603515625" y="75.52214355468749" z="438.1378173828125"/>
+        <position name="MTP_Brace003_ASCII_v163" unit="mm" x="14.15298843383789" y="75.52211303710936" z="438.1473083496094"/>
+        <position name="MTP_Brace003_ASCII_v164" unit="mm" x="14.120166778564453" y="75.52211303710936" z="438.1551818847656"/>
+        <position name="MTP_Brace003_ASCII_v165" unit="mm" x="14.087535858154297" y="75.52208251953124" z="438.1614074707031"/>
+        <position name="MTP_Brace003_ASCII_v166" unit="mm" x="14.05514907836914" y="75.52205200195311" z="438.16607666015625"/>
+        <position name="MTP_Brace003_ASCII_v167" unit="mm" x="14.023056030273438" y="75.52205200195311" z="438.1692199707031"/>
+        <position name="MTP_Brace003_ASCII_v168" unit="mm" x="13.996578216552734" y="75.52202148437499" z="438.17071533203125"/>
+        <position name="MTP_Brace003_ASCII_v169" unit="mm" x="14.939422607421875" y="75.52263183593749" z="437.1015319824219"/>
+        <position name="MTP_Brace003_ASCII_v170" unit="mm" x="14.95290756225586" y="75.52266235351561" z="437.0137023925781"/>
+        <position name="MTP_Brace003_ASCII_v171" unit="mm" x="14.921672821044922" y="75.52263183593749" z="437.1894836425781"/>
+        <position name="MTP_Brace003_ASCII_v172" unit="mm" x="14.89956283569336" y="75.52260131835936" z="437.2769775390625"/>
+        <position name="MTP_Brace003_ASCII_v173" unit="mm" x="14.875900268554688" y="75.52260131835936" z="437.35479736328125"/>
+        <position name="MTP_Brace003_ASCII_v174" unit="mm" x="14.851558685302734" y="75.52257080078124" z="437.4237060546875"/>
+        <position name="MTP_Brace003_ASCII_v175" unit="mm" x="14.82436752319336" y="75.52257080078124" z="437.4911804199219"/>
+        <position name="MTP_Brace003_ASCII_v176" unit="mm" x="14.794395446777344" y="75.52254028320311" z="437.5568542480469"/>
+        <position name="MTP_Brace003_ASCII_v177" unit="mm" x="13.764320373535156" y="75.52186889648436" z="441.703369140625"/>
+        <position name="MTP_Brace003_ASCII_v178" unit="mm" x="14.761726379394531" y="75.52250976562499" z="437.6203918457031"/>
+        <position name="MTP_Brace003_ASCII_v179" unit="mm" x="14.726482391357422" y="75.52250976562499" z="437.6814880371094"/>
+        <position name="MTP_Brace003_ASCII_v180" unit="mm" x="14.692676544189453" y="75.52247924804686" z="437.734130859375"/>
+        <position name="MTP_Brace003_ASCII_v181" unit="mm" x="14.660667419433594" y="75.52244873046874" z="437.7794189453125"/>
+        <position name="MTP_Brace003_ASCII_v182" unit="mm" x="14.62725830078125" y="75.52244873046874" z="437.8226013183594"/>
+        <position name="MTP_Brace003_ASCII_v183" unit="mm" x="14.59255599975586" y="75.52241821289061" z="437.863525390625"/>
+        <position name="MTP_Brace003_ASCII_v184" unit="mm" x="14.55667495727539" y="75.52238769531249" z="437.902099609375"/>
+        <position name="MTP_Brace003_ASCII_v185" unit="mm" x="14.519733428955078" y="75.52235717773436" z="437.9382019042969"/>
+        <position name="MTP_Brace003_ASCII_v186" unit="mm" x="14.967708587646484" y="75.52266235351561" z="436.84063720703125"/>
+        <position name="MTP_Brace003_ASCII_v187" unit="mm" x="14.962276458740234" y="75.52266235351561" z="436.92657470703125"/>
+        <position name="MTP_Brace003_ASCII_v188" unit="mm" x="-15.030008316040039" y="75.50291748046874" z="436.8215026855469"/>
+        <position name="MTP_Brace003_ASCII_v189" unit="mm" x="-15.028404235839844" y="75.50294799804686" z="436.86749267578125"/>
+        <position name="MTP_Brace003_ASCII_v190" unit="mm" x="-15.024364471435547" y="75.50294799804686" z="436.931884765625"/>
+        <position name="MTP_Brace003_ASCII_v191" unit="mm" x="-15.018131256103516" y="75.50294799804686" z="436.99700927734375"/>
+        <position name="MTP_Brace003_ASCII_v192" unit="mm" x="0.9652175903320312" y="74.15547485351561" z="438.2240905761719"/>
+        <position name="MTP_Brace003_ASCII_v193" unit="mm" x="0.969635009765625" y="67.43797607421874" z="444.94158935546875"/>
+        <position name="MTP_Brace003_ASCII_v194" unit="mm" x="-1.0347824096679688" y="74.15416259765624" z="438.2240905761719"/>
+        <position name="MTP_Brace003_ASCII_v195" unit="mm" x="-1.030364990234375" y="67.43666381835936" z="444.94158935546875"/>
+        <position name="MTP_Brace003_ASCII_v196" unit="mm" x="-13.834779739379883" y="74.14573974609374" z="438.2240905761719"/>
+        <position name="MTP_Brace003_ASCII_v197" unit="mm" x="-13.830362319946289" y="67.42824096679686" z="444.94158935546875"/>
+        <position name="MTP_Brace003_ASCII_v198" unit="mm" x="13.765213012695312" y="74.16389770507811" z="438.2240905761719"/>
+        <position name="MTP_Brace003_ASCII_v199" unit="mm" x="13.769630432128906" y="67.44639892578124" z="444.94158935546875"/>
+        <position name="MTP_Brace003_ASCII_v200" unit="mm" x="-15.031730651855469" y="69.50291748046874" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v201" unit="mm" x="-16.031726837158203" y="69.50227661132811" z="428.988037109375"/>
+        <position name="MTP_Brace003_ASCII_v202" unit="mm" x="-12.028921127319336" y="65.23738403320311" z="442.74957275390625"/>
+        <position name="MTP_Brace003_ASCII_v203" unit="mm" x="2.771076202392578" y="65.24711914062499" z="442.74957275390625"/>
+        <position name="MTP_Brace003_ASCII_v204" unit="mm" x="-2.8289222717285156" y="65.24342651367186" z="442.74957275390625"/>
+        <position name="MTP_Brace003_ASCII_v205" unit="mm" x="11.971073150634766" y="65.25316162109374" z="442.74957275390625"/>
+        <position name="MTP_Brace003_ASCII_v206" unit="mm" x="-16.031726837158203" y="69.50227661132811" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v207" unit="mm" x="-20.03172492980957" y="69.49965209960936" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v208" unit="mm" x="-20.03172492980957" y="69.49965209960936" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v209" unit="mm" x="-17.031726837158203" y="69.50160522460936" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v210" unit="mm" x="-16.98265838623047" y="69.50163574218749" z="431.4892578125"/>
+        <position name="MTP_Brace003_ASCII_v211" unit="mm" x="-16.9337100982666" y="69.50166625976561" z="431.49285888671875"/>
+        <position name="MTP_Brace003_ASCII_v212" unit="mm" x="-16.88499641418457" y="69.50169677734374" z="431.4988708496094"/>
+        <position name="MTP_Brace003_ASCII_v213" unit="mm" x="-16.83663558959961" y="69.50172729492186" z="431.50726318359375"/>
+        <position name="MTP_Brace003_ASCII_v214" unit="mm" x="-16.788745880126953" y="69.50178833007811" z="431.51800537109375"/>
+        <position name="MTP_Brace003_ASCII_v215" unit="mm" x="-16.74144172668457" y="69.50181884765624" z="431.5310974121094"/>
+        <position name="MTP_Brace003_ASCII_v216" unit="mm" x="-16.69483757019043" y="69.50184936523436" z="431.5465087890625"/>
+        <position name="MTP_Brace003_ASCII_v217" unit="mm" x="-15.030553817749023" y="69.50291748046874" z="430.7760925292969"/>
+        <position name="MTP_Brace003_ASCII_v218" unit="mm" x="-16.517623901367188" y="69.50194091796874" z="431.63031005859375"/>
+        <position name="MTP_Brace003_ASCII_v219" unit="mm" x="-16.47615623474121" y="69.50197143554686" z="431.6565856933594"/>
+        <position name="MTP_Brace003_ASCII_v220" unit="mm" x="-16.56032943725586" y="69.50191040039061" z="431.60614013671875"/>
+        <position name="MTP_Brace003_ASCII_v221" unit="mm" x="-16.604171752929688" y="69.50191040039061" z="431.58404541015625"/>
+        <position name="MTP_Brace003_ASCII_v222" unit="mm" x="-16.6490421295166" y="69.50187988281249" z="431.5641784667969"/>
+        <position name="MTP_Brace003_ASCII_v223" unit="mm" x="-15.02872085571289" y="69.50291748046874" z="430.8603820800781"/>
+        <position name="MTP_Brace003_ASCII_v224" unit="mm" x="-16.43602752685547" y="69.50200195312499" z="431.6848449707031"/>
+        <position name="MTP_Brace003_ASCII_v225" unit="mm" x="-15.023172378540039" y="69.50294799804686" z="430.9462890625"/>
+        <position name="MTP_Brace003_ASCII_v226" unit="mm" x="-16.3973331451416" y="69.50203247070311" z="431.71502685546875"/>
+        <position name="MTP_Brace003_ASCII_v227" unit="mm" x="-16.36016845703125" y="69.50206298828124" z="431.7471008300781"/>
+        <position name="MTP_Brace003_ASCII_v228" unit="mm" x="-15.013690948486328" y="69.50294799804686" z="431.0334167480469"/>
+        <position name="MTP_Brace003_ASCII_v229" unit="mm" x="-16.32461929321289" y="69.50209350585936" z="431.78094482421875"/>
+        <position name="MTP_Brace003_ASCII_v230" unit="mm" x="-15.000089645385742" y="69.50294799804686" z="431.1212158203125"/>
+        <position name="MTP_Brace003_ASCII_v231" unit="mm" x="-16.290775299072266" y="69.50209350585936" z="431.8164978027344"/>
+        <position name="MTP_Brace003_ASCII_v232" unit="mm" x="-16.258716583251953" y="69.50212402343749" z="431.8536682128906"/>
+        <position name="MTP_Brace003_ASCII_v233" unit="mm" x="-14.98222541809082" y="69.50294799804686" z="431.2091369628906"/>
+        <position name="MTP_Brace003_ASCII_v234" unit="mm" x="-16.228519439697266" y="69.50215454101561" z="431.892333984375"/>
+        <position name="MTP_Brace003_ASCII_v235" unit="mm" x="-14.960000991821289" y="69.50297851562499" z="431.2966003417969"/>
+        <position name="MTP_Brace003_ASCII_v236" unit="mm" x="-16.20025634765625" y="69.50215454101561" z="431.9324645996094"/>
+        <position name="MTP_Brace003_ASCII_v237" unit="mm" x="-14.936233520507812" y="69.50297851562499" z="431.3744201660156"/>
+        <position name="MTP_Brace003_ASCII_v238" unit="mm" x="-16.17399787902832" y="69.50218505859374" z="431.97393798828125"/>
+        <position name="MTP_Brace003_ASCII_v239" unit="mm" x="-16.149805068969727" y="69.50218505859374" z="432.01666259765625"/>
+        <position name="MTP_Brace003_ASCII_v240" unit="mm" x="-14.911802291870117" y="69.50300903320311" z="431.44329833984375"/>
+        <position name="MTP_Brace003_ASCII_v241" unit="mm" x="-16.127737045288086" y="69.50221557617186" z="432.06048583984375"/>
+        <position name="MTP_Brace003_ASCII_v242" unit="mm" x="-14.884523391723633" y="69.50303955078124" z="431.5107116699219"/>
+        <position name="MTP_Brace003_ASCII_v243" unit="mm" x="-16.107847213745117" y="69.50221557617186" z="432.1053771972656"/>
+        <position name="MTP_Brace003_ASCII_v244" unit="mm" x="-14.854463577270508" y="69.50303955078124" z="431.57635498046875"/>
+        <position name="MTP_Brace003_ASCII_v245" unit="mm" x="-16.09018325805664" y="69.50224609374999" z="432.1511535644531"/>
+        <position name="MTP_Brace003_ASCII_v246" unit="mm" x="-14.821712493896484" y="69.50307006835936" z="431.6398620605469"/>
+        <position name="MTP_Brace003_ASCII_v247" unit="mm" x="-16.074787139892578" y="69.50224609374999" z="432.19775390625"/>
+        <position name="MTP_Brace003_ASCII_v248" unit="mm" x="-14.786386489868164" y="69.50310058593749" z="431.7008972167969"/>
+        <position name="MTP_Brace003_ASCII_v249" unit="mm" x="-16.061695098876953" y="69.50224609374999" z="432.24505615234375"/>
+        <position name="MTP_Brace003_ASCII_v250" unit="mm" x="-16.050941467285156" y="69.50224609374999" z="432.29296875"/>
+        <position name="MTP_Brace003_ASCII_v251" unit="mm" x="-14.752511978149414" y="69.50310058593749" z="431.7535095214844"/>
+        <position name="MTP_Brace003_ASCII_v252" unit="mm" x="-16.042551040649414" y="69.50227661132811" z="432.34130859375"/>
+        <position name="MTP_Brace003_ASCII_v253" unit="mm" x="-14.720443725585938" y="69.50313110351561" z="431.7987365722656"/>
+        <position name="MTP_Brace003_ASCII_v254" unit="mm" x="-16.036540985107422" y="69.50227661132811" z="432.3900451660156"/>
+        <position name="MTP_Brace003_ASCII_v255" unit="mm" x="-14.68697738647461" y="69.50316162109374" z="431.84185791015625"/>
+        <position name="MTP_Brace003_ASCII_v256" unit="mm" x="-16.032930374145508" y="69.50227661132811" z="432.4389953613281"/>
+        <position name="MTP_Brace003_ASCII_v257" unit="mm" x="-14.6522216796875" y="69.50319213867186" z="431.88275146484375"/>
+        <position name="MTP_Brace003_ASCII_v258" unit="mm" x="-14.616289138793945" y="69.50319213867186" z="431.9212646484375"/>
+        <position name="MTP_Brace003_ASCII_v259" unit="mm" x="-14.579299926757812" y="69.50322265624999" z="431.95733642578125"/>
+        <position name="MTP_Brace003_ASCII_v260" unit="mm" x="-14.5413818359375" y="69.50325317382811" z="431.9908752441406"/>
+        <position name="MTP_Brace003_ASCII_v261" unit="mm" x="-14.50656509399414" y="69.50328369140624" z="432.0188293457031"/>
+        <position name="MTP_Brace003_ASCII_v262" unit="mm" x="-14.474752426147461" y="69.50328369140624" z="432.04217529296875"/>
+        <position name="MTP_Brace003_ASCII_v263" unit="mm" x="-14.442560195922852" y="69.50331420898436" z="432.0637512207031"/>
+        <position name="MTP_Brace003_ASCII_v264" unit="mm" x="-14.410057067871094" y="69.50334472656249" z="432.0835876464844"/>
+        <position name="MTP_Brace003_ASCII_v265" unit="mm" x="-14.377311706542969" y="69.50334472656249" z="432.1016540527344"/>
+        <position name="MTP_Brace003_ASCII_v266" unit="mm" x="-14.344392776489258" y="69.50337524414061" z="432.11798095703125"/>
+        <position name="MTP_Brace003_ASCII_v267" unit="mm" x="-14.31136703491211" y="69.50340576171874" z="432.1325378417969"/>
+        <position name="MTP_Brace003_ASCII_v268" unit="mm" x="-14.278299331665039" y="69.50343627929686" z="432.1453857421875"/>
+        <position name="MTP_Brace003_ASCII_v269" unit="mm" x="-14.245248794555664" y="69.50343627929686" z="432.1565246582031"/>
+        <position name="MTP_Brace003_ASCII_v270" unit="mm" x="-14.2122802734375" y="69.50346679687499" z="432.1659851074219"/>
+        <position name="MTP_Brace003_ASCII_v271" unit="mm" x="-14.179449081420898" y="69.50349731445311" z="432.17376708984375"/>
+        <position name="MTP_Brace003_ASCII_v272" unit="mm" x="-14.146812438964844" y="69.50349731445311" z="432.1799621582031"/>
+        <position name="MTP_Brace003_ASCII_v273" unit="mm" x="-14.114418029785156" y="69.50352783203124" z="432.1846008300781"/>
+        <position name="MTP_Brace003_ASCII_v274" unit="mm" x="-14.082319259643555" y="69.50355834960936" z="432.1877136230469"/>
+        <position name="MTP_Brace003_ASCII_v275" unit="mm" x="-14.055841445922852" y="69.50355834960936" z="432.1891784667969"/>
+        <position name="MTP_Brace003_ASCII_v276" unit="mm" x="-14.029624938964844" y="69.50358886718749" z="432.18963623046875"/>
+        <position name="MTP_Brace003_ASCII_v277" unit="mm" x="15.968265533447266" y="69.52330322265624" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v278" unit="mm" x="19.968265533447266" y="69.52595825195311" z="425.4320373535156"/>
+        <position name="MTP_Brace003_ASCII_v279" unit="mm" x="14.969432830810547" y="69.52266235351561" z="430.75634765625"/>
+        <position name="MTP_Brace003_ASCII_v280" unit="mm" x="13.97036361694336" y="69.52199096679686" z="432.1712341308594"/>
+        <position name="MTP_Brace003_ASCII_v281" unit="mm" x="14.94887924194336" y="69.52263183593749" z="431.0429382324219"/>
+        <position name="MTP_Brace003_ASCII_v282" unit="mm" x="16.261157989501953" y="69.52351684570311" z="431.78094482421875"/>
+        <position name="MTP_Brace003_ASCII_v283" unit="mm" x="14.938106536865234" y="69.52263183593749" z="431.1088562011719"/>
+        <position name="MTP_Brace003_ASCII_v284" unit="mm" x="16.227313995361328" y="69.52348632812499" z="431.8164978027344"/>
+        <position name="MTP_Brace003_ASCII_v285" unit="mm" x="14.924930572509766" y="69.52263183593749" z="431.1748352050781"/>
+        <position name="MTP_Brace003_ASCII_v286" unit="mm" x="14.95730209350586" y="69.52266235351561" z="430.977294921875"/>
+        <position name="MTP_Brace003_ASCII_v287" unit="mm" x="16.296707153320312" y="69.52351684570311" z="431.7471008300781"/>
+        <position name="MTP_Brace003_ASCII_v288" unit="mm" x="16.195255279541016" y="69.52345581054686" z="431.8536682128906"/>
+        <position name="MTP_Brace003_ASCII_v289" unit="mm" x="14.909309387207031" y="69.52263183593749" z="431.2406005859375"/>
+        <position name="MTP_Brace003_ASCII_v290" unit="mm" x="14.963447570800781" y="69.52266235351561" z="430.91217041015625"/>
+        <position name="MTP_Brace003_ASCII_v291" unit="mm" x="16.333873748779297" y="69.52354736328124" z="431.71502685546875"/>
+        <position name="MTP_Brace003_ASCII_v292" unit="mm" x="16.165058135986328" y="69.52345581054686" z="431.892333984375"/>
+        <position name="MTP_Brace003_ASCII_v293" unit="mm" x="14.891216278076172" y="69.52260131835936" z="431.3059387207031"/>
+        <position name="MTP_Brace003_ASCII_v294" unit="mm" x="14.967403411865234" y="69.52266235351561" z="430.8477478027344"/>
+        <position name="MTP_Brace003_ASCII_v295" unit="mm" x="16.37256622314453" y="69.52357788085936" z="431.6848449707031"/>
+        <position name="MTP_Brace003_ASCII_v296" unit="mm" x="14.968948364257812" y="69.52266235351561" z="430.8017883300781"/>
+        <position name="MTP_Brace003_ASCII_v297" unit="mm" x="16.412696838378906" y="69.52360839843749" z="431.6565856933594"/>
+        <position name="MTP_Brace003_ASCII_v298" unit="mm" x="16.136795043945312" y="69.52342529296874" z="431.9324645996094"/>
+        <position name="MTP_Brace003_ASCII_v299" unit="mm" x="14.87063980102539" y="69.52260131835936" z="431.3705139160156"/>
+        <position name="MTP_Brace003_ASCII_v300" unit="mm" x="16.110538482666016" y="69.52339477539061" z="431.97393798828125"/>
+        <position name="MTP_Brace003_ASCII_v301" unit="mm" x="14.847599029541016" y="69.52257080078124" z="431.43408203125"/>
+        <position name="MTP_Brace003_ASCII_v302" unit="mm" x="16.45416259765625" y="69.52363891601561" z="431.63031005859375"/>
+        <position name="MTP_Brace003_ASCII_v303" unit="mm" x="16.086345672607422" y="69.52339477539061" z="432.01666259765625"/>
+        <position name="MTP_Brace003_ASCII_v304" unit="mm" x="14.8250732421875" y="69.52257080078124" z="431.4895324707031"/>
+        <position name="MTP_Brace003_ASCII_v305" unit="mm" x="16.496868133544922" y="69.52366943359374" z="431.60614013671875"/>
+        <position name="MTP_Brace003_ASCII_v306" unit="mm" x="16.06427764892578" y="69.52336425781249" z="432.06048583984375"/>
+        <position name="MTP_Brace003_ASCII_v307" unit="mm" x="14.806938171386719" y="69.52254028320311" z="431.53033447265625"/>
+        <position name="MTP_Brace003_ASCII_v308" unit="mm" x="16.54071044921875" y="69.52369995117186" z="431.58404541015625"/>
+        <position name="MTP_Brace003_ASCII_v309" unit="mm" x="16.044387817382812" y="69.52336425781249" z="432.1053771972656"/>
+        <position name="MTP_Brace003_ASCII_v310" unit="mm" x="14.787757873535156" y="69.52254028320311" z="431.57037353515625"/>
+        <position name="MTP_Brace003_ASCII_v311" unit="mm" x="16.585582733154297" y="69.52373046874999" z="431.5641784667969"/>
+        <position name="MTP_Brace003_ASCII_v312" unit="mm" x="16.026721954345703" y="69.52336425781249" z="432.1511535644531"/>
+        <position name="MTP_Brace003_ASCII_v313" unit="mm" x="14.767559051513672" y="69.52254028320311" z="431.6095886230469"/>
+        <position name="MTP_Brace003_ASCII_v314" unit="mm" x="16.631378173828125" y="69.52376098632811" z="431.5465087890625"/>
+        <position name="MTP_Brace003_ASCII_v315" unit="mm" x="14.74637222290039" y="69.52250976562499" z="431.64788818359375"/>
+        <position name="MTP_Brace003_ASCII_v316" unit="mm" x="16.01132583618164" y="69.52333374023436" z="432.19775390625"/>
+        <position name="MTP_Brace003_ASCII_v317" unit="mm" x="14.724224090576172" y="69.52250976562499" z="431.6851806640625"/>
+        <position name="MTP_Brace003_ASCII_v318" unit="mm" x="16.677982330322266" y="69.52379150390624" z="431.5310974121094"/>
+        <position name="MTP_Brace003_ASCII_v319" unit="mm" x="15.998233795166016" y="69.52333374023436" z="432.24505615234375"/>
+        <position name="MTP_Brace003_ASCII_v320" unit="mm" x="14.701152801513672" y="69.52247924804686" z="431.721435546875"/>
+        <position name="MTP_Brace003_ASCII_v321" unit="mm" x="16.725284576416016" y="69.52382202148436" z="431.51800537109375"/>
+        <position name="MTP_Brace003_ASCII_v322" unit="mm" x="15.987480163574219" y="69.52333374023436" z="432.29296875"/>
+        <position name="MTP_Brace003_ASCII_v323" unit="mm" x="14.677196502685547" y="69.52247924804686" z="431.7565612792969"/>
+        <position name="MTP_Brace003_ASCII_v324" unit="mm" x="16.773174285888672" y="69.52385253906249" z="431.50726318359375"/>
+        <position name="MTP_Brace003_ASCII_v325" unit="mm" x="15.97909164428711" y="69.52333374023436" z="432.34130859375"/>
+        <position name="MTP_Brace003_ASCII_v326" unit="mm" x="14.652397155761719" y="69.52244873046874" z="431.79046630859375"/>
+        <position name="MTP_Brace003_ASCII_v327" unit="mm" x="14.626800537109375" y="69.52241821289061" z="431.8231506347656"/>
+        <position name="MTP_Brace003_ASCII_v328" unit="mm" x="16.821537017822266" y="69.52388305664061" z="431.4988708496094"/>
+        <position name="MTP_Brace003_ASCII_v329" unit="mm" x="15.97308349609375" y="69.52330322265624" z="432.3900451660156"/>
+        <position name="MTP_Brace003_ASCII_v330" unit="mm" x="14.600452423095703" y="69.52241821289061" z="431.8545227050781"/>
+        <position name="MTP_Brace003_ASCII_v331" unit="mm" x="16.870250701904297" y="69.52391357421874" z="431.49285888671875"/>
+        <position name="MTP_Brace003_ASCII_v332" unit="mm" x="15.969470977783203" y="69.52330322265624" z="432.4389953613281"/>
+        <position name="MTP_Brace003_ASCII_v333" unit="mm" x="14.573406219482422" y="69.52238769531249" z="431.8845520019531"/>
+        <position name="MTP_Brace003_ASCII_v334" unit="mm" x="16.91919708251953" y="69.52394409179686" z="431.4892578125"/>
+        <position name="MTP_Brace003_ASCII_v335" unit="mm" x="14.545711517333984" y="69.52238769531249" z="431.9131774902344"/>
+        <position name="MTP_Brace003_ASCII_v336" unit="mm" x="14.51742172241211" y="69.52235717773436" z="431.9403381347656"/>
+        <position name="MTP_Brace003_ASCII_v337" unit="mm" x="14.214385986328125" y="69.52217407226561" z="432.1282958984375"/>
+        <position name="MTP_Brace003_ASCII_v338" unit="mm" x="14.183311462402344" y="69.52214355468749" z="432.1386413574219"/>
+        <position name="MTP_Brace003_ASCII_v339" unit="mm" x="14.245487213134766" y="69.52217407226561" z="432.116455078125"/>
+        <position name="MTP_Brace003_ASCII_v340" unit="mm" x="14.276554107666016" y="69.52220458984374" z="432.10308837890625"/>
+        <position name="MTP_Brace003_ASCII_v341" unit="mm" x="14.307540893554688" y="69.52223510742186" z="432.0881652832031"/>
+        <position name="MTP_Brace003_ASCII_v342" unit="mm" x="14.338394165039062" y="69.52223510742186" z="432.0716857910156"/>
+        <position name="MTP_Brace003_ASCII_v343" unit="mm" x="14.369049072265625" y="69.52226562499999" z="432.05364990234375"/>
+        <position name="MTP_Brace003_ASCII_v344" unit="mm" x="14.399456024169922" y="69.52229614257811" z="432.0340881347656"/>
+        <position name="MTP_Brace003_ASCII_v345" unit="mm" x="14.429553985595703" y="69.52229614257811" z="432.012939453125"/>
+        <position name="MTP_Brace003_ASCII_v346" unit="mm" x="14.459285736083984" y="69.52232666015624" z="431.9902648925781"/>
+        <position name="MTP_Brace003_ASCII_v347" unit="mm" x="14.488594055175781" y="69.52235717773436" z="431.966064453125"/>
+        <position name="MTP_Brace003_ASCII_v348" unit="mm" x="16.968265533447266" y="69.52397460937499" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v349" unit="mm" x="19.968265533447266" y="69.52595825195311" z="431.488037109375"/>
+        <position name="MTP_Brace003_ASCII_v350" unit="mm" x="14.0" y="69.52202148437499" z="432.17059326171875"/>
+        <position name="MTP_Brace003_ASCII_v351" unit="mm" x="14.029960632324219" y="69.52205200195311" z="432.1686706542969"/>
+        <position name="MTP_Brace003_ASCII_v352" unit="mm" x="14.06021499633789" y="69.52205200195311" z="432.1654357910156"/>
+        <position name="MTP_Brace003_ASCII_v353" unit="mm" x="14.090717315673828" y="69.52208251953124" z="432.1608581542969"/>
+        <position name="MTP_Brace003_ASCII_v354" unit="mm" x="14.121429443359375" y="69.52211303710936" z="432.1549072265625"/>
+        <position name="MTP_Brace003_ASCII_v355" unit="mm" x="14.15230941772461" y="69.52211303710936" z="432.1474914550781"/>
+        <position name="MTP_Brace003_ASCII_v356" unit="mm" x="13.76803970336914" y="69.86500854492186" z="447.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v357" unit="mm" x="0.9680442810058594" y="69.85658569335936" z="447.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v358" unit="mm" x="-1.0319557189941406" y="69.85527343749999" z="447.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v359" unit="mm" x="-13.831953048706055" y="69.84685058593749" z="447.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v360" unit="mm" x="-12.028007507324219" y="63.848040771484364" z="441.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v361" unit="mm" x="11.971988677978516" y="63.86381835937499" z="441.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v362" unit="mm" x="-2.8280105590820312" y="63.85411376953124" z="441.3602294921875"/>
+        <position name="MTP_Brace003_ASCII_v363" unit="mm" x="2.7719879150390625" y="63.85777587890624" z="441.3602294921875"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="MTP_Brace003_ASCII-SOL">
+             <triangular vertex1="MTP_Brace003_ASCII_v0" vertex2="MTP_Brace003_ASCII_v1" vertex3="MTP_Brace003_ASCII_v2"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v1" vertex3="MTP_Brace003_ASCII_v3"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v4" vertex2="MTP_Brace003_ASCII_v5" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v7" vertex2="MTP_Brace003_ASCII_v8" vertex3="MTP_Brace003_ASCII_v4"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v5" vertex2="MTP_Brace003_ASCII_v9" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v5" vertex2="MTP_Brace003_ASCII_v10" vertex3="MTP_Brace003_ASCII_v9"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v11" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v10"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v10" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v9"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v11" vertex2="MTP_Brace003_ASCII_v13" vertex3="MTP_Brace003_ASCII_v12"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v8" vertex2="MTP_Brace003_ASCII_v5" vertex3="MTP_Brace003_ASCII_v4"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v14" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v16"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v17" vertex2="MTP_Brace003_ASCII_v18" vertex3="MTP_Brace003_ASCII_v15"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v19" vertex2="MTP_Brace003_ASCII_v14" vertex3="MTP_Brace003_ASCII_v16"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v20" vertex2="MTP_Brace003_ASCII_v14" vertex3="MTP_Brace003_ASCII_v19"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v21" vertex2="MTP_Brace003_ASCII_v22" vertex3="MTP_Brace003_ASCII_v20"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v21" vertex2="MTP_Brace003_ASCII_v20" vertex3="MTP_Brace003_ASCII_v19"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v23" vertex2="MTP_Brace003_ASCII_v22" vertex3="MTP_Brace003_ASCII_v21"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v14" vertex2="MTP_Brace003_ASCII_v17" vertex3="MTP_Brace003_ASCII_v15"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v24" vertex2="MTP_Brace003_ASCII_v25" vertex3="MTP_Brace003_ASCII_v26"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v26" vertex2="MTP_Brace003_ASCII_v25" vertex3="MTP_Brace003_ASCII_v27"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v28" vertex2="MTP_Brace003_ASCII_v29" vertex3="MTP_Brace003_ASCII_v30"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v30" vertex2="MTP_Brace003_ASCII_v29" vertex3="MTP_Brace003_ASCII_v31"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v32" vertex2="MTP_Brace003_ASCII_v33" vertex3="MTP_Brace003_ASCII_v34"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v34" vertex2="MTP_Brace003_ASCII_v33" vertex3="MTP_Brace003_ASCII_v35"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v32" vertex2="MTP_Brace003_ASCII_v36" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v36" vertex2="MTP_Brace003_ASCII_v37" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v37" vertex2="MTP_Brace003_ASCII_v38" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v38" vertex2="MTP_Brace003_ASCII_v39" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v39" vertex2="MTP_Brace003_ASCII_v40" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v40" vertex2="MTP_Brace003_ASCII_v41" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v41" vertex2="MTP_Brace003_ASCII_v42" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v42" vertex2="MTP_Brace003_ASCII_v43" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v43" vertex2="MTP_Brace003_ASCII_v44" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v44" vertex2="MTP_Brace003_ASCII_v45" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v45" vertex2="MTP_Brace003_ASCII_v46" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v46" vertex2="MTP_Brace003_ASCII_v47" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v47" vertex2="MTP_Brace003_ASCII_v48" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v48" vertex2="MTP_Brace003_ASCII_v49" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v33" vertex2="MTP_Brace003_ASCII_v49" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v49" vertex2="MTP_Brace003_ASCII_v51" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v51" vertex2="MTP_Brace003_ASCII_v52" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v52" vertex2="MTP_Brace003_ASCII_v53" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v53" vertex2="MTP_Brace003_ASCII_v54" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v54" vertex2="MTP_Brace003_ASCII_v55" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v55" vertex2="MTP_Brace003_ASCII_v56" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v56" vertex2="MTP_Brace003_ASCII_v57" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v57" vertex2="MTP_Brace003_ASCII_v58" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v58" vertex2="MTP_Brace003_ASCII_v59" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v59" vertex2="MTP_Brace003_ASCII_v60" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v60" vertex2="MTP_Brace003_ASCII_v61" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v61" vertex2="MTP_Brace003_ASCII_v62" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v62" vertex2="MTP_Brace003_ASCII_v63" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v63" vertex2="MTP_Brace003_ASCII_v64" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v64" vertex2="MTP_Brace003_ASCII_v65" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v65" vertex2="MTP_Brace003_ASCII_v66" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v66" vertex2="MTP_Brace003_ASCII_v67" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v67" vertex2="MTP_Brace003_ASCII_v68" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v68" vertex2="MTP_Brace003_ASCII_v9" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v9" vertex2="MTP_Brace003_ASCII_v69" vertex3="MTP_Brace003_ASCII_v50"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v70" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v71"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v72" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v70"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v73" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v72"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v74" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v73"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v75" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v74"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v76" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v75"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v77" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v76"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v78" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v77"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v79" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v78"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v80" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v79"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v81" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v80"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v82" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v81"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v83" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v82"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v84" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v83"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v85" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v84"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v86" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v85"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v87" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v86"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v88" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v87"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v89" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v88"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v90" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v89"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v91" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v90"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v92" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v94"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v71" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v92"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v95" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v96"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v97" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v95"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v98" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v97"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v12" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v71"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v99" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v98"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v100" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v99"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v101" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v100"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v102" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v101"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v103" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v102"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v104" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v103"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v105" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v104"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v106" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v105"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v107" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v106"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v108" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v107"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v109" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v108"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v94" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v109"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v12" vertex2="MTP_Brace003_ASCII_v110" vertex3="MTP_Brace003_ASCII_v93"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v93" vertex2="MTP_Brace003_ASCII_v111" vertex3="MTP_Brace003_ASCII_v96"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v111" vertex2="MTP_Brace003_ASCII_v112" vertex3="MTP_Brace003_ASCII_v113"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v114" vertex2="MTP_Brace003_ASCII_v112" vertex3="MTP_Brace003_ASCII_v111"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v0" vertex2="MTP_Brace003_ASCII_v115" vertex3="MTP_Brace003_ASCII_v116"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v117" vertex3="MTP_Brace003_ASCII_v118"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v118" vertex2="MTP_Brace003_ASCII_v119" vertex3="MTP_Brace003_ASCII_v2"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v119" vertex2="MTP_Brace003_ASCII_v120" vertex3="MTP_Brace003_ASCII_v2"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v121" vertex3="MTP_Brace003_ASCII_v117"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v122" vertex3="MTP_Brace003_ASCII_v121"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v120" vertex2="MTP_Brace003_ASCII_v123" vertex3="MTP_Brace003_ASCII_v2"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v123" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v124" vertex3="MTP_Brace003_ASCII_v122"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v123" vertex2="MTP_Brace003_ASCII_v125" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v126" vertex3="MTP_Brace003_ASCII_v124"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v125" vertex2="MTP_Brace003_ASCII_v127" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v128" vertex3="MTP_Brace003_ASCII_v126"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v127" vertex2="MTP_Brace003_ASCII_v129" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v129" vertex2="MTP_Brace003_ASCII_v130" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v131" vertex3="MTP_Brace003_ASCII_v128"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v130" vertex2="MTP_Brace003_ASCII_v132" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v133" vertex3="MTP_Brace003_ASCII_v131"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v134" vertex3="MTP_Brace003_ASCII_v133"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v132" vertex2="MTP_Brace003_ASCII_v135" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v135" vertex2="MTP_Brace003_ASCII_v136" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v137" vertex3="MTP_Brace003_ASCII_v134"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v136" vertex2="MTP_Brace003_ASCII_v138" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v139" vertex3="MTP_Brace003_ASCII_v137"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v138" vertex2="MTP_Brace003_ASCII_v140" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v141" vertex3="MTP_Brace003_ASCII_v139"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v140" vertex2="MTP_Brace003_ASCII_v142" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v143" vertex3="MTP_Brace003_ASCII_v141"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v144" vertex3="MTP_Brace003_ASCII_v143"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v142" vertex2="MTP_Brace003_ASCII_v145" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v145" vertex2="MTP_Brace003_ASCII_v146" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v147" vertex3="MTP_Brace003_ASCII_v144"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v146" vertex2="MTP_Brace003_ASCII_v148" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v19" vertex3="MTP_Brace003_ASCII_v147"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v148" vertex2="MTP_Brace003_ASCII_v149" vertex3="MTP_Brace003_ASCII_v0"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v0" vertex2="MTP_Brace003_ASCII_v149" vertex3="MTP_Brace003_ASCII_v115"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v2" vertex2="MTP_Brace003_ASCII_v150" vertex3="MTP_Brace003_ASCII_v19"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v113" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v152"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v153" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v154"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v155" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v153"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v156" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v155"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v157" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v156"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v158" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v157"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v159" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v158"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v160" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v159"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v161" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v160"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v162" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v161"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v163" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v162"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v164" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v163"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v165" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v164"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v166" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v165"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v167" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v166"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v168" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v167"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v152" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v168"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v169" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v170"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v171" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v169"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v172" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v171"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v173" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v172"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v174" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v173"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v175" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v174"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v176" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v175"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v177" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v151"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v178" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v176"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v179" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v178"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v180" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v179"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v181" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v180"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v182" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v181"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v183" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v182"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v184" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v183"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v185" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v184"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v154" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v185"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v151" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v154"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v21" vertex2="MTP_Brace003_ASCII_v19" vertex3="MTP_Brace003_ASCII_v150"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v21" vertex2="MTP_Brace003_ASCII_v150" vertex3="MTP_Brace003_ASCII_v186"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v21" vertex2="MTP_Brace003_ASCII_v186" vertex3="MTP_Brace003_ASCII_v187"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v21" vertex2="MTP_Brace003_ASCII_v187" vertex3="MTP_Brace003_ASCII_v170"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v9" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v69"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v69" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v188"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v188" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v189"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v189" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v190"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v190" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v191"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v191" vertex2="MTP_Brace003_ASCII_v12" vertex3="MTP_Brace003_ASCII_v91"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v152" vertex2="MTP_Brace003_ASCII_v96" vertex3="MTP_Brace003_ASCII_v111"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v152" vertex2="MTP_Brace003_ASCII_v111" vertex3="MTP_Brace003_ASCII_v113"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v192" vertex2="MTP_Brace003_ASCII_v193" vertex3="MTP_Brace003_ASCII_v194"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v194" vertex2="MTP_Brace003_ASCII_v193" vertex3="MTP_Brace003_ASCII_v195"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v196" vertex2="MTP_Brace003_ASCII_v197" vertex3="MTP_Brace003_ASCII_v10"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v10" vertex2="MTP_Brace003_ASCII_v197" vertex3="MTP_Brace003_ASCII_v11"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v20" vertex2="MTP_Brace003_ASCII_v22" vertex3="MTP_Brace003_ASCII_v198"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v198" vertex2="MTP_Brace003_ASCII_v22" vertex3="MTP_Brace003_ASCII_v199"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v33" vertex2="MTP_Brace003_ASCII_v200" vertex3="MTP_Brace003_ASCII_v201"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v50" vertex2="MTP_Brace003_ASCII_v200" vertex3="MTP_Brace003_ASCII_v33"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v5" vertex2="MTP_Brace003_ASCII_v196" vertex3="MTP_Brace003_ASCII_v10"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v5" vertex2="MTP_Brace003_ASCII_v194" vertex3="MTP_Brace003_ASCII_v196"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v196" vertex2="MTP_Brace003_ASCII_v111" vertex3="MTP_Brace003_ASCII_v93"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v194" vertex2="MTP_Brace003_ASCII_v111" vertex3="MTP_Brace003_ASCII_v196"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v14" vertex2="MTP_Brace003_ASCII_v198" vertex3="MTP_Brace003_ASCII_v192"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v192" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v113"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v198" vertex2="MTP_Brace003_ASCII_v151" vertex3="MTP_Brace003_ASCII_v192"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v14" vertex2="MTP_Brace003_ASCII_v20" vertex3="MTP_Brace003_ASCII_v198"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v5" vertex2="MTP_Brace003_ASCII_v14" vertex3="MTP_Brace003_ASCII_v192"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v5" vertex2="MTP_Brace003_ASCII_v192" vertex3="MTP_Brace003_ASCII_v194"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v202" vertex2="MTP_Brace003_ASCII_v27" vertex3="MTP_Brace003_ASCII_v8"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v8" vertex2="MTP_Brace003_ASCII_v27" vertex3="MTP_Brace003_ASCII_v5"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v27" vertex2="MTP_Brace003_ASCII_v25" vertex3="MTP_Brace003_ASCII_v5"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v203" vertex2="MTP_Brace003_ASCII_v31" vertex3="MTP_Brace003_ASCII_v204"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v204" vertex2="MTP_Brace003_ASCII_v31" vertex3="MTP_Brace003_ASCII_v25"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v17" vertex2="MTP_Brace003_ASCII_v29" vertex3="MTP_Brace003_ASCII_v205"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v29" vertex2="MTP_Brace003_ASCII_v14" vertex3="MTP_Brace003_ASCII_v31"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v17" vertex2="MTP_Brace003_ASCII_v14" vertex3="MTP_Brace003_ASCII_v29"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v14" vertex2="MTP_Brace003_ASCII_v5" vertex3="MTP_Brace003_ASCII_v31"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v31" vertex2="MTP_Brace003_ASCII_v5" vertex3="MTP_Brace003_ASCII_v25"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v206" vertex2="MTP_Brace003_ASCII_v201" vertex3="MTP_Brace003_ASCII_v207"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v207" vertex2="MTP_Brace003_ASCII_v201" vertex3="MTP_Brace003_ASCII_v208"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v209" vertex3="MTP_Brace003_ASCII_v208"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v210" vertex3="MTP_Brace003_ASCII_v209"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v211" vertex3="MTP_Brace003_ASCII_v210"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v212" vertex3="MTP_Brace003_ASCII_v211"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v213" vertex3="MTP_Brace003_ASCII_v212"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v214" vertex3="MTP_Brace003_ASCII_v213"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v215" vertex3="MTP_Brace003_ASCII_v214"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v216" vertex3="MTP_Brace003_ASCII_v215"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v200" vertex2="MTP_Brace003_ASCII_v217" vertex3="MTP_Brace003_ASCII_v201"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v218" vertex2="MTP_Brace003_ASCII_v217" vertex3="MTP_Brace003_ASCII_v219"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v220" vertex2="MTP_Brace003_ASCII_v217" vertex3="MTP_Brace003_ASCII_v218"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v221" vertex2="MTP_Brace003_ASCII_v217" vertex3="MTP_Brace003_ASCII_v220"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v222" vertex2="MTP_Brace003_ASCII_v217" vertex3="MTP_Brace003_ASCII_v221"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v216" vertex2="MTP_Brace003_ASCII_v217" vertex3="MTP_Brace003_ASCII_v222"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v201" vertex2="MTP_Brace003_ASCII_v217" vertex3="MTP_Brace003_ASCII_v216"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v219" vertex2="MTP_Brace003_ASCII_v223" vertex3="MTP_Brace003_ASCII_v224"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v217" vertex2="MTP_Brace003_ASCII_v223" vertex3="MTP_Brace003_ASCII_v219"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v223" vertex2="MTP_Brace003_ASCII_v225" vertex3="MTP_Brace003_ASCII_v224"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v224" vertex2="MTP_Brace003_ASCII_v225" vertex3="MTP_Brace003_ASCII_v226"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v227" vertex2="MTP_Brace003_ASCII_v228" vertex3="MTP_Brace003_ASCII_v229"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v226" vertex2="MTP_Brace003_ASCII_v228" vertex3="MTP_Brace003_ASCII_v227"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v225" vertex2="MTP_Brace003_ASCII_v228" vertex3="MTP_Brace003_ASCII_v226"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v228" vertex2="MTP_Brace003_ASCII_v230" vertex3="MTP_Brace003_ASCII_v229"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v229" vertex2="MTP_Brace003_ASCII_v230" vertex3="MTP_Brace003_ASCII_v231"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v232" vertex2="MTP_Brace003_ASCII_v233" vertex3="MTP_Brace003_ASCII_v234"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v231" vertex2="MTP_Brace003_ASCII_v233" vertex3="MTP_Brace003_ASCII_v232"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v230" vertex2="MTP_Brace003_ASCII_v233" vertex3="MTP_Brace003_ASCII_v231"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v234" vertex2="MTP_Brace003_ASCII_v235" vertex3="MTP_Brace003_ASCII_v236"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v233" vertex2="MTP_Brace003_ASCII_v235" vertex3="MTP_Brace003_ASCII_v234"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v236" vertex2="MTP_Brace003_ASCII_v237" vertex3="MTP_Brace003_ASCII_v238"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v235" vertex2="MTP_Brace003_ASCII_v237" vertex3="MTP_Brace003_ASCII_v236"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v239" vertex2="MTP_Brace003_ASCII_v240" vertex3="MTP_Brace003_ASCII_v241"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v238" vertex2="MTP_Brace003_ASCII_v240" vertex3="MTP_Brace003_ASCII_v239"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v237" vertex2="MTP_Brace003_ASCII_v240" vertex3="MTP_Brace003_ASCII_v238"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v241" vertex2="MTP_Brace003_ASCII_v242" vertex3="MTP_Brace003_ASCII_v243"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v240" vertex2="MTP_Brace003_ASCII_v242" vertex3="MTP_Brace003_ASCII_v241"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v243" vertex2="MTP_Brace003_ASCII_v244" vertex3="MTP_Brace003_ASCII_v245"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v242" vertex2="MTP_Brace003_ASCII_v244" vertex3="MTP_Brace003_ASCII_v243"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v245" vertex2="MTP_Brace003_ASCII_v246" vertex3="MTP_Brace003_ASCII_v247"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v244" vertex2="MTP_Brace003_ASCII_v246" vertex3="MTP_Brace003_ASCII_v245"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v247" vertex2="MTP_Brace003_ASCII_v248" vertex3="MTP_Brace003_ASCII_v249"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v246" vertex2="MTP_Brace003_ASCII_v248" vertex3="MTP_Brace003_ASCII_v247"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v250" vertex2="MTP_Brace003_ASCII_v251" vertex3="MTP_Brace003_ASCII_v252"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v249" vertex2="MTP_Brace003_ASCII_v251" vertex3="MTP_Brace003_ASCII_v250"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v248" vertex2="MTP_Brace003_ASCII_v251" vertex3="MTP_Brace003_ASCII_v249"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v252" vertex2="MTP_Brace003_ASCII_v253" vertex3="MTP_Brace003_ASCII_v254"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v251" vertex2="MTP_Brace003_ASCII_v253" vertex3="MTP_Brace003_ASCII_v252"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v254" vertex2="MTP_Brace003_ASCII_v255" vertex3="MTP_Brace003_ASCII_v256"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v253" vertex2="MTP_Brace003_ASCII_v255" vertex3="MTP_Brace003_ASCII_v254"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v256" vertex2="MTP_Brace003_ASCII_v257" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v255" vertex2="MTP_Brace003_ASCII_v257" vertex3="MTP_Brace003_ASCII_v256"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v257" vertex2="MTP_Brace003_ASCII_v258" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v258" vertex2="MTP_Brace003_ASCII_v259" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v259" vertex2="MTP_Brace003_ASCII_v260" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v260" vertex2="MTP_Brace003_ASCII_v261" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v261" vertex2="MTP_Brace003_ASCII_v262" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v262" vertex2="MTP_Brace003_ASCII_v263" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v263" vertex2="MTP_Brace003_ASCII_v264" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v264" vertex2="MTP_Brace003_ASCII_v265" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v265" vertex2="MTP_Brace003_ASCII_v266" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v266" vertex2="MTP_Brace003_ASCII_v267" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v267" vertex2="MTP_Brace003_ASCII_v268" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v268" vertex2="MTP_Brace003_ASCII_v269" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v270" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v269"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v271" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v270"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v272" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v271"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v273" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v272"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v274" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v273"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v275" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v274"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v276" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v275"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v269" vertex2="MTP_Brace003_ASCII_v4" vertex3="MTP_Brace003_ASCII_v6"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v276" vertex2="MTP_Brace003_ASCII_v26" vertex3="MTP_Brace003_ASCII_v4"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v276" vertex2="MTP_Brace003_ASCII_v24" vertex3="MTP_Brace003_ASCII_v26"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v277" vertex2="MTP_Brace003_ASCII_v278" vertex3="MTP_Brace003_ASCII_v1"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v279" vertex3="MTP_Brace003_ASCII_v3"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v280" vertex2="MTP_Brace003_ASCII_v28" vertex3="MTP_Brace003_ASCII_v30"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v281" vertex2="MTP_Brace003_ASCII_v282" vertex3="MTP_Brace003_ASCII_v283"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v283" vertex2="MTP_Brace003_ASCII_v284" vertex3="MTP_Brace003_ASCII_v285"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v282" vertex2="MTP_Brace003_ASCII_v284" vertex3="MTP_Brace003_ASCII_v283"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v286" vertex2="MTP_Brace003_ASCII_v287" vertex3="MTP_Brace003_ASCII_v281"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v281" vertex2="MTP_Brace003_ASCII_v287" vertex3="MTP_Brace003_ASCII_v282"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v285" vertex2="MTP_Brace003_ASCII_v288" vertex3="MTP_Brace003_ASCII_v289"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v284" vertex2="MTP_Brace003_ASCII_v288" vertex3="MTP_Brace003_ASCII_v285"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v290" vertex2="MTP_Brace003_ASCII_v291" vertex3="MTP_Brace003_ASCII_v286"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v286" vertex2="MTP_Brace003_ASCII_v291" vertex3="MTP_Brace003_ASCII_v287"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v289" vertex2="MTP_Brace003_ASCII_v292" vertex3="MTP_Brace003_ASCII_v293"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v288" vertex2="MTP_Brace003_ASCII_v292" vertex3="MTP_Brace003_ASCII_v289"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v294" vertex2="MTP_Brace003_ASCII_v295" vertex3="MTP_Brace003_ASCII_v290"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v290" vertex2="MTP_Brace003_ASCII_v295" vertex3="MTP_Brace003_ASCII_v291"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v296" vertex2="MTP_Brace003_ASCII_v297" vertex3="MTP_Brace003_ASCII_v294"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v294" vertex2="MTP_Brace003_ASCII_v297" vertex3="MTP_Brace003_ASCII_v295"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v293" vertex2="MTP_Brace003_ASCII_v298" vertex3="MTP_Brace003_ASCII_v299"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v292" vertex2="MTP_Brace003_ASCII_v298" vertex3="MTP_Brace003_ASCII_v293"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v299" vertex2="MTP_Brace003_ASCII_v300" vertex3="MTP_Brace003_ASCII_v301"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v298" vertex2="MTP_Brace003_ASCII_v300" vertex3="MTP_Brace003_ASCII_v299"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v279" vertex2="MTP_Brace003_ASCII_v302" vertex3="MTP_Brace003_ASCII_v296"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v296" vertex2="MTP_Brace003_ASCII_v302" vertex3="MTP_Brace003_ASCII_v297"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v301" vertex2="MTP_Brace003_ASCII_v303" vertex3="MTP_Brace003_ASCII_v304"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v300" vertex2="MTP_Brace003_ASCII_v303" vertex3="MTP_Brace003_ASCII_v301"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v279" vertex2="MTP_Brace003_ASCII_v305" vertex3="MTP_Brace003_ASCII_v302"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v304" vertex2="MTP_Brace003_ASCII_v306" vertex3="MTP_Brace003_ASCII_v307"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v303" vertex2="MTP_Brace003_ASCII_v306" vertex3="MTP_Brace003_ASCII_v304"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v279" vertex2="MTP_Brace003_ASCII_v308" vertex3="MTP_Brace003_ASCII_v305"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v307" vertex2="MTP_Brace003_ASCII_v309" vertex3="MTP_Brace003_ASCII_v310"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v306" vertex2="MTP_Brace003_ASCII_v309" vertex3="MTP_Brace003_ASCII_v307"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v279" vertex2="MTP_Brace003_ASCII_v311" vertex3="MTP_Brace003_ASCII_v308"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v310" vertex2="MTP_Brace003_ASCII_v312" vertex3="MTP_Brace003_ASCII_v313"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v309" vertex2="MTP_Brace003_ASCII_v312" vertex3="MTP_Brace003_ASCII_v310"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v314" vertex3="MTP_Brace003_ASCII_v279"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v279" vertex2="MTP_Brace003_ASCII_v314" vertex3="MTP_Brace003_ASCII_v311"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v315" vertex2="MTP_Brace003_ASCII_v316" vertex3="MTP_Brace003_ASCII_v317"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v313" vertex2="MTP_Brace003_ASCII_v316" vertex3="MTP_Brace003_ASCII_v315"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v312" vertex2="MTP_Brace003_ASCII_v316" vertex3="MTP_Brace003_ASCII_v313"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v318" vertex3="MTP_Brace003_ASCII_v314"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v317" vertex2="MTP_Brace003_ASCII_v319" vertex3="MTP_Brace003_ASCII_v320"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v316" vertex2="MTP_Brace003_ASCII_v319" vertex3="MTP_Brace003_ASCII_v317"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v321" vertex3="MTP_Brace003_ASCII_v318"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v320" vertex2="MTP_Brace003_ASCII_v322" vertex3="MTP_Brace003_ASCII_v323"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v319" vertex2="MTP_Brace003_ASCII_v322" vertex3="MTP_Brace003_ASCII_v320"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v324" vertex3="MTP_Brace003_ASCII_v321"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v322" vertex2="MTP_Brace003_ASCII_v325" vertex3="MTP_Brace003_ASCII_v323"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v326" vertex2="MTP_Brace003_ASCII_v325" vertex3="MTP_Brace003_ASCII_v327"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v323" vertex2="MTP_Brace003_ASCII_v325" vertex3="MTP_Brace003_ASCII_v326"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v328" vertex3="MTP_Brace003_ASCII_v324"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v327" vertex2="MTP_Brace003_ASCII_v329" vertex3="MTP_Brace003_ASCII_v330"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v325" vertex2="MTP_Brace003_ASCII_v329" vertex3="MTP_Brace003_ASCII_v327"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v331" vertex3="MTP_Brace003_ASCII_v328"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v330" vertex2="MTP_Brace003_ASCII_v332" vertex3="MTP_Brace003_ASCII_v333"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v329" vertex2="MTP_Brace003_ASCII_v332" vertex3="MTP_Brace003_ASCII_v330"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v334" vertex3="MTP_Brace003_ASCII_v331"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v335" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v336"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v333" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v335"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v332" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v333"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v337" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v338"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v339" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v337"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v340" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v339"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v341" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v340"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v342" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v341"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v343" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v342"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v344" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v343"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v345" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v344"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v346" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v345"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v347" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v346"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v336" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v347"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v348" vertex3="MTP_Brace003_ASCII_v334"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v278" vertex2="MTP_Brace003_ASCII_v349" vertex3="MTP_Brace003_ASCII_v1"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v349" vertex3="MTP_Brace003_ASCII_v348"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v16" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v338"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v350" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v280"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v351" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v350"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v352" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v351"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v353" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v352"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v354" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v353"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v355" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v354"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v338" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v355"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v280" vertex2="MTP_Brace003_ASCII_v15" vertex3="MTP_Brace003_ASCII_v28"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v276" vertex2="MTP_Brace003_ASCII_v280" vertex3="MTP_Brace003_ASCII_v24"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v24" vertex2="MTP_Brace003_ASCII_v280" vertex3="MTP_Brace003_ASCII_v30"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v356" vertex2="MTP_Brace003_ASCII_v177" vertex3="MTP_Brace003_ASCII_v199"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v151" vertex2="MTP_Brace003_ASCII_v198" vertex3="MTP_Brace003_ASCII_v177"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v177" vertex2="MTP_Brace003_ASCII_v198" vertex3="MTP_Brace003_ASCII_v199"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v113" vertex2="MTP_Brace003_ASCII_v112" vertex3="MTP_Brace003_ASCII_v192"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v192" vertex2="MTP_Brace003_ASCII_v112" vertex3="MTP_Brace003_ASCII_v193"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v112" vertex2="MTP_Brace003_ASCII_v357" vertex3="MTP_Brace003_ASCII_v193"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v114" vertex2="MTP_Brace003_ASCII_v111" vertex3="MTP_Brace003_ASCII_v194"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v114" vertex2="MTP_Brace003_ASCII_v194" vertex3="MTP_Brace003_ASCII_v195"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v358" vertex2="MTP_Brace003_ASCII_v114" vertex3="MTP_Brace003_ASCII_v195"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v110" vertex2="MTP_Brace003_ASCII_v359" vertex3="MTP_Brace003_ASCII_v197"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v196" vertex2="MTP_Brace003_ASCII_v93" vertex3="MTP_Brace003_ASCII_v110"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v196" vertex2="MTP_Brace003_ASCII_v110" vertex3="MTP_Brace003_ASCII_v197"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v4" vertex2="MTP_Brace003_ASCII_v360" vertex3="MTP_Brace003_ASCII_v7"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v26" vertex2="MTP_Brace003_ASCII_v360" vertex3="MTP_Brace003_ASCII_v4"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v26" vertex2="MTP_Brace003_ASCII_v202" vertex3="MTP_Brace003_ASCII_v360"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v27" vertex2="MTP_Brace003_ASCII_v202" vertex3="MTP_Brace003_ASCII_v26"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v360" vertex2="MTP_Brace003_ASCII_v202" vertex3="MTP_Brace003_ASCII_v8"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v360" vertex2="MTP_Brace003_ASCII_v8" vertex3="MTP_Brace003_ASCII_v7"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v23" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v356"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v356" vertex2="MTP_Brace003_ASCII_v21" vertex3="MTP_Brace003_ASCII_v177"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v199" vertex2="MTP_Brace003_ASCII_v23" vertex3="MTP_Brace003_ASCII_v356"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v22" vertex2="MTP_Brace003_ASCII_v23" vertex3="MTP_Brace003_ASCII_v199"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v28" vertex2="MTP_Brace003_ASCII_v18" vertex3="MTP_Brace003_ASCII_v361"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v15" vertex2="MTP_Brace003_ASCII_v18" vertex3="MTP_Brace003_ASCII_v28"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v205" vertex2="MTP_Brace003_ASCII_v29" vertex3="MTP_Brace003_ASCII_v361"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v361" vertex2="MTP_Brace003_ASCII_v29" vertex3="MTP_Brace003_ASCII_v28"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v18" vertex2="MTP_Brace003_ASCII_v17" vertex3="MTP_Brace003_ASCII_v205"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v18" vertex2="MTP_Brace003_ASCII_v205" vertex3="MTP_Brace003_ASCII_v361"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v357" vertex2="MTP_Brace003_ASCII_v112" vertex3="MTP_Brace003_ASCII_v358"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v358" vertex2="MTP_Brace003_ASCII_v112" vertex3="MTP_Brace003_ASCII_v114"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v193" vertex2="MTP_Brace003_ASCII_v357" vertex3="MTP_Brace003_ASCII_v358"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v193" vertex2="MTP_Brace003_ASCII_v358" vertex3="MTP_Brace003_ASCII_v195"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v359" vertex2="MTP_Brace003_ASCII_v110" vertex3="MTP_Brace003_ASCII_v13"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v13" vertex2="MTP_Brace003_ASCII_v110" vertex3="MTP_Brace003_ASCII_v12"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v197" vertex2="MTP_Brace003_ASCII_v359" vertex3="MTP_Brace003_ASCII_v13"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v197" vertex2="MTP_Brace003_ASCII_v13" vertex3="MTP_Brace003_ASCII_v11"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v204" vertex2="MTP_Brace003_ASCII_v25" vertex3="MTP_Brace003_ASCII_v362"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v362" vertex2="MTP_Brace003_ASCII_v25" vertex3="MTP_Brace003_ASCII_v24"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v24" vertex2="MTP_Brace003_ASCII_v363" vertex3="MTP_Brace003_ASCII_v362"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v30" vertex2="MTP_Brace003_ASCII_v363" vertex3="MTP_Brace003_ASCII_v24"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v30" vertex2="MTP_Brace003_ASCII_v203" vertex3="MTP_Brace003_ASCII_v363"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v31" vertex2="MTP_Brace003_ASCII_v203" vertex3="MTP_Brace003_ASCII_v30"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v363" vertex2="MTP_Brace003_ASCII_v203" vertex3="MTP_Brace003_ASCII_v204"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v363" vertex2="MTP_Brace003_ASCII_v204" vertex3="MTP_Brace003_ASCII_v362"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v0" vertex3="MTP_Brace003_ASCII_v116"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v1" vertex2="MTP_Brace003_ASCII_v116" vertex3="MTP_Brace003_ASCII_v277"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v116" vertex2="MTP_Brace003_ASCII_v278" vertex3="MTP_Brace003_ASCII_v277"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v116" vertex2="MTP_Brace003_ASCII_v115" vertex3="MTP_Brace003_ASCII_v278"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v149" vertex2="MTP_Brace003_ASCII_v349" vertex3="MTP_Brace003_ASCII_v278"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v149" vertex2="MTP_Brace003_ASCII_v278" vertex3="MTP_Brace003_ASCII_v115"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v149" vertex2="MTP_Brace003_ASCII_v148" vertex3="MTP_Brace003_ASCII_v348"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v149" vertex2="MTP_Brace003_ASCII_v348" vertex3="MTP_Brace003_ASCII_v349"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v36" vertex2="MTP_Brace003_ASCII_v32" vertex3="MTP_Brace003_ASCII_v209"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v209" vertex2="MTP_Brace003_ASCII_v32" vertex3="MTP_Brace003_ASCII_v208"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v33" vertex2="MTP_Brace003_ASCII_v206" vertex3="MTP_Brace003_ASCII_v35"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v33" vertex2="MTP_Brace003_ASCII_v201" vertex3="MTP_Brace003_ASCII_v206"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v207" vertex2="MTP_Brace003_ASCII_v34" vertex3="MTP_Brace003_ASCII_v206"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v34" vertex2="MTP_Brace003_ASCII_v35" vertex3="MTP_Brace003_ASCII_v206"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v208" vertex2="MTP_Brace003_ASCII_v32" vertex3="MTP_Brace003_ASCII_v207"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v207" vertex2="MTP_Brace003_ASCII_v32" vertex3="MTP_Brace003_ASCII_v34"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v96" vertex2="MTP_Brace003_ASCII_v152" vertex3="MTP_Brace003_ASCII_v276"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v152" vertex2="MTP_Brace003_ASCII_v280" vertex3="MTP_Brace003_ASCII_v276"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v150" vertex2="MTP_Brace003_ASCII_v2" vertex3="MTP_Brace003_ASCII_v279"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v279" vertex2="MTP_Brace003_ASCII_v2" vertex3="MTP_Brace003_ASCII_v3"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v200" vertex2="MTP_Brace003_ASCII_v50" vertex3="MTP_Brace003_ASCII_v217"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v50" vertex2="MTP_Brace003_ASCII_v69" vertex3="MTP_Brace003_ASCII_v217"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v69" vertex2="MTP_Brace003_ASCII_v188" vertex3="MTP_Brace003_ASCII_v217"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v217" vertex2="MTP_Brace003_ASCII_v188" vertex3="MTP_Brace003_ASCII_v223"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v188" vertex2="MTP_Brace003_ASCII_v189" vertex3="MTP_Brace003_ASCII_v223"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v223" vertex2="MTP_Brace003_ASCII_v190" vertex3="MTP_Brace003_ASCII_v225"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v189" vertex2="MTP_Brace003_ASCII_v190" vertex3="MTP_Brace003_ASCII_v223"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v225" vertex2="MTP_Brace003_ASCII_v191" vertex3="MTP_Brace003_ASCII_v228"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v190" vertex2="MTP_Brace003_ASCII_v191" vertex3="MTP_Brace003_ASCII_v225"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v191" vertex2="MTP_Brace003_ASCII_v91" vertex3="MTP_Brace003_ASCII_v228"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v228" vertex2="MTP_Brace003_ASCII_v91" vertex3="MTP_Brace003_ASCII_v230"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v91" vertex2="MTP_Brace003_ASCII_v90" vertex3="MTP_Brace003_ASCII_v230"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v230" vertex2="MTP_Brace003_ASCII_v89" vertex3="MTP_Brace003_ASCII_v233"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v90" vertex2="MTP_Brace003_ASCII_v89" vertex3="MTP_Brace003_ASCII_v230"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v89" vertex2="MTP_Brace003_ASCII_v88" vertex3="MTP_Brace003_ASCII_v233"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v233" vertex2="MTP_Brace003_ASCII_v88" vertex3="MTP_Brace003_ASCII_v235"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v235" vertex2="MTP_Brace003_ASCII_v87" vertex3="MTP_Brace003_ASCII_v237"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v88" vertex2="MTP_Brace003_ASCII_v87" vertex3="MTP_Brace003_ASCII_v235"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v237" vertex2="MTP_Brace003_ASCII_v86" vertex3="MTP_Brace003_ASCII_v240"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v87" vertex2="MTP_Brace003_ASCII_v86" vertex3="MTP_Brace003_ASCII_v237"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v240" vertex2="MTP_Brace003_ASCII_v85" vertex3="MTP_Brace003_ASCII_v242"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v86" vertex2="MTP_Brace003_ASCII_v85" vertex3="MTP_Brace003_ASCII_v240"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v85" vertex2="MTP_Brace003_ASCII_v84" vertex3="MTP_Brace003_ASCII_v242"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v242" vertex2="MTP_Brace003_ASCII_v83" vertex3="MTP_Brace003_ASCII_v244"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v84" vertex2="MTP_Brace003_ASCII_v83" vertex3="MTP_Brace003_ASCII_v242"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v244" vertex2="MTP_Brace003_ASCII_v82" vertex3="MTP_Brace003_ASCII_v246"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v83" vertex2="MTP_Brace003_ASCII_v82" vertex3="MTP_Brace003_ASCII_v244"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v82" vertex2="MTP_Brace003_ASCII_v81" vertex3="MTP_Brace003_ASCII_v246"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v246" vertex2="MTP_Brace003_ASCII_v80" vertex3="MTP_Brace003_ASCII_v248"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v81" vertex2="MTP_Brace003_ASCII_v80" vertex3="MTP_Brace003_ASCII_v246"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v80" vertex2="MTP_Brace003_ASCII_v79" vertex3="MTP_Brace003_ASCII_v248"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v248" vertex2="MTP_Brace003_ASCII_v78" vertex3="MTP_Brace003_ASCII_v251"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v79" vertex2="MTP_Brace003_ASCII_v78" vertex3="MTP_Brace003_ASCII_v248"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v251" vertex2="MTP_Brace003_ASCII_v77" vertex3="MTP_Brace003_ASCII_v253"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v78" vertex2="MTP_Brace003_ASCII_v77" vertex3="MTP_Brace003_ASCII_v251"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v253" vertex2="MTP_Brace003_ASCII_v76" vertex3="MTP_Brace003_ASCII_v255"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v77" vertex2="MTP_Brace003_ASCII_v76" vertex3="MTP_Brace003_ASCII_v253"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v76" vertex2="MTP_Brace003_ASCII_v75" vertex3="MTP_Brace003_ASCII_v255"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v255" vertex2="MTP_Brace003_ASCII_v74" vertex3="MTP_Brace003_ASCII_v257"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v75" vertex2="MTP_Brace003_ASCII_v74" vertex3="MTP_Brace003_ASCII_v255"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v257" vertex2="MTP_Brace003_ASCII_v73" vertex3="MTP_Brace003_ASCII_v258"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v74" vertex2="MTP_Brace003_ASCII_v73" vertex3="MTP_Brace003_ASCII_v257"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v258" vertex2="MTP_Brace003_ASCII_v72" vertex3="MTP_Brace003_ASCII_v259"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v73" vertex2="MTP_Brace003_ASCII_v72" vertex3="MTP_Brace003_ASCII_v258"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v72" vertex2="MTP_Brace003_ASCII_v70" vertex3="MTP_Brace003_ASCII_v259"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v259" vertex2="MTP_Brace003_ASCII_v71" vertex3="MTP_Brace003_ASCII_v260"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v70" vertex2="MTP_Brace003_ASCII_v71" vertex3="MTP_Brace003_ASCII_v259"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v260" vertex2="MTP_Brace003_ASCII_v92" vertex3="MTP_Brace003_ASCII_v261"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v71" vertex2="MTP_Brace003_ASCII_v92" vertex3="MTP_Brace003_ASCII_v260"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v261" vertex2="MTP_Brace003_ASCII_v94" vertex3="MTP_Brace003_ASCII_v262"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v92" vertex2="MTP_Brace003_ASCII_v94" vertex3="MTP_Brace003_ASCII_v261"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v262" vertex2="MTP_Brace003_ASCII_v109" vertex3="MTP_Brace003_ASCII_v263"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v94" vertex2="MTP_Brace003_ASCII_v109" vertex3="MTP_Brace003_ASCII_v262"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v263" vertex2="MTP_Brace003_ASCII_v108" vertex3="MTP_Brace003_ASCII_v264"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v109" vertex2="MTP_Brace003_ASCII_v108" vertex3="MTP_Brace003_ASCII_v263"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v264" vertex2="MTP_Brace003_ASCII_v107" vertex3="MTP_Brace003_ASCII_v265"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v108" vertex2="MTP_Brace003_ASCII_v107" vertex3="MTP_Brace003_ASCII_v264"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v265" vertex2="MTP_Brace003_ASCII_v106" vertex3="MTP_Brace003_ASCII_v266"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v107" vertex2="MTP_Brace003_ASCII_v106" vertex3="MTP_Brace003_ASCII_v265"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v106" vertex2="MTP_Brace003_ASCII_v105" vertex3="MTP_Brace003_ASCII_v266"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v266" vertex2="MTP_Brace003_ASCII_v105" vertex3="MTP_Brace003_ASCII_v267"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v105" vertex2="MTP_Brace003_ASCII_v104" vertex3="MTP_Brace003_ASCII_v267"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v267" vertex2="MTP_Brace003_ASCII_v104" vertex3="MTP_Brace003_ASCII_v268"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v104" vertex2="MTP_Brace003_ASCII_v103" vertex3="MTP_Brace003_ASCII_v268"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v268" vertex2="MTP_Brace003_ASCII_v103" vertex3="MTP_Brace003_ASCII_v269"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v103" vertex2="MTP_Brace003_ASCII_v102" vertex3="MTP_Brace003_ASCII_v269"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v269" vertex2="MTP_Brace003_ASCII_v102" vertex3="MTP_Brace003_ASCII_v270"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v102" vertex2="MTP_Brace003_ASCII_v101" vertex3="MTP_Brace003_ASCII_v270"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v101" vertex2="MTP_Brace003_ASCII_v100" vertex3="MTP_Brace003_ASCII_v270"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v270" vertex2="MTP_Brace003_ASCII_v100" vertex3="MTP_Brace003_ASCII_v271"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v100" vertex2="MTP_Brace003_ASCII_v99" vertex3="MTP_Brace003_ASCII_v271"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v271" vertex2="MTP_Brace003_ASCII_v99" vertex3="MTP_Brace003_ASCII_v272"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v99" vertex2="MTP_Brace003_ASCII_v98" vertex3="MTP_Brace003_ASCII_v272"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v272" vertex2="MTP_Brace003_ASCII_v98" vertex3="MTP_Brace003_ASCII_v273"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v98" vertex2="MTP_Brace003_ASCII_v97" vertex3="MTP_Brace003_ASCII_v273"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v273" vertex2="MTP_Brace003_ASCII_v97" vertex3="MTP_Brace003_ASCII_v274"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v274" vertex2="MTP_Brace003_ASCII_v95" vertex3="MTP_Brace003_ASCII_v275"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v97" vertex2="MTP_Brace003_ASCII_v95" vertex3="MTP_Brace003_ASCII_v274"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v95" vertex2="MTP_Brace003_ASCII_v96" vertex3="MTP_Brace003_ASCII_v275"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v275" vertex2="MTP_Brace003_ASCII_v96" vertex3="MTP_Brace003_ASCII_v276"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v152" vertex2="MTP_Brace003_ASCII_v168" vertex3="MTP_Brace003_ASCII_v280"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v280" vertex2="MTP_Brace003_ASCII_v168" vertex3="MTP_Brace003_ASCII_v350"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v350" vertex2="MTP_Brace003_ASCII_v167" vertex3="MTP_Brace003_ASCII_v351"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v168" vertex2="MTP_Brace003_ASCII_v167" vertex3="MTP_Brace003_ASCII_v350"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v351" vertex2="MTP_Brace003_ASCII_v166" vertex3="MTP_Brace003_ASCII_v352"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v167" vertex2="MTP_Brace003_ASCII_v166" vertex3="MTP_Brace003_ASCII_v351"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v166" vertex2="MTP_Brace003_ASCII_v165" vertex3="MTP_Brace003_ASCII_v352"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v352" vertex2="MTP_Brace003_ASCII_v165" vertex3="MTP_Brace003_ASCII_v353"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v165" vertex2="MTP_Brace003_ASCII_v164" vertex3="MTP_Brace003_ASCII_v353"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v353" vertex2="MTP_Brace003_ASCII_v164" vertex3="MTP_Brace003_ASCII_v354"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v354" vertex2="MTP_Brace003_ASCII_v163" vertex3="MTP_Brace003_ASCII_v355"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v355" vertex2="MTP_Brace003_ASCII_v163" vertex3="MTP_Brace003_ASCII_v338"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v164" vertex2="MTP_Brace003_ASCII_v163" vertex3="MTP_Brace003_ASCII_v354"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v338" vertex2="MTP_Brace003_ASCII_v162" vertex3="MTP_Brace003_ASCII_v337"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v163" vertex2="MTP_Brace003_ASCII_v162" vertex3="MTP_Brace003_ASCII_v338"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v337" vertex2="MTP_Brace003_ASCII_v161" vertex3="MTP_Brace003_ASCII_v339"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v162" vertex2="MTP_Brace003_ASCII_v161" vertex3="MTP_Brace003_ASCII_v337"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v339" vertex2="MTP_Brace003_ASCII_v160" vertex3="MTP_Brace003_ASCII_v340"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v161" vertex2="MTP_Brace003_ASCII_v160" vertex3="MTP_Brace003_ASCII_v339"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v340" vertex2="MTP_Brace003_ASCII_v159" vertex3="MTP_Brace003_ASCII_v341"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v160" vertex2="MTP_Brace003_ASCII_v159" vertex3="MTP_Brace003_ASCII_v340"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v341" vertex2="MTP_Brace003_ASCII_v158" vertex3="MTP_Brace003_ASCII_v342"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v159" vertex2="MTP_Brace003_ASCII_v158" vertex3="MTP_Brace003_ASCII_v341"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v342" vertex2="MTP_Brace003_ASCII_v157" vertex3="MTP_Brace003_ASCII_v343"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v158" vertex2="MTP_Brace003_ASCII_v157" vertex3="MTP_Brace003_ASCII_v342"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v343" vertex2="MTP_Brace003_ASCII_v156" vertex3="MTP_Brace003_ASCII_v344"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v157" vertex2="MTP_Brace003_ASCII_v156" vertex3="MTP_Brace003_ASCII_v343"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v344" vertex2="MTP_Brace003_ASCII_v155" vertex3="MTP_Brace003_ASCII_v345"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v156" vertex2="MTP_Brace003_ASCII_v155" vertex3="MTP_Brace003_ASCII_v344"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v345" vertex2="MTP_Brace003_ASCII_v153" vertex3="MTP_Brace003_ASCII_v346"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v155" vertex2="MTP_Brace003_ASCII_v153" vertex3="MTP_Brace003_ASCII_v345"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v346" vertex2="MTP_Brace003_ASCII_v154" vertex3="MTP_Brace003_ASCII_v347"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v153" vertex2="MTP_Brace003_ASCII_v154" vertex3="MTP_Brace003_ASCII_v346"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v347" vertex2="MTP_Brace003_ASCII_v185" vertex3="MTP_Brace003_ASCII_v336"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v336" vertex2="MTP_Brace003_ASCII_v185" vertex3="MTP_Brace003_ASCII_v335"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v154" vertex2="MTP_Brace003_ASCII_v185" vertex3="MTP_Brace003_ASCII_v347"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v335" vertex2="MTP_Brace003_ASCII_v184" vertex3="MTP_Brace003_ASCII_v333"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v185" vertex2="MTP_Brace003_ASCII_v184" vertex3="MTP_Brace003_ASCII_v335"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v333" vertex2="MTP_Brace003_ASCII_v183" vertex3="MTP_Brace003_ASCII_v330"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v184" vertex2="MTP_Brace003_ASCII_v183" vertex3="MTP_Brace003_ASCII_v333"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v330" vertex2="MTP_Brace003_ASCII_v182" vertex3="MTP_Brace003_ASCII_v327"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v327" vertex2="MTP_Brace003_ASCII_v182" vertex3="MTP_Brace003_ASCII_v326"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v183" vertex2="MTP_Brace003_ASCII_v182" vertex3="MTP_Brace003_ASCII_v330"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v326" vertex2="MTP_Brace003_ASCII_v181" vertex3="MTP_Brace003_ASCII_v323"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v182" vertex2="MTP_Brace003_ASCII_v181" vertex3="MTP_Brace003_ASCII_v326"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v323" vertex2="MTP_Brace003_ASCII_v180" vertex3="MTP_Brace003_ASCII_v320"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v181" vertex2="MTP_Brace003_ASCII_v180" vertex3="MTP_Brace003_ASCII_v323"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v320" vertex2="MTP_Brace003_ASCII_v179" vertex3="MTP_Brace003_ASCII_v317"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v317" vertex2="MTP_Brace003_ASCII_v179" vertex3="MTP_Brace003_ASCII_v315"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v180" vertex2="MTP_Brace003_ASCII_v179" vertex3="MTP_Brace003_ASCII_v320"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v315" vertex2="MTP_Brace003_ASCII_v178" vertex3="MTP_Brace003_ASCII_v313"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v313" vertex2="MTP_Brace003_ASCII_v178" vertex3="MTP_Brace003_ASCII_v310"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v179" vertex2="MTP_Brace003_ASCII_v178" vertex3="MTP_Brace003_ASCII_v315"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v310" vertex2="MTP_Brace003_ASCII_v176" vertex3="MTP_Brace003_ASCII_v307"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v178" vertex2="MTP_Brace003_ASCII_v176" vertex3="MTP_Brace003_ASCII_v310"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v307" vertex2="MTP_Brace003_ASCII_v175" vertex3="MTP_Brace003_ASCII_v304"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v304" vertex2="MTP_Brace003_ASCII_v175" vertex3="MTP_Brace003_ASCII_v301"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v176" vertex2="MTP_Brace003_ASCII_v175" vertex3="MTP_Brace003_ASCII_v307"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v301" vertex2="MTP_Brace003_ASCII_v174" vertex3="MTP_Brace003_ASCII_v299"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v175" vertex2="MTP_Brace003_ASCII_v174" vertex3="MTP_Brace003_ASCII_v301"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v174" vertex2="MTP_Brace003_ASCII_v173" vertex3="MTP_Brace003_ASCII_v299"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v299" vertex2="MTP_Brace003_ASCII_v173" vertex3="MTP_Brace003_ASCII_v293"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v173" vertex2="MTP_Brace003_ASCII_v172" vertex3="MTP_Brace003_ASCII_v293"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v293" vertex2="MTP_Brace003_ASCII_v172" vertex3="MTP_Brace003_ASCII_v289"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v172" vertex2="MTP_Brace003_ASCII_v171" vertex3="MTP_Brace003_ASCII_v289"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v289" vertex2="MTP_Brace003_ASCII_v171" vertex3="MTP_Brace003_ASCII_v285"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v171" vertex2="MTP_Brace003_ASCII_v169" vertex3="MTP_Brace003_ASCII_v285"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v285" vertex2="MTP_Brace003_ASCII_v169" vertex3="MTP_Brace003_ASCII_v283"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v283" vertex2="MTP_Brace003_ASCII_v169" vertex3="MTP_Brace003_ASCII_v281"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v169" vertex2="MTP_Brace003_ASCII_v170" vertex3="MTP_Brace003_ASCII_v281"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v281" vertex2="MTP_Brace003_ASCII_v170" vertex3="MTP_Brace003_ASCII_v286"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v170" vertex2="MTP_Brace003_ASCII_v187" vertex3="MTP_Brace003_ASCII_v286"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v286" vertex2="MTP_Brace003_ASCII_v187" vertex3="MTP_Brace003_ASCII_v290"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v187" vertex2="MTP_Brace003_ASCII_v186" vertex3="MTP_Brace003_ASCII_v290"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v290" vertex2="MTP_Brace003_ASCII_v186" vertex3="MTP_Brace003_ASCII_v294"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v294" vertex2="MTP_Brace003_ASCII_v186" vertex3="MTP_Brace003_ASCII_v296"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v186" vertex2="MTP_Brace003_ASCII_v150" vertex3="MTP_Brace003_ASCII_v296"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v296" vertex2="MTP_Brace003_ASCII_v150" vertex3="MTP_Brace003_ASCII_v279"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v36" vertex2="MTP_Brace003_ASCII_v209" vertex3="MTP_Brace003_ASCII_v37"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v37" vertex2="MTP_Brace003_ASCII_v210" vertex3="MTP_Brace003_ASCII_v38"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v209" vertex2="MTP_Brace003_ASCII_v210" vertex3="MTP_Brace003_ASCII_v37"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v38" vertex2="MTP_Brace003_ASCII_v211" vertex3="MTP_Brace003_ASCII_v39"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v210" vertex2="MTP_Brace003_ASCII_v211" vertex3="MTP_Brace003_ASCII_v38"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v39" vertex2="MTP_Brace003_ASCII_v212" vertex3="MTP_Brace003_ASCII_v40"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v211" vertex2="MTP_Brace003_ASCII_v212" vertex3="MTP_Brace003_ASCII_v39"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v40" vertex2="MTP_Brace003_ASCII_v213" vertex3="MTP_Brace003_ASCII_v41"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v212" vertex2="MTP_Brace003_ASCII_v213" vertex3="MTP_Brace003_ASCII_v40"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v41" vertex2="MTP_Brace003_ASCII_v214" vertex3="MTP_Brace003_ASCII_v42"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v213" vertex2="MTP_Brace003_ASCII_v214" vertex3="MTP_Brace003_ASCII_v41"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v42" vertex2="MTP_Brace003_ASCII_v215" vertex3="MTP_Brace003_ASCII_v43"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v214" vertex2="MTP_Brace003_ASCII_v215" vertex3="MTP_Brace003_ASCII_v42"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v43" vertex2="MTP_Brace003_ASCII_v216" vertex3="MTP_Brace003_ASCII_v44"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v215" vertex2="MTP_Brace003_ASCII_v216" vertex3="MTP_Brace003_ASCII_v43"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v216" vertex2="MTP_Brace003_ASCII_v222" vertex3="MTP_Brace003_ASCII_v44"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v44" vertex2="MTP_Brace003_ASCII_v222" vertex3="MTP_Brace003_ASCII_v45"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v222" vertex2="MTP_Brace003_ASCII_v221" vertex3="MTP_Brace003_ASCII_v45"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v45" vertex2="MTP_Brace003_ASCII_v221" vertex3="MTP_Brace003_ASCII_v46"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v46" vertex2="MTP_Brace003_ASCII_v220" vertex3="MTP_Brace003_ASCII_v47"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v221" vertex2="MTP_Brace003_ASCII_v220" vertex3="MTP_Brace003_ASCII_v46"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v47" vertex2="MTP_Brace003_ASCII_v218" vertex3="MTP_Brace003_ASCII_v48"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v220" vertex2="MTP_Brace003_ASCII_v218" vertex3="MTP_Brace003_ASCII_v47"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v48" vertex2="MTP_Brace003_ASCII_v219" vertex3="MTP_Brace003_ASCII_v49"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v218" vertex2="MTP_Brace003_ASCII_v219" vertex3="MTP_Brace003_ASCII_v48"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v49" vertex2="MTP_Brace003_ASCII_v224" vertex3="MTP_Brace003_ASCII_v51"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v219" vertex2="MTP_Brace003_ASCII_v224" vertex3="MTP_Brace003_ASCII_v49"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v51" vertex2="MTP_Brace003_ASCII_v226" vertex3="MTP_Brace003_ASCII_v52"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v224" vertex2="MTP_Brace003_ASCII_v226" vertex3="MTP_Brace003_ASCII_v51"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v52" vertex2="MTP_Brace003_ASCII_v227" vertex3="MTP_Brace003_ASCII_v53"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v226" vertex2="MTP_Brace003_ASCII_v227" vertex3="MTP_Brace003_ASCII_v52"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v227" vertex2="MTP_Brace003_ASCII_v229" vertex3="MTP_Brace003_ASCII_v53"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v53" vertex2="MTP_Brace003_ASCII_v231" vertex3="MTP_Brace003_ASCII_v54"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v54" vertex2="MTP_Brace003_ASCII_v231" vertex3="MTP_Brace003_ASCII_v55"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v229" vertex2="MTP_Brace003_ASCII_v231" vertex3="MTP_Brace003_ASCII_v53"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v231" vertex2="MTP_Brace003_ASCII_v232" vertex3="MTP_Brace003_ASCII_v55"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v55" vertex2="MTP_Brace003_ASCII_v234" vertex3="MTP_Brace003_ASCII_v56"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v56" vertex2="MTP_Brace003_ASCII_v234" vertex3="MTP_Brace003_ASCII_v57"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v232" vertex2="MTP_Brace003_ASCII_v234" vertex3="MTP_Brace003_ASCII_v55"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v57" vertex2="MTP_Brace003_ASCII_v236" vertex3="MTP_Brace003_ASCII_v58"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v234" vertex2="MTP_Brace003_ASCII_v236" vertex3="MTP_Brace003_ASCII_v57"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v58" vertex2="MTP_Brace003_ASCII_v238" vertex3="MTP_Brace003_ASCII_v59"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v236" vertex2="MTP_Brace003_ASCII_v238" vertex3="MTP_Brace003_ASCII_v58"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v238" vertex2="MTP_Brace003_ASCII_v239" vertex3="MTP_Brace003_ASCII_v59"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v59" vertex2="MTP_Brace003_ASCII_v241" vertex3="MTP_Brace003_ASCII_v60"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v60" vertex2="MTP_Brace003_ASCII_v241" vertex3="MTP_Brace003_ASCII_v61"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v239" vertex2="MTP_Brace003_ASCII_v241" vertex3="MTP_Brace003_ASCII_v59"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v61" vertex2="MTP_Brace003_ASCII_v243" vertex3="MTP_Brace003_ASCII_v62"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v241" vertex2="MTP_Brace003_ASCII_v243" vertex3="MTP_Brace003_ASCII_v61"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v62" vertex2="MTP_Brace003_ASCII_v245" vertex3="MTP_Brace003_ASCII_v63"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v243" vertex2="MTP_Brace003_ASCII_v245" vertex3="MTP_Brace003_ASCII_v62"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v63" vertex2="MTP_Brace003_ASCII_v247" vertex3="MTP_Brace003_ASCII_v64"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v245" vertex2="MTP_Brace003_ASCII_v247" vertex3="MTP_Brace003_ASCII_v63"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v64" vertex2="MTP_Brace003_ASCII_v249" vertex3="MTP_Brace003_ASCII_v65"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v247" vertex2="MTP_Brace003_ASCII_v249" vertex3="MTP_Brace003_ASCII_v64"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v65" vertex2="MTP_Brace003_ASCII_v250" vertex3="MTP_Brace003_ASCII_v66"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v249" vertex2="MTP_Brace003_ASCII_v250" vertex3="MTP_Brace003_ASCII_v65"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v250" vertex2="MTP_Brace003_ASCII_v252" vertex3="MTP_Brace003_ASCII_v66"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v66" vertex2="MTP_Brace003_ASCII_v254" vertex3="MTP_Brace003_ASCII_v67"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v67" vertex2="MTP_Brace003_ASCII_v254" vertex3="MTP_Brace003_ASCII_v68"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v252" vertex2="MTP_Brace003_ASCII_v254" vertex3="MTP_Brace003_ASCII_v66"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v68" vertex2="MTP_Brace003_ASCII_v256" vertex3="MTP_Brace003_ASCII_v9"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v254" vertex2="MTP_Brace003_ASCII_v256" vertex3="MTP_Brace003_ASCII_v68"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v256" vertex2="MTP_Brace003_ASCII_v6" vertex3="MTP_Brace003_ASCII_v9"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v19" vertex2="MTP_Brace003_ASCII_v16" vertex3="MTP_Brace003_ASCII_v147"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v147" vertex2="MTP_Brace003_ASCII_v332" vertex3="MTP_Brace003_ASCII_v144"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v16" vertex2="MTP_Brace003_ASCII_v332" vertex3="MTP_Brace003_ASCII_v147"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v144" vertex2="MTP_Brace003_ASCII_v329" vertex3="MTP_Brace003_ASCII_v143"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v332" vertex2="MTP_Brace003_ASCII_v329" vertex3="MTP_Brace003_ASCII_v144"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v143" vertex2="MTP_Brace003_ASCII_v325" vertex3="MTP_Brace003_ASCII_v141"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v329" vertex2="MTP_Brace003_ASCII_v325" vertex3="MTP_Brace003_ASCII_v143"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v141" vertex2="MTP_Brace003_ASCII_v322" vertex3="MTP_Brace003_ASCII_v139"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v325" vertex2="MTP_Brace003_ASCII_v322" vertex3="MTP_Brace003_ASCII_v141"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v139" vertex2="MTP_Brace003_ASCII_v319" vertex3="MTP_Brace003_ASCII_v137"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v322" vertex2="MTP_Brace003_ASCII_v319" vertex3="MTP_Brace003_ASCII_v139"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v137" vertex2="MTP_Brace003_ASCII_v316" vertex3="MTP_Brace003_ASCII_v134"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v319" vertex2="MTP_Brace003_ASCII_v316" vertex3="MTP_Brace003_ASCII_v137"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v134" vertex2="MTP_Brace003_ASCII_v312" vertex3="MTP_Brace003_ASCII_v133"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v316" vertex2="MTP_Brace003_ASCII_v312" vertex3="MTP_Brace003_ASCII_v134"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v312" vertex2="MTP_Brace003_ASCII_v309" vertex3="MTP_Brace003_ASCII_v133"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v133" vertex2="MTP_Brace003_ASCII_v309" vertex3="MTP_Brace003_ASCII_v131"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v309" vertex2="MTP_Brace003_ASCII_v306" vertex3="MTP_Brace003_ASCII_v131"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v131" vertex2="MTP_Brace003_ASCII_v306" vertex3="MTP_Brace003_ASCII_v128"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v128" vertex2="MTP_Brace003_ASCII_v303" vertex3="MTP_Brace003_ASCII_v126"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v306" vertex2="MTP_Brace003_ASCII_v303" vertex3="MTP_Brace003_ASCII_v128"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v126" vertex2="MTP_Brace003_ASCII_v300" vertex3="MTP_Brace003_ASCII_v124"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v303" vertex2="MTP_Brace003_ASCII_v300" vertex3="MTP_Brace003_ASCII_v126"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v124" vertex2="MTP_Brace003_ASCII_v298" vertex3="MTP_Brace003_ASCII_v122"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v300" vertex2="MTP_Brace003_ASCII_v298" vertex3="MTP_Brace003_ASCII_v124"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v122" vertex2="MTP_Brace003_ASCII_v292" vertex3="MTP_Brace003_ASCII_v121"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v298" vertex2="MTP_Brace003_ASCII_v292" vertex3="MTP_Brace003_ASCII_v122"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v121" vertex2="MTP_Brace003_ASCII_v288" vertex3="MTP_Brace003_ASCII_v117"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v292" vertex2="MTP_Brace003_ASCII_v288" vertex3="MTP_Brace003_ASCII_v121"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v117" vertex2="MTP_Brace003_ASCII_v284" vertex3="MTP_Brace003_ASCII_v118"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v288" vertex2="MTP_Brace003_ASCII_v284" vertex3="MTP_Brace003_ASCII_v117"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v118" vertex2="MTP_Brace003_ASCII_v282" vertex3="MTP_Brace003_ASCII_v119"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v284" vertex2="MTP_Brace003_ASCII_v282" vertex3="MTP_Brace003_ASCII_v118"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v119" vertex2="MTP_Brace003_ASCII_v287" vertex3="MTP_Brace003_ASCII_v120"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v282" vertex2="MTP_Brace003_ASCII_v287" vertex3="MTP_Brace003_ASCII_v119"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v120" vertex2="MTP_Brace003_ASCII_v291" vertex3="MTP_Brace003_ASCII_v123"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v287" vertex2="MTP_Brace003_ASCII_v291" vertex3="MTP_Brace003_ASCII_v120"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v123" vertex2="MTP_Brace003_ASCII_v295" vertex3="MTP_Brace003_ASCII_v125"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v291" vertex2="MTP_Brace003_ASCII_v295" vertex3="MTP_Brace003_ASCII_v123"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v125" vertex2="MTP_Brace003_ASCII_v297" vertex3="MTP_Brace003_ASCII_v127"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v295" vertex2="MTP_Brace003_ASCII_v297" vertex3="MTP_Brace003_ASCII_v125"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v127" vertex2="MTP_Brace003_ASCII_v302" vertex3="MTP_Brace003_ASCII_v129"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v297" vertex2="MTP_Brace003_ASCII_v302" vertex3="MTP_Brace003_ASCII_v127"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v129" vertex2="MTP_Brace003_ASCII_v305" vertex3="MTP_Brace003_ASCII_v130"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v302" vertex2="MTP_Brace003_ASCII_v305" vertex3="MTP_Brace003_ASCII_v129"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v130" vertex2="MTP_Brace003_ASCII_v308" vertex3="MTP_Brace003_ASCII_v132"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v305" vertex2="MTP_Brace003_ASCII_v308" vertex3="MTP_Brace003_ASCII_v130"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v132" vertex2="MTP_Brace003_ASCII_v311" vertex3="MTP_Brace003_ASCII_v135"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v308" vertex2="MTP_Brace003_ASCII_v311" vertex3="MTP_Brace003_ASCII_v132"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v135" vertex2="MTP_Brace003_ASCII_v314" vertex3="MTP_Brace003_ASCII_v136"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v311" vertex2="MTP_Brace003_ASCII_v314" vertex3="MTP_Brace003_ASCII_v135"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v136" vertex2="MTP_Brace003_ASCII_v318" vertex3="MTP_Brace003_ASCII_v138"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v314" vertex2="MTP_Brace003_ASCII_v318" vertex3="MTP_Brace003_ASCII_v136"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v138" vertex2="MTP_Brace003_ASCII_v321" vertex3="MTP_Brace003_ASCII_v140"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v318" vertex2="MTP_Brace003_ASCII_v321" vertex3="MTP_Brace003_ASCII_v138"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v140" vertex2="MTP_Brace003_ASCII_v324" vertex3="MTP_Brace003_ASCII_v142"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v321" vertex2="MTP_Brace003_ASCII_v324" vertex3="MTP_Brace003_ASCII_v140"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v142" vertex2="MTP_Brace003_ASCII_v328" vertex3="MTP_Brace003_ASCII_v145"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v324" vertex2="MTP_Brace003_ASCII_v328" vertex3="MTP_Brace003_ASCII_v142"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v328" vertex2="MTP_Brace003_ASCII_v331" vertex3="MTP_Brace003_ASCII_v145"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v145" vertex2="MTP_Brace003_ASCII_v334" vertex3="MTP_Brace003_ASCII_v146"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v331" vertex2="MTP_Brace003_ASCII_v334" vertex3="MTP_Brace003_ASCII_v145"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v146" vertex2="MTP_Brace003_ASCII_v348" vertex3="MTP_Brace003_ASCII_v148"/>
+             <triangular vertex1="MTP_Brace003_ASCII_v334" vertex2="MTP_Brace003_ASCII_v348" vertex3="MTP_Brace003_ASCII_v146"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="MTP_Brace003_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="MTP_Brace003_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="MTP_Brace003_ASCII"/>
+    </setup>
+</gdml>

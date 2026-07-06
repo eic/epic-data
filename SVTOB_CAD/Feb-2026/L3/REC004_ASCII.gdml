@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="REC004_ASCII_v0" unit="mm" x="15.622750854492182" y="-2.8246520996093523" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v1" unit="mm" x="19.46050415039062" y="-2.0635437011718523" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v2" unit="mm" x="19.46050415039062" y="-2.0635437011718523" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v3" unit="mm" x="15.622750854492182" y="-2.8246520996093523" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v4" unit="mm" x="11.755578613281244" y="-3.4184326171874773" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v5" unit="mm" x="11.755578613281244" y="-3.4184326171874773" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v6" unit="mm" x="7.866281127929682" y="-3.8437561035156023" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v7" unit="mm" x="7.866281127929682" y="-3.8437561035156023" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v8" unit="mm" x="3.9621826171874943" y="-4.099859619140602" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v9" unit="mm" x="3.9621826171874943" y="-4.099859619140602" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v10" unit="mm" x="0.050637817382806816" y="-4.186193847656227" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v11" unit="mm" x="0.050637817382806816" y="-4.186193847656227" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v12" unit="mm" x="0.050622558593744316" y="-4.136206054687477" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v13" unit="mm" x="0.050622558593744316" y="-4.136206054687477" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v14" unit="mm" x="19.449716186523432" y="-2.0147460937499773" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v15" unit="mm" x="15.614099121093744" y="-2.7754272460937273" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v16" unit="mm" x="19.449716186523432" y="-2.0147460937499773" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v17" unit="mm" x="15.614099121093744" y="-2.7754272460937273" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v18" unit="mm" x="11.74907836914062" y="-3.3688720703124773" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v19" unit="mm" x="11.74907836914062" y="-3.3688720703124773" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v20" unit="mm" x="7.861932373046869" y="-3.7939514160156023" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v21" unit="mm" x="7.861932373046869" y="-3.7939514160156023" z="3.854360961914068"/>
+        <position name="REC004_ASCII_v22" unit="mm" x="3.9599853515624943" y="-4.049902343749977" z="2.354360961914068"/>
+        <position name="REC004_ASCII_v23" unit="mm" x="3.9599853515624943" y="-4.049902343749977" z="3.854360961914068"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="REC004_ASCII-SOL">
+             <triangular vertex1="REC004_ASCII_v0" vertex2="REC004_ASCII_v1" vertex3="REC004_ASCII_v2"/>
+             <triangular vertex1="REC004_ASCII_v0" vertex2="REC004_ASCII_v2" vertex3="REC004_ASCII_v3"/>
+             <triangular vertex1="REC004_ASCII_v4" vertex2="REC004_ASCII_v3" vertex3="REC004_ASCII_v5"/>
+             <triangular vertex1="REC004_ASCII_v4" vertex2="REC004_ASCII_v0" vertex3="REC004_ASCII_v3"/>
+             <triangular vertex1="REC004_ASCII_v6" vertex2="REC004_ASCII_v5" vertex3="REC004_ASCII_v7"/>
+             <triangular vertex1="REC004_ASCII_v6" vertex2="REC004_ASCII_v4" vertex3="REC004_ASCII_v5"/>
+             <triangular vertex1="REC004_ASCII_v8" vertex2="REC004_ASCII_v7" vertex3="REC004_ASCII_v9"/>
+             <triangular vertex1="REC004_ASCII_v8" vertex2="REC004_ASCII_v6" vertex3="REC004_ASCII_v7"/>
+             <triangular vertex1="REC004_ASCII_v10" vertex2="REC004_ASCII_v9" vertex3="REC004_ASCII_v11"/>
+             <triangular vertex1="REC004_ASCII_v10" vertex2="REC004_ASCII_v8" vertex3="REC004_ASCII_v9"/>
+             <triangular vertex1="REC004_ASCII_v12" vertex2="REC004_ASCII_v10" vertex3="REC004_ASCII_v11"/>
+             <triangular vertex1="REC004_ASCII_v12" vertex2="REC004_ASCII_v11" vertex3="REC004_ASCII_v13"/>
+             <triangular vertex1="REC004_ASCII_v14" vertex2="REC004_ASCII_v15" vertex3="REC004_ASCII_v16"/>
+             <triangular vertex1="REC004_ASCII_v16" vertex2="REC004_ASCII_v15" vertex3="REC004_ASCII_v17"/>
+             <triangular vertex1="REC004_ASCII_v17" vertex2="REC004_ASCII_v18" vertex3="REC004_ASCII_v19"/>
+             <triangular vertex1="REC004_ASCII_v15" vertex2="REC004_ASCII_v18" vertex3="REC004_ASCII_v17"/>
+             <triangular vertex1="REC004_ASCII_v19" vertex2="REC004_ASCII_v20" vertex3="REC004_ASCII_v21"/>
+             <triangular vertex1="REC004_ASCII_v18" vertex2="REC004_ASCII_v20" vertex3="REC004_ASCII_v19"/>
+             <triangular vertex1="REC004_ASCII_v21" vertex2="REC004_ASCII_v22" vertex3="REC004_ASCII_v23"/>
+             <triangular vertex1="REC004_ASCII_v20" vertex2="REC004_ASCII_v22" vertex3="REC004_ASCII_v21"/>
+             <triangular vertex1="REC004_ASCII_v23" vertex2="REC004_ASCII_v12" vertex3="REC004_ASCII_v13"/>
+             <triangular vertex1="REC004_ASCII_v22" vertex2="REC004_ASCII_v12" vertex3="REC004_ASCII_v23"/>
+             <triangular vertex1="REC004_ASCII_v1" vertex2="REC004_ASCII_v14" vertex3="REC004_ASCII_v16"/>
+             <triangular vertex1="REC004_ASCII_v1" vertex2="REC004_ASCII_v16" vertex3="REC004_ASCII_v2"/>
+             <triangular vertex1="REC004_ASCII_v12" vertex2="REC004_ASCII_v22" vertex3="REC004_ASCII_v10"/>
+             <triangular vertex1="REC004_ASCII_v22" vertex2="REC004_ASCII_v8" vertex3="REC004_ASCII_v10"/>
+             <triangular vertex1="REC004_ASCII_v22" vertex2="REC004_ASCII_v20" vertex3="REC004_ASCII_v8"/>
+             <triangular vertex1="REC004_ASCII_v20" vertex2="REC004_ASCII_v6" vertex3="REC004_ASCII_v8"/>
+             <triangular vertex1="REC004_ASCII_v20" vertex2="REC004_ASCII_v18" vertex3="REC004_ASCII_v6"/>
+             <triangular vertex1="REC004_ASCII_v18" vertex2="REC004_ASCII_v4" vertex3="REC004_ASCII_v6"/>
+             <triangular vertex1="REC004_ASCII_v15" vertex2="REC004_ASCII_v0" vertex3="REC004_ASCII_v18"/>
+             <triangular vertex1="REC004_ASCII_v18" vertex2="REC004_ASCII_v0" vertex3="REC004_ASCII_v4"/>
+             <triangular vertex1="REC004_ASCII_v14" vertex2="REC004_ASCII_v1" vertex3="REC004_ASCII_v15"/>
+             <triangular vertex1="REC004_ASCII_v15" vertex2="REC004_ASCII_v1" vertex3="REC004_ASCII_v0"/>
+             <triangular vertex1="REC004_ASCII_v23" vertex2="REC004_ASCII_v13" vertex3="REC004_ASCII_v11"/>
+             <triangular vertex1="REC004_ASCII_v9" vertex2="REC004_ASCII_v23" vertex3="REC004_ASCII_v11"/>
+             <triangular vertex1="REC004_ASCII_v21" vertex2="REC004_ASCII_v23" vertex3="REC004_ASCII_v9"/>
+             <triangular vertex1="REC004_ASCII_v7" vertex2="REC004_ASCII_v21" vertex3="REC004_ASCII_v9"/>
+             <triangular vertex1="REC004_ASCII_v19" vertex2="REC004_ASCII_v21" vertex3="REC004_ASCII_v7"/>
+             <triangular vertex1="REC004_ASCII_v5" vertex2="REC004_ASCII_v19" vertex3="REC004_ASCII_v7"/>
+             <triangular vertex1="REC004_ASCII_v3" vertex2="REC004_ASCII_v17" vertex3="REC004_ASCII_v19"/>
+             <triangular vertex1="REC004_ASCII_v3" vertex2="REC004_ASCII_v19" vertex3="REC004_ASCII_v5"/>
+             <triangular vertex1="REC004_ASCII_v2" vertex2="REC004_ASCII_v16" vertex3="REC004_ASCII_v17"/>
+             <triangular vertex1="REC004_ASCII_v2" vertex2="REC004_ASCII_v17" vertex3="REC004_ASCII_v3"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="REC004_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="REC004_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="REC004_ASCII"/>
+    </setup>
+</gdml>

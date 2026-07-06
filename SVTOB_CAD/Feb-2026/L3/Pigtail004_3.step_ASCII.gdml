@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Pigtail004_3.step_ASCII_v0" unit="mm" x="-6.524450683593756" y="54.10512695312502" z="-320.47698364257815"/>
+        <position name="Pigtail004_3.step_ASCII_v1" unit="mm" x="-6.518240356445318" y="54.09188232421877" z="-320.4903961181641"/>
+        <position name="Pigtail004_3.step_ASCII_v2" unit="mm" x="-6.521719360351568" y="54.09841308593752" z="-320.4837814331055"/>
+        <position name="Pigtail004_3.step_ASCII_v3" unit="mm" x="-6.526419067382818" y="54.13985595703127" z="-320.4419189453125"/>
+        <position name="Pigtail004_3.step_ASCII_v4" unit="mm" x="-6.527990722656256" y="54.12593994140627" z="-320.45598754882815"/>
+        <position name="Pigtail004_3.step_ASCII_v5" unit="mm" x="-6.527593994140631" y="54.13289794921877" z="-320.44893035888674"/>
+        <position name="Pigtail004_3.step_ASCII_v6" unit="mm" x="-6.466925048828131" y="54.20150146484377" z="-320.379655456543"/>
+        <position name="Pigtail004_3.step_ASCII_v7" unit="mm" x="-6.458197021484381" y="54.2048278808594" z="-320.3762832641602"/>
+        <position name="Pigtail004_3.step_ASCII_v8" unit="mm" x="-6.449102783203131" y="54.20766601562502" z="-320.37342224121096"/>
+        <position name="Pigtail004_3.step_ASCII_v9" unit="mm" x="-6.439733886718756" y="54.20998535156252" z="-320.37108001708987"/>
+        <position name="Pigtail004_3.step_ASCII_v10" unit="mm" x="-6.483129882812506" y="54.19341430664065" z="-320.3878112792969"/>
+        <position name="Pigtail004_3.step_ASCII_v11" unit="mm" x="-6.475256347656256" y="54.19768676757815" z="-320.38350067138674"/>
+        <position name="Pigtail004_3.step_ASCII_v12" unit="mm" x="-6.490499877929693" y="54.1887145996094" z="-320.39255676269534"/>
+        <position name="Pigtail004_3.step_ASCII_v13" unit="mm" x="-6.524450683593756" y="54.1467224121094" z="-320.4349990844727"/>
+        <position name="Pigtail004_3.step_ASCII_v14" unit="mm" x="-6.521719360351568" y="54.1534362792969" z="-320.42820129394534"/>
+        <position name="Pigtail004_3.step_ASCII_v15" unit="mm" x="-6.518240356445318" y="54.15996704101565" z="-320.42158660888674"/>
+        <position name="Pigtail004_3.step_ASCII_v16" unit="mm" x="-6.514028930664068" y="54.16631469726565" z="-320.415185546875"/>
+        <position name="Pigtail004_3.step_ASCII_v17" unit="mm" x="-6.509115600585943" y="54.17238769531252" z="-320.4090515136719"/>
+        <position name="Pigtail004_3.step_ASCII_v18" unit="mm" x="-6.503530883789068" y="54.17818603515627" z="-320.40320739746096"/>
+        <position name="Pigtail004_3.step_ASCII_v19" unit="mm" x="-6.497320556640631" y="54.18361816406252" z="-320.39769134521487"/>
+        <position name="Pigtail004_3.step_ASCII_v20" unit="mm" x="-6.430120849609381" y="54.21175537109377" z="-320.36927185058596"/>
+        <position name="Pigtail004_3.step_ASCII_v21" unit="mm" x="-6.420339965820318" y="54.2130065917969" z="-320.3680130004883"/>
+        <position name="Pigtail004_3.step_ASCII_v22" unit="mm" x="-6.410452270507818" y="54.21370849609377" z="-320.36731109619143"/>
+        <position name="Pigtail004_3.step_ASCII_v23" unit="mm" x="-6.400518798828131" y="54.2138610839844" z="-320.36717376708987"/>
+        <position name="Pigtail004_3.step_ASCII_v24" unit="mm" x="-6.390585327148443" y="54.21343383789065" z="-320.3675933837891"/>
+        <position name="Pigtail004_3.step_ASCII_v25" unit="mm" x="-6.380743408203131" y="54.21245727539065" z="-320.3685775756836"/>
+        <position name="Pigtail004_3.step_ASCII_v26" unit="mm" x="-6.371038818359381" y="54.2109313964844" z="-320.37010345458987"/>
+        <position name="Pigtail004_3.step_ASCII_v27" unit="mm" x="-6.361547851562506" y="54.20888671875002" z="-320.37217864990237"/>
+        <position name="Pigtail004_3.step_ASCII_v28" unit="mm" x="-6.352301025390631" y="54.20632324218752" z="-320.37478790283205"/>
+        <position name="Pigtail004_3.step_ASCII_v29" unit="mm" x="-6.343389892578131" y="54.20321044921877" z="-320.37790832519534"/>
+        <position name="Pigtail004_3.step_ASCII_v30" unit="mm" x="-6.334844970703131" y="54.19963989257815" z="-320.3815170288086"/>
+        <position name="Pigtail004_3.step_ASCII_v31" unit="mm" x="-6.326742553710943" y="54.19561157226565" z="-320.38560638427737"/>
+        <position name="Pigtail004_3.step_ASCII_v32" unit="mm" x="-6.319113159179693" y="54.19112548828127" z="-320.3901306152344"/>
+        <position name="Pigtail004_3.step_ASCII_v33" unit="mm" x="-6.312017822265631" y="54.18621215820315" z="-320.39507446289065"/>
+        <position name="Pigtail004_3.step_ASCII_v34" unit="mm" x="-6.305487060546881" y="54.18096313476565" z="-320.400407409668"/>
+        <position name="Pigtail004_3.step_ASCII_v35" unit="mm" x="-6.299581909179693" y="54.17531738281252" z="-320.40608367919924"/>
+        <position name="Pigtail004_3.step_ASCII_v36" unit="mm" x="-6.294332885742193" y="54.16939697265627" z="-320.41208801269534"/>
+        <position name="Pigtail004_3.step_ASCII_v37" unit="mm" x="-6.289770507812506" y="54.16317138671877" z="-320.418359375"/>
+        <position name="Pigtail004_3.step_ASCII_v38" unit="mm" x="-6.285910034179693" y="54.1567321777344" z="-320.4248748779297"/>
+        <position name="Pigtail004_3.step_ASCII_v39" unit="mm" x="-6.282812500000006" y="54.15007934570315" z="-320.4315811157227"/>
+        <position name="Pigtail004_3.step_ASCII_v40" unit="mm" x="-6.280462646484381" y="54.1433044433594" z="-320.4384475708008"/>
+        <position name="Pigtail004_3.step_ASCII_v41" unit="mm" x="-6.278890991210943" y="54.13637695312502" z="-320.44542083740237"/>
+        <position name="Pigtail004_3.step_ASCII_v42" unit="mm" x="-6.278097534179693" y="54.12941894531252" z="-320.4524627685547"/>
+        <position name="Pigtail004_3.step_ASCII_v43" unit="mm" x="-6.278097534179693" y="54.1224304199219" z="-320.4595199584961"/>
+        <position name="Pigtail004_3.step_ASCII_v44" unit="mm" x="-6.278890991210943" y="54.1154724121094" z="-320.46656188964846"/>
+        <position name="Pigtail004_3.step_ASCII_v45" unit="mm" x="-6.280462646484381" y="54.10854492187502" z="-320.47353515625"/>
+        <position name="Pigtail004_3.step_ASCII_v46" unit="mm" x="-6.282812500000006" y="54.10177001953127" z="-320.48040161132815"/>
+        <position name="Pigtail004_3.step_ASCII_v47" unit="mm" x="-6.285910034179693" y="54.09511718750002" z="-320.4871078491211"/>
+        <position name="Pigtail004_3.step_ASCII_v48" unit="mm" x="-6.289770507812506" y="54.08867797851565" z="-320.4936233520508"/>
+        <position name="Pigtail004_3.step_ASCII_v49" unit="mm" x="-6.294332885742193" y="54.08245239257815" z="-320.4998947143555"/>
+        <position name="Pigtail004_3.step_ASCII_v50" unit="mm" x="-6.299581909179693" y="54.0765319824219" z="-320.5058990478516"/>
+        <position name="Pigtail004_3.step_ASCII_v51" unit="mm" x="-6.305487060546881" y="54.0709167480469" z="-320.51157531738284"/>
+        <position name="Pigtail004_3.step_ASCII_v52" unit="mm" x="-6.312017822265631" y="54.06563720703127" z="-320.5169082641602"/>
+        <position name="Pigtail004_3.step_ASCII_v53" unit="mm" x="-6.319113159179693" y="54.06072387695315" z="-320.52185211181643"/>
+        <position name="Pigtail004_3.step_ASCII_v54" unit="mm" x="-6.326742553710943" y="54.05623779296877" z="-320.52637634277346"/>
+        <position name="Pigtail004_3.step_ASCII_v55" unit="mm" x="-6.334844970703131" y="54.05220947265627" z="-320.5304656982422"/>
+        <position name="Pigtail004_3.step_ASCII_v56" unit="mm" x="-6.343389892578131" y="54.04863891601565" z="-320.5340744018555"/>
+        <position name="Pigtail004_3.step_ASCII_v57" unit="mm" x="-6.352301025390631" y="54.04555664062502" z="-320.5371948242188"/>
+        <position name="Pigtail004_3.step_ASCII_v58" unit="mm" x="-6.361547851562506" y="54.0429626464844" z="-320.53980407714846"/>
+        <position name="Pigtail004_3.step_ASCII_v59" unit="mm" x="-6.371038818359381" y="54.04091796875002" z="-320.54187927246096"/>
+        <position name="Pigtail004_3.step_ASCII_v60" unit="mm" x="-6.380743408203131" y="54.03939208984377" z="-320.5434051513672"/>
+        <position name="Pigtail004_3.step_ASCII_v61" unit="mm" x="-6.390585327148443" y="54.03841552734377" z="-320.54438934326174"/>
+        <position name="Pigtail004_3.step_ASCII_v62" unit="mm" x="-6.400518798828131" y="54.03801879882815" z="-320.54480895996096"/>
+        <position name="Pigtail004_3.step_ASCII_v63" unit="mm" x="-6.410452270507818" y="54.03814086914065" z="-320.5446716308594"/>
+        <position name="Pigtail004_3.step_ASCII_v64" unit="mm" x="-6.420339965820318" y="54.03884277343752" z="-320.5439697265625"/>
+        <position name="Pigtail004_3.step_ASCII_v65" unit="mm" x="-6.430120849609381" y="54.04009399414065" z="-320.54271087646487"/>
+        <position name="Pigtail004_3.step_ASCII_v66" unit="mm" x="-6.439733886718756" y="54.0418640136719" z="-320.54090270996096"/>
+        <position name="Pigtail004_3.step_ASCII_v67" unit="mm" x="-6.449102783203131" y="54.0441833496094" z="-320.53856048583987"/>
+        <position name="Pigtail004_3.step_ASCII_v68" unit="mm" x="-6.458197021484381" y="54.04702148437502" z="-320.53569946289065"/>
+        <position name="Pigtail004_3.step_ASCII_v69" unit="mm" x="-6.466925048828131" y="54.05034790039065" z="-320.53232727050784"/>
+        <position name="Pigtail004_3.step_ASCII_v70" unit="mm" x="-6.475256347656256" y="54.05416259765627" z="-320.5284820556641"/>
+        <position name="Pigtail004_3.step_ASCII_v71" unit="mm" x="-6.483129882812506" y="54.05843505859377" z="-320.52417144775393"/>
+        <position name="Pigtail004_3.step_ASCII_v72" unit="mm" x="-6.490499877929693" y="54.06313476562502" z="-320.5194259643555"/>
+        <position name="Pigtail004_3.step_ASCII_v73" unit="mm" x="-6.497320556640631" y="54.0682312011719" z="-320.51429138183596"/>
+        <position name="Pigtail004_3.step_ASCII_v74" unit="mm" x="-6.503530883789068" y="54.07366333007815" z="-320.50877532958987"/>
+        <position name="Pigtail004_3.step_ASCII_v75" unit="mm" x="-6.509115600585943" y="54.0794616699219" z="-320.50293121337893"/>
+        <position name="Pigtail004_3.step_ASCII_v76" unit="mm" x="-6.514028930664068" y="54.08553466796877" z="-320.4967971801758"/>
+        <position name="Pigtail004_3.step_ASCII_v77" unit="mm" x="-6.526419067382818" y="54.11199340820315" z="-320.4700637817383"/>
+        <position name="Pigtail004_3.step_ASCII_v78" unit="mm" x="-6.527593994140631" y="54.11895141601565" z="-320.4630523681641"/>
+        <position name="Pigtail004_3.step_ASCII_v79" unit="mm" x="-6.305487060546881" y="34.70101318359377" z="-301.1172500610352"/>
+        <position name="Pigtail004_3.step_ASCII_v80" unit="mm" x="-6.312017822265631" y="34.7062927246094" z="-301.11192474365237"/>
+        <position name="Pigtail004_3.step_ASCII_v81" unit="mm" x="-6.299581909179693" y="34.69539794921877" z="-301.12293395996096"/>
+        <position name="Pigtail004_3.step_ASCII_v82" unit="mm" x="-6.294332885742193" y="34.6894470214844" z="-301.1289306640625"/>
+        <position name="Pigtail004_3.step_ASCII_v83" unit="mm" x="-6.289770507812506" y="34.68325195312502" z="-301.1352020263672"/>
+        <position name="Pigtail004_3.step_ASCII_v84" unit="mm" x="-6.285910034179693" y="34.67678222656252" z="-301.1417175292969"/>
+        <position name="Pigtail004_3.step_ASCII_v85" unit="mm" x="-6.282812500000006" y="34.6701599121094" z="-301.14842376708987"/>
+        <position name="Pigtail004_3.step_ASCII_v86" unit="mm" x="-6.280462646484381" y="34.66335449218752" z="-301.155290222168"/>
+        <position name="Pigtail004_3.step_ASCII_v87" unit="mm" x="-6.278890991210943" y="34.65645751953127" z="-301.16226348876955"/>
+        <position name="Pigtail004_3.step_ASCII_v88" unit="mm" x="-6.278097534179693" y="34.64946899414065" z="-301.1693054199219"/>
+        <position name="Pigtail004_3.step_ASCII_v89" unit="mm" x="-6.278097534179693" y="34.64248046875002" z="-301.17637023925784"/>
+        <position name="Pigtail004_3.step_ASCII_v90" unit="mm" x="-6.278890991210943" y="34.63552246093752" z="-301.1834121704102"/>
+        <position name="Pigtail004_3.step_ASCII_v91" unit="mm" x="-6.280462646484381" y="34.62862548828127" z="-301.19038543701174"/>
+        <position name="Pigtail004_3.step_ASCII_v92" unit="mm" x="-6.282812500000006" y="34.6218200683594" z="-301.19725189208987"/>
+        <position name="Pigtail004_3.step_ASCII_v93" unit="mm" x="-6.285910034179693" y="34.61516723632815" z="-301.20395812988284"/>
+        <position name="Pigtail004_3.step_ASCII_v94" unit="mm" x="-6.289770507812506" y="34.60872802734377" z="-301.210466003418"/>
+        <position name="Pigtail004_3.step_ASCII_v95" unit="mm" x="-6.294332885742193" y="34.6025329589844" z="-301.2167449951172"/>
+        <position name="Pigtail004_3.step_ASCII_v96" unit="mm" x="-6.319113159179693" y="34.7111755371094" z="-301.1069732666016"/>
+        <position name="Pigtail004_3.step_ASCII_v97" unit="mm" x="-6.326742553710943" y="34.71566162109377" z="-301.10244903564455"/>
+        <position name="Pigtail004_3.step_ASCII_v98" unit="mm" x="-6.299581909179693" y="34.59658203125002" z="-301.2227416992188"/>
+        <position name="Pigtail004_3.step_ASCII_v99" unit="mm" x="-6.305487060546881" y="34.59096679687502" z="-301.22842559814455"/>
+        <position name="Pigtail004_3.step_ASCII_v100" unit="mm" x="-6.312017822265631" y="34.5856872558594" z="-301.23375091552737"/>
+        <position name="Pigtail004_3.step_ASCII_v101" unit="mm" x="-6.334844970703131" y="34.71968994140627" z="-301.09836730957034"/>
+        <position name="Pigtail004_3.step_ASCII_v102" unit="mm" x="-6.343389892578131" y="34.72329101562502" z="-301.0947509765625"/>
+        <position name="Pigtail004_3.step_ASCII_v103" unit="mm" x="-6.319113159179693" y="34.5808044433594" z="-301.2386947631836"/>
+        <position name="Pigtail004_3.step_ASCII_v104" unit="mm" x="-6.326742553710943" y="34.57631835937502" z="-301.2432266235352"/>
+        <position name="Pigtail004_3.step_ASCII_v105" unit="mm" x="-6.352301025390631" y="34.72637329101565" z="-301.09163055419924"/>
+        <position name="Pigtail004_3.step_ASCII_v106" unit="mm" x="-6.334844970703131" y="34.5722595214844" z="-301.2473083496094"/>
+        <position name="Pigtail004_3.step_ASCII_v107" unit="mm" x="-6.343389892578131" y="34.56868896484377" z="-301.2509246826172"/>
+        <position name="Pigtail004_3.step_ASCII_v108" unit="mm" x="-6.509115600585943" y="34.59951171875002" z="-301.21978149414065"/>
+        <position name="Pigtail004_3.step_ASCII_v109" unit="mm" x="-6.518240356445318" y="34.6119323730469" z="-301.2072387695313"/>
+        <position name="Pigtail004_3.step_ASCII_v110" unit="mm" x="-6.514028930664068" y="34.6055847167969" z="-301.213639831543"/>
+        <position name="Pigtail004_3.step_ASCII_v111" unit="mm" x="-6.361547851562506" y="34.72893676757815" z="-301.0890289306641"/>
+        <position name="Pigtail004_3.step_ASCII_v112" unit="mm" x="-6.371038818359381" y="34.73101196289065" z="-301.0869537353516"/>
+        <position name="Pigtail004_3.step_ASCII_v113" unit="mm" x="-6.352301025390631" y="34.56560668945315" z="-301.25403747558596"/>
+        <position name="Pigtail004_3.step_ASCII_v114" unit="mm" x="-6.380743408203131" y="34.73250732421877" z="-301.0854202270508"/>
+        <position name="Pigtail004_3.step_ASCII_v115" unit="mm" x="-6.390585327148443" y="34.73348388671877" z="-301.0844436645508"/>
+        <position name="Pigtail004_3.step_ASCII_v116" unit="mm" x="-6.361547851562506" y="34.56301269531252" z="-301.25664672851565"/>
+        <position name="Pigtail004_3.step_ASCII_v117" unit="mm" x="-6.371038818359381" y="34.56096801757815" z="-301.25872192382815"/>
+        <position name="Pigtail004_3.step_ASCII_v118" unit="mm" x="-6.380743408203131" y="34.5594421386719" z="-301.26025543212893"/>
+        <position name="Pigtail004_3.step_ASCII_v119" unit="mm" x="-6.400518798828131" y="34.73391113281252" z="-301.08401641845705"/>
+        <position name="Pigtail004_3.step_ASCII_v120" unit="mm" x="-6.410452270507818" y="34.7337585449219" z="-301.08416137695315"/>
+        <position name="Pigtail004_3.step_ASCII_v121" unit="mm" x="-6.390585327148443" y="34.55849609375002" z="-301.26123199462893"/>
+        <position name="Pigtail004_3.step_ASCII_v122" unit="mm" x="-6.400518798828131" y="34.55806884765627" z="-301.2616592407227"/>
+        <position name="Pigtail004_3.step_ASCII_v123" unit="mm" x="-6.420339965820318" y="34.73308715820315" z="-301.08486328125"/>
+        <position name="Pigtail004_3.step_ASCII_v124" unit="mm" x="-6.410452270507818" y="34.55819091796877" z="-301.2615142822266"/>
+        <position name="Pigtail004_3.step_ASCII_v125" unit="mm" x="-6.430120849609381" y="34.73183593750002" z="-301.08611450195315"/>
+        <position name="Pigtail004_3.step_ASCII_v126" unit="mm" x="-6.439733886718756" y="34.73003540039065" z="-301.08792266845705"/>
+        <position name="Pigtail004_3.step_ASCII_v127" unit="mm" x="-6.420339965820318" y="34.55889282226565" z="-301.2608123779297"/>
+        <position name="Pigtail004_3.step_ASCII_v128" unit="mm" x="-6.449102783203131" y="34.72771606445315" z="-301.09026489257815"/>
+        <position name="Pigtail004_3.step_ASCII_v129" unit="mm" x="-6.430120849609381" y="34.56014404296877" z="-301.25955352783205"/>
+        <position name="Pigtail004_3.step_ASCII_v130" unit="mm" x="-6.439733886718756" y="34.56194458007815" z="-301.2577529907227"/>
+        <position name="Pigtail004_3.step_ASCII_v131" unit="mm" x="-6.458197021484381" y="34.72487792968752" z="-301.0931335449219"/>
+        <position name="Pigtail004_3.step_ASCII_v132" unit="mm" x="-6.449102783203131" y="34.56423339843752" z="-301.2554107666016"/>
+        <position name="Pigtail004_3.step_ASCII_v133" unit="mm" x="-6.466925048828131" y="34.7215515136719" z="-301.0964981079102"/>
+        <position name="Pigtail004_3.step_ASCII_v134" unit="mm" x="-6.475256347656256" y="34.71773681640627" z="-301.10035095214846"/>
+        <position name="Pigtail004_3.step_ASCII_v135" unit="mm" x="-6.458197021484381" y="34.56707153320315" z="-301.25254211425784"/>
+        <position name="Pigtail004_3.step_ASCII_v136" unit="mm" x="-6.483129882812506" y="34.71346435546877" z="-301.1046615600586"/>
+        <position name="Pigtail004_3.step_ASCII_v137" unit="mm" x="-6.466925048828131" y="34.5704284667969" z="-301.24917755126955"/>
+        <position name="Pigtail004_3.step_ASCII_v138" unit="mm" x="-6.527990722656256" y="34.6459899902344" z="-301.17283782958987"/>
+        <position name="Pigtail004_3.step_ASCII_v139" unit="mm" x="-6.497320556640631" y="34.70369873046877" z="-301.1145416259766"/>
+        <position name="Pigtail004_3.step_ASCII_v140" unit="mm" x="-6.527593994140631" y="34.65297851562502" z="-301.16578063964846"/>
+        <position name="Pigtail004_3.step_ASCII_v141" unit="mm" x="-6.526419067382818" y="34.6599060058594" z="-301.15876922607424"/>
+        <position name="Pigtail004_3.step_ASCII_v142" unit="mm" x="-6.524450683593756" y="34.66677246093752" z="-301.15184173583987"/>
+        <position name="Pigtail004_3.step_ASCII_v143" unit="mm" x="-6.521719360351568" y="34.67348632812502" z="-301.14505157470705"/>
+        <position name="Pigtail004_3.step_ASCII_v144" unit="mm" x="-6.518240356445318" y="34.6800476074219" z="-301.13843688964846"/>
+        <position name="Pigtail004_3.step_ASCII_v145" unit="mm" x="-6.514028930664068" y="34.68636474609377" z="-301.13203582763674"/>
+        <position name="Pigtail004_3.step_ASCII_v146" unit="mm" x="-6.509115600585943" y="34.69246826171877" z="-301.1258941650391"/>
+        <position name="Pigtail004_3.step_ASCII_v147" unit="mm" x="-6.503530883789068" y="34.6982360839844" z="-301.12005004882815"/>
+        <position name="Pigtail004_3.step_ASCII_v148" unit="mm" x="-6.490499877929693" y="34.70879516601565" z="-301.1093994140625"/>
+        <position name="Pigtail004_3.step_ASCII_v149" unit="mm" x="-6.475256347656256" y="34.57424316406252" z="-301.2453247070313"/>
+        <position name="Pigtail004_3.step_ASCII_v150" unit="mm" x="-6.483129882812506" y="34.5784851074219" z="-301.2410140991211"/>
+        <position name="Pigtail004_3.step_ASCII_v151" unit="mm" x="-6.490499877929693" y="34.58318481445315" z="-301.2362762451172"/>
+        <position name="Pigtail004_3.step_ASCII_v152" unit="mm" x="-6.497320556640631" y="34.58828125000002" z="-301.23113403320315"/>
+        <position name="Pigtail004_3.step_ASCII_v153" unit="mm" x="-6.503530883789068" y="34.5937438964844" z="-301.2256256103516"/>
+        <position name="Pigtail004_3.step_ASCII_v154" unit="mm" x="-6.521719360351568" y="34.61849365234377" z="-301.2006240844727"/>
+        <position name="Pigtail004_3.step_ASCII_v155" unit="mm" x="-6.524450683593756" y="34.62520751953127" z="-301.19383392333987"/>
+        <position name="Pigtail004_3.step_ASCII_v156" unit="mm" x="-6.526419067382818" y="34.63204345703127" z="-301.1869064331055"/>
+        <position name="Pigtail004_3.step_ASCII_v157" unit="mm" x="-6.527593994140631" y="34.63900146484377" z="-301.1798950195313"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Pigtail004_3.step_ASCII-SOL">
+             <triangular vertex1="Pigtail004_3.step_ASCII_v0" vertex2="Pigtail004_3.step_ASCII_v1" vertex3="Pigtail004_3.step_ASCII_v2"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v3" vertex2="Pigtail004_3.step_ASCII_v4" vertex3="Pigtail004_3.step_ASCII_v5"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v6" vertex2="Pigtail004_3.step_ASCII_v7" vertex3="Pigtail004_3.step_ASCII_v8"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v6" vertex2="Pigtail004_3.step_ASCII_v8" vertex3="Pigtail004_3.step_ASCII_v9"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v10" vertex2="Pigtail004_3.step_ASCII_v11" vertex3="Pigtail004_3.step_ASCII_v6"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v3" vertex3="Pigtail004_3.step_ASCII_v13"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v13" vertex3="Pigtail004_3.step_ASCII_v14"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v14" vertex3="Pigtail004_3.step_ASCII_v15"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v4" vertex3="Pigtail004_3.step_ASCII_v3"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v15" vertex3="Pigtail004_3.step_ASCII_v16"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v16" vertex3="Pigtail004_3.step_ASCII_v17"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v17" vertex3="Pigtail004_3.step_ASCII_v18"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v18" vertex3="Pigtail004_3.step_ASCII_v19"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v10" vertex3="Pigtail004_3.step_ASCII_v6"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v9" vertex3="Pigtail004_3.step_ASCII_v20"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v20" vertex3="Pigtail004_3.step_ASCII_v21"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v21" vertex3="Pigtail004_3.step_ASCII_v22"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v22" vertex3="Pigtail004_3.step_ASCII_v23"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v23" vertex3="Pigtail004_3.step_ASCII_v24"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v24" vertex3="Pigtail004_3.step_ASCII_v25"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v25" vertex3="Pigtail004_3.step_ASCII_v26"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v26" vertex3="Pigtail004_3.step_ASCII_v27"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v27" vertex3="Pigtail004_3.step_ASCII_v28"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v28" vertex3="Pigtail004_3.step_ASCII_v29"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v29" vertex3="Pigtail004_3.step_ASCII_v30"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v30" vertex3="Pigtail004_3.step_ASCII_v31"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v31" vertex3="Pigtail004_3.step_ASCII_v32"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v32" vertex3="Pigtail004_3.step_ASCII_v33"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v33" vertex3="Pigtail004_3.step_ASCII_v34"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v34" vertex3="Pigtail004_3.step_ASCII_v35"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v35" vertex3="Pigtail004_3.step_ASCII_v36"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v36" vertex3="Pigtail004_3.step_ASCII_v37"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v37" vertex3="Pigtail004_3.step_ASCII_v38"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v38" vertex3="Pigtail004_3.step_ASCII_v39"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v39" vertex3="Pigtail004_3.step_ASCII_v40"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v40" vertex3="Pigtail004_3.step_ASCII_v41"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v41" vertex3="Pigtail004_3.step_ASCII_v42"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v42" vertex3="Pigtail004_3.step_ASCII_v43"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v43" vertex3="Pigtail004_3.step_ASCII_v44"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v44" vertex3="Pigtail004_3.step_ASCII_v45"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v45" vertex3="Pigtail004_3.step_ASCII_v46"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v46" vertex3="Pigtail004_3.step_ASCII_v47"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v47" vertex3="Pigtail004_3.step_ASCII_v48"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v48" vertex3="Pigtail004_3.step_ASCII_v49"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v49" vertex3="Pigtail004_3.step_ASCII_v50"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v50" vertex3="Pigtail004_3.step_ASCII_v51"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v51" vertex3="Pigtail004_3.step_ASCII_v52"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v52" vertex3="Pigtail004_3.step_ASCII_v53"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v53" vertex3="Pigtail004_3.step_ASCII_v54"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v54" vertex3="Pigtail004_3.step_ASCII_v55"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v55" vertex3="Pigtail004_3.step_ASCII_v56"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v56" vertex3="Pigtail004_3.step_ASCII_v57"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v57" vertex3="Pigtail004_3.step_ASCII_v58"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v58" vertex3="Pigtail004_3.step_ASCII_v59"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v59" vertex3="Pigtail004_3.step_ASCII_v60"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v60" vertex3="Pigtail004_3.step_ASCII_v61"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v61" vertex3="Pigtail004_3.step_ASCII_v62"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v62" vertex3="Pigtail004_3.step_ASCII_v63"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v63" vertex3="Pigtail004_3.step_ASCII_v64"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v64" vertex3="Pigtail004_3.step_ASCII_v65"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v65" vertex3="Pigtail004_3.step_ASCII_v66"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v66" vertex3="Pigtail004_3.step_ASCII_v67"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v67" vertex3="Pigtail004_3.step_ASCII_v68"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v68" vertex3="Pigtail004_3.step_ASCII_v69"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v69" vertex3="Pigtail004_3.step_ASCII_v70"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v70" vertex3="Pigtail004_3.step_ASCII_v71"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v71" vertex3="Pigtail004_3.step_ASCII_v72"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v72" vertex3="Pigtail004_3.step_ASCII_v73"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v73" vertex3="Pigtail004_3.step_ASCII_v74"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v74" vertex3="Pigtail004_3.step_ASCII_v75"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v1" vertex3="Pigtail004_3.step_ASCII_v0"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v75" vertex3="Pigtail004_3.step_ASCII_v76"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v76" vertex3="Pigtail004_3.step_ASCII_v1"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v0" vertex3="Pigtail004_3.step_ASCII_v77"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v77" vertex3="Pigtail004_3.step_ASCII_v78"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v78" vertex3="Pigtail004_3.step_ASCII_v4"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v12" vertex2="Pigtail004_3.step_ASCII_v6" vertex3="Pigtail004_3.step_ASCII_v9"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v79" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v81"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v81" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v82"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v82" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v83"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v83" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v84"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v84" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v85"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v85" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v86"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v86" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v87"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v87" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v88"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v88" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v89"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v89" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v90"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v90" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v91"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v91" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v92"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v92" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v93"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v93" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v94"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v94" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v95"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v96" vertex2="Pigtail004_3.step_ASCII_v97" vertex3="Pigtail004_3.step_ASCII_v80"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v95" vertex2="Pigtail004_3.step_ASCII_v97" vertex3="Pigtail004_3.step_ASCII_v98"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v98" vertex2="Pigtail004_3.step_ASCII_v97" vertex3="Pigtail004_3.step_ASCII_v99"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v99" vertex2="Pigtail004_3.step_ASCII_v97" vertex3="Pigtail004_3.step_ASCII_v100"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v80" vertex2="Pigtail004_3.step_ASCII_v97" vertex3="Pigtail004_3.step_ASCII_v95"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v101" vertex2="Pigtail004_3.step_ASCII_v102" vertex3="Pigtail004_3.step_ASCII_v97"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v100" vertex2="Pigtail004_3.step_ASCII_v102" vertex3="Pigtail004_3.step_ASCII_v103"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v103" vertex2="Pigtail004_3.step_ASCII_v102" vertex3="Pigtail004_3.step_ASCII_v104"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v97" vertex2="Pigtail004_3.step_ASCII_v102" vertex3="Pigtail004_3.step_ASCII_v100"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v104" vertex2="Pigtail004_3.step_ASCII_v105" vertex3="Pigtail004_3.step_ASCII_v106"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v106" vertex2="Pigtail004_3.step_ASCII_v105" vertex3="Pigtail004_3.step_ASCII_v107"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v102" vertex2="Pigtail004_3.step_ASCII_v105" vertex3="Pigtail004_3.step_ASCII_v104"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v108" vertex2="Pigtail004_3.step_ASCII_v109" vertex3="Pigtail004_3.step_ASCII_v110"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v111" vertex2="Pigtail004_3.step_ASCII_v112" vertex3="Pigtail004_3.step_ASCII_v105"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v107" vertex2="Pigtail004_3.step_ASCII_v112" vertex3="Pigtail004_3.step_ASCII_v113"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v105" vertex2="Pigtail004_3.step_ASCII_v112" vertex3="Pigtail004_3.step_ASCII_v107"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v114" vertex2="Pigtail004_3.step_ASCII_v115" vertex3="Pigtail004_3.step_ASCII_v112"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v113" vertex2="Pigtail004_3.step_ASCII_v115" vertex3="Pigtail004_3.step_ASCII_v116"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v116" vertex2="Pigtail004_3.step_ASCII_v115" vertex3="Pigtail004_3.step_ASCII_v117"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v117" vertex2="Pigtail004_3.step_ASCII_v115" vertex3="Pigtail004_3.step_ASCII_v118"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v112" vertex2="Pigtail004_3.step_ASCII_v115" vertex3="Pigtail004_3.step_ASCII_v113"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v119" vertex2="Pigtail004_3.step_ASCII_v120" vertex3="Pigtail004_3.step_ASCII_v115"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v115" vertex2="Pigtail004_3.step_ASCII_v120" vertex3="Pigtail004_3.step_ASCII_v118"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v118" vertex2="Pigtail004_3.step_ASCII_v120" vertex3="Pigtail004_3.step_ASCII_v121"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v121" vertex2="Pigtail004_3.step_ASCII_v120" vertex3="Pigtail004_3.step_ASCII_v122"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v120" vertex2="Pigtail004_3.step_ASCII_v123" vertex3="Pigtail004_3.step_ASCII_v122"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v122" vertex2="Pigtail004_3.step_ASCII_v123" vertex3="Pigtail004_3.step_ASCII_v124"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v125" vertex2="Pigtail004_3.step_ASCII_v126" vertex3="Pigtail004_3.step_ASCII_v123"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v124" vertex2="Pigtail004_3.step_ASCII_v126" vertex3="Pigtail004_3.step_ASCII_v127"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v123" vertex2="Pigtail004_3.step_ASCII_v126" vertex3="Pigtail004_3.step_ASCII_v124"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v127" vertex2="Pigtail004_3.step_ASCII_v128" vertex3="Pigtail004_3.step_ASCII_v129"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v129" vertex2="Pigtail004_3.step_ASCII_v128" vertex3="Pigtail004_3.step_ASCII_v130"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v126" vertex2="Pigtail004_3.step_ASCII_v128" vertex3="Pigtail004_3.step_ASCII_v127"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v128" vertex2="Pigtail004_3.step_ASCII_v131" vertex3="Pigtail004_3.step_ASCII_v130"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v130" vertex2="Pigtail004_3.step_ASCII_v131" vertex3="Pigtail004_3.step_ASCII_v132"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v133" vertex2="Pigtail004_3.step_ASCII_v134" vertex3="Pigtail004_3.step_ASCII_v131"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v132" vertex2="Pigtail004_3.step_ASCII_v134" vertex3="Pigtail004_3.step_ASCII_v135"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v131" vertex2="Pigtail004_3.step_ASCII_v134" vertex3="Pigtail004_3.step_ASCII_v132"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v134" vertex2="Pigtail004_3.step_ASCII_v136" vertex3="Pigtail004_3.step_ASCII_v135"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v135" vertex2="Pigtail004_3.step_ASCII_v136" vertex3="Pigtail004_3.step_ASCII_v137"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v138" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v140"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v140" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v141"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v141" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v142"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v142" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v143"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v143" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v144"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v144" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v145"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v145" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v146"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v146" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v147"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v138" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v139"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v136" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v137"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v137" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v149"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v149" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v150"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v150" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v151"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v151" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v152"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v152" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v153"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v153" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v108"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v109" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v154"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v154" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v155"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v155" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v156"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v156" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v157"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v157" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v138"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v108" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v109"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v138" vertex2="Pigtail004_3.step_ASCII_v4" vertex3="Pigtail004_3.step_ASCII_v78"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v157" vertex2="Pigtail004_3.step_ASCII_v138" vertex3="Pigtail004_3.step_ASCII_v78"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v156" vertex2="Pigtail004_3.step_ASCII_v157" vertex3="Pigtail004_3.step_ASCII_v78"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v156" vertex2="Pigtail004_3.step_ASCII_v78" vertex3="Pigtail004_3.step_ASCII_v77"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v155" vertex2="Pigtail004_3.step_ASCII_v77" vertex3="Pigtail004_3.step_ASCII_v0"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v155" vertex2="Pigtail004_3.step_ASCII_v156" vertex3="Pigtail004_3.step_ASCII_v77"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v154" vertex2="Pigtail004_3.step_ASCII_v0" vertex3="Pigtail004_3.step_ASCII_v2"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v154" vertex2="Pigtail004_3.step_ASCII_v155" vertex3="Pigtail004_3.step_ASCII_v0"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v109" vertex2="Pigtail004_3.step_ASCII_v1" vertex3="Pigtail004_3.step_ASCII_v76"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v109" vertex2="Pigtail004_3.step_ASCII_v2" vertex3="Pigtail004_3.step_ASCII_v1"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v109" vertex2="Pigtail004_3.step_ASCII_v154" vertex3="Pigtail004_3.step_ASCII_v2"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v110" vertex2="Pigtail004_3.step_ASCII_v109" vertex3="Pigtail004_3.step_ASCII_v76"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v108" vertex2="Pigtail004_3.step_ASCII_v75" vertex3="Pigtail004_3.step_ASCII_v74"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v108" vertex2="Pigtail004_3.step_ASCII_v76" vertex3="Pigtail004_3.step_ASCII_v75"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v108" vertex2="Pigtail004_3.step_ASCII_v110" vertex3="Pigtail004_3.step_ASCII_v76"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v153" vertex2="Pigtail004_3.step_ASCII_v108" vertex3="Pigtail004_3.step_ASCII_v74"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v152" vertex2="Pigtail004_3.step_ASCII_v74" vertex3="Pigtail004_3.step_ASCII_v73"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v152" vertex2="Pigtail004_3.step_ASCII_v153" vertex3="Pigtail004_3.step_ASCII_v74"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v151" vertex2="Pigtail004_3.step_ASCII_v73" vertex3="Pigtail004_3.step_ASCII_v72"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v151" vertex2="Pigtail004_3.step_ASCII_v152" vertex3="Pigtail004_3.step_ASCII_v73"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v150" vertex2="Pigtail004_3.step_ASCII_v151" vertex3="Pigtail004_3.step_ASCII_v72"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v150" vertex2="Pigtail004_3.step_ASCII_v71" vertex3="Pigtail004_3.step_ASCII_v70"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v150" vertex2="Pigtail004_3.step_ASCII_v72" vertex3="Pigtail004_3.step_ASCII_v71"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v149" vertex2="Pigtail004_3.step_ASCII_v150" vertex3="Pigtail004_3.step_ASCII_v70"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v137" vertex2="Pigtail004_3.step_ASCII_v149" vertex3="Pigtail004_3.step_ASCII_v70"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v137" vertex2="Pigtail004_3.step_ASCII_v69" vertex3="Pigtail004_3.step_ASCII_v68"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v137" vertex2="Pigtail004_3.step_ASCII_v70" vertex3="Pigtail004_3.step_ASCII_v69"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v135" vertex2="Pigtail004_3.step_ASCII_v137" vertex3="Pigtail004_3.step_ASCII_v68"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v135" vertex2="Pigtail004_3.step_ASCII_v68" vertex3="Pigtail004_3.step_ASCII_v67"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v132" vertex2="Pigtail004_3.step_ASCII_v135" vertex3="Pigtail004_3.step_ASCII_v67"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v132" vertex2="Pigtail004_3.step_ASCII_v67" vertex3="Pigtail004_3.step_ASCII_v66"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v130" vertex2="Pigtail004_3.step_ASCII_v132" vertex3="Pigtail004_3.step_ASCII_v66"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v129" vertex2="Pigtail004_3.step_ASCII_v130" vertex3="Pigtail004_3.step_ASCII_v66"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v129" vertex2="Pigtail004_3.step_ASCII_v66" vertex3="Pigtail004_3.step_ASCII_v65"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v127" vertex2="Pigtail004_3.step_ASCII_v129" vertex3="Pigtail004_3.step_ASCII_v65"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v127" vertex2="Pigtail004_3.step_ASCII_v65" vertex3="Pigtail004_3.step_ASCII_v64"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v124" vertex2="Pigtail004_3.step_ASCII_v127" vertex3="Pigtail004_3.step_ASCII_v64"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v124" vertex2="Pigtail004_3.step_ASCII_v63" vertex3="Pigtail004_3.step_ASCII_v62"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v124" vertex2="Pigtail004_3.step_ASCII_v64" vertex3="Pigtail004_3.step_ASCII_v63"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v122" vertex2="Pigtail004_3.step_ASCII_v124" vertex3="Pigtail004_3.step_ASCII_v62"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v122" vertex2="Pigtail004_3.step_ASCII_v62" vertex3="Pigtail004_3.step_ASCII_v61"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v121" vertex2="Pigtail004_3.step_ASCII_v122" vertex3="Pigtail004_3.step_ASCII_v61"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v121" vertex2="Pigtail004_3.step_ASCII_v61" vertex3="Pigtail004_3.step_ASCII_v60"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v118" vertex2="Pigtail004_3.step_ASCII_v121" vertex3="Pigtail004_3.step_ASCII_v60"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v118" vertex2="Pigtail004_3.step_ASCII_v60" vertex3="Pigtail004_3.step_ASCII_v59"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v117" vertex2="Pigtail004_3.step_ASCII_v118" vertex3="Pigtail004_3.step_ASCII_v59"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v116" vertex2="Pigtail004_3.step_ASCII_v59" vertex3="Pigtail004_3.step_ASCII_v58"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v116" vertex2="Pigtail004_3.step_ASCII_v117" vertex3="Pigtail004_3.step_ASCII_v59"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v113" vertex2="Pigtail004_3.step_ASCII_v58" vertex3="Pigtail004_3.step_ASCII_v57"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v113" vertex2="Pigtail004_3.step_ASCII_v116" vertex3="Pigtail004_3.step_ASCII_v58"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v107" vertex2="Pigtail004_3.step_ASCII_v56" vertex3="Pigtail004_3.step_ASCII_v55"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v107" vertex2="Pigtail004_3.step_ASCII_v57" vertex3="Pigtail004_3.step_ASCII_v56"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v107" vertex2="Pigtail004_3.step_ASCII_v113" vertex3="Pigtail004_3.step_ASCII_v57"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v106" vertex2="Pigtail004_3.step_ASCII_v107" vertex3="Pigtail004_3.step_ASCII_v55"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v104" vertex2="Pigtail004_3.step_ASCII_v54" vertex3="Pigtail004_3.step_ASCII_v53"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v104" vertex2="Pigtail004_3.step_ASCII_v55" vertex3="Pigtail004_3.step_ASCII_v54"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v104" vertex2="Pigtail004_3.step_ASCII_v106" vertex3="Pigtail004_3.step_ASCII_v55"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v103" vertex2="Pigtail004_3.step_ASCII_v104" vertex3="Pigtail004_3.step_ASCII_v53"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v100" vertex2="Pigtail004_3.step_ASCII_v53" vertex3="Pigtail004_3.step_ASCII_v52"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v100" vertex2="Pigtail004_3.step_ASCII_v103" vertex3="Pigtail004_3.step_ASCII_v53"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v99" vertex2="Pigtail004_3.step_ASCII_v52" vertex3="Pigtail004_3.step_ASCII_v51"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v99" vertex2="Pigtail004_3.step_ASCII_v100" vertex3="Pigtail004_3.step_ASCII_v52"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v98" vertex2="Pigtail004_3.step_ASCII_v51" vertex3="Pigtail004_3.step_ASCII_v50"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v98" vertex2="Pigtail004_3.step_ASCII_v99" vertex3="Pigtail004_3.step_ASCII_v51"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v95" vertex2="Pigtail004_3.step_ASCII_v50" vertex3="Pigtail004_3.step_ASCII_v49"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v95" vertex2="Pigtail004_3.step_ASCII_v98" vertex3="Pigtail004_3.step_ASCII_v50"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v94" vertex2="Pigtail004_3.step_ASCII_v49" vertex3="Pigtail004_3.step_ASCII_v48"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v94" vertex2="Pigtail004_3.step_ASCII_v95" vertex3="Pigtail004_3.step_ASCII_v49"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v93" vertex2="Pigtail004_3.step_ASCII_v94" vertex3="Pigtail004_3.step_ASCII_v48"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v93" vertex2="Pigtail004_3.step_ASCII_v47" vertex3="Pigtail004_3.step_ASCII_v46"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v93" vertex2="Pigtail004_3.step_ASCII_v48" vertex3="Pigtail004_3.step_ASCII_v47"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v92" vertex2="Pigtail004_3.step_ASCII_v93" vertex3="Pigtail004_3.step_ASCII_v46"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v91" vertex2="Pigtail004_3.step_ASCII_v92" vertex3="Pigtail004_3.step_ASCII_v46"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v91" vertex2="Pigtail004_3.step_ASCII_v46" vertex3="Pigtail004_3.step_ASCII_v45"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v90" vertex2="Pigtail004_3.step_ASCII_v91" vertex3="Pigtail004_3.step_ASCII_v45"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v90" vertex2="Pigtail004_3.step_ASCII_v45" vertex3="Pigtail004_3.step_ASCII_v44"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v89" vertex2="Pigtail004_3.step_ASCII_v90" vertex3="Pigtail004_3.step_ASCII_v44"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v89" vertex2="Pigtail004_3.step_ASCII_v44" vertex3="Pigtail004_3.step_ASCII_v43"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v88" vertex2="Pigtail004_3.step_ASCII_v89" vertex3="Pigtail004_3.step_ASCII_v43"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v88" vertex2="Pigtail004_3.step_ASCII_v43" vertex3="Pigtail004_3.step_ASCII_v42"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v87" vertex2="Pigtail004_3.step_ASCII_v88" vertex3="Pigtail004_3.step_ASCII_v42"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v87" vertex2="Pigtail004_3.step_ASCII_v41" vertex3="Pigtail004_3.step_ASCII_v40"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v87" vertex2="Pigtail004_3.step_ASCII_v42" vertex3="Pigtail004_3.step_ASCII_v41"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v86" vertex2="Pigtail004_3.step_ASCII_v87" vertex3="Pigtail004_3.step_ASCII_v40"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v85" vertex2="Pigtail004_3.step_ASCII_v86" vertex3="Pigtail004_3.step_ASCII_v40"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v85" vertex2="Pigtail004_3.step_ASCII_v39" vertex3="Pigtail004_3.step_ASCII_v38"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v85" vertex2="Pigtail004_3.step_ASCII_v40" vertex3="Pigtail004_3.step_ASCII_v39"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v84" vertex2="Pigtail004_3.step_ASCII_v85" vertex3="Pigtail004_3.step_ASCII_v38"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v83" vertex2="Pigtail004_3.step_ASCII_v38" vertex3="Pigtail004_3.step_ASCII_v37"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v83" vertex2="Pigtail004_3.step_ASCII_v84" vertex3="Pigtail004_3.step_ASCII_v38"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v82" vertex2="Pigtail004_3.step_ASCII_v83" vertex3="Pigtail004_3.step_ASCII_v37"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v82" vertex2="Pigtail004_3.step_ASCII_v37" vertex3="Pigtail004_3.step_ASCII_v36"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v81" vertex2="Pigtail004_3.step_ASCII_v36" vertex3="Pigtail004_3.step_ASCII_v35"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v81" vertex2="Pigtail004_3.step_ASCII_v82" vertex3="Pigtail004_3.step_ASCII_v36"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v79" vertex2="Pigtail004_3.step_ASCII_v34" vertex3="Pigtail004_3.step_ASCII_v33"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v79" vertex2="Pigtail004_3.step_ASCII_v35" vertex3="Pigtail004_3.step_ASCII_v34"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v79" vertex2="Pigtail004_3.step_ASCII_v81" vertex3="Pigtail004_3.step_ASCII_v35"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v80" vertex2="Pigtail004_3.step_ASCII_v79" vertex3="Pigtail004_3.step_ASCII_v33"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v96" vertex2="Pigtail004_3.step_ASCII_v32" vertex3="Pigtail004_3.step_ASCII_v31"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v96" vertex2="Pigtail004_3.step_ASCII_v33" vertex3="Pigtail004_3.step_ASCII_v32"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v96" vertex2="Pigtail004_3.step_ASCII_v80" vertex3="Pigtail004_3.step_ASCII_v33"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v97" vertex2="Pigtail004_3.step_ASCII_v96" vertex3="Pigtail004_3.step_ASCII_v31"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v101" vertex2="Pigtail004_3.step_ASCII_v31" vertex3="Pigtail004_3.step_ASCII_v30"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v101" vertex2="Pigtail004_3.step_ASCII_v97" vertex3="Pigtail004_3.step_ASCII_v31"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v102" vertex2="Pigtail004_3.step_ASCII_v30" vertex3="Pigtail004_3.step_ASCII_v29"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v102" vertex2="Pigtail004_3.step_ASCII_v101" vertex3="Pigtail004_3.step_ASCII_v30"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v105" vertex2="Pigtail004_3.step_ASCII_v29" vertex3="Pigtail004_3.step_ASCII_v28"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v105" vertex2="Pigtail004_3.step_ASCII_v102" vertex3="Pigtail004_3.step_ASCII_v29"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v111" vertex2="Pigtail004_3.step_ASCII_v27" vertex3="Pigtail004_3.step_ASCII_v26"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v111" vertex2="Pigtail004_3.step_ASCII_v28" vertex3="Pigtail004_3.step_ASCII_v27"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v111" vertex2="Pigtail004_3.step_ASCII_v105" vertex3="Pigtail004_3.step_ASCII_v28"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v112" vertex2="Pigtail004_3.step_ASCII_v111" vertex3="Pigtail004_3.step_ASCII_v26"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v114" vertex2="Pigtail004_3.step_ASCII_v26" vertex3="Pigtail004_3.step_ASCII_v25"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v114" vertex2="Pigtail004_3.step_ASCII_v112" vertex3="Pigtail004_3.step_ASCII_v26"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v115" vertex2="Pigtail004_3.step_ASCII_v25" vertex3="Pigtail004_3.step_ASCII_v24"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v115" vertex2="Pigtail004_3.step_ASCII_v114" vertex3="Pigtail004_3.step_ASCII_v25"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v119" vertex2="Pigtail004_3.step_ASCII_v24" vertex3="Pigtail004_3.step_ASCII_v23"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v119" vertex2="Pigtail004_3.step_ASCII_v115" vertex3="Pigtail004_3.step_ASCII_v24"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v120" vertex2="Pigtail004_3.step_ASCII_v119" vertex3="Pigtail004_3.step_ASCII_v23"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v120" vertex2="Pigtail004_3.step_ASCII_v23" vertex3="Pigtail004_3.step_ASCII_v22"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v123" vertex2="Pigtail004_3.step_ASCII_v120" vertex3="Pigtail004_3.step_ASCII_v22"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v123" vertex2="Pigtail004_3.step_ASCII_v22" vertex3="Pigtail004_3.step_ASCII_v21"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v125" vertex2="Pigtail004_3.step_ASCII_v123" vertex3="Pigtail004_3.step_ASCII_v21"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v125" vertex2="Pigtail004_3.step_ASCII_v21" vertex3="Pigtail004_3.step_ASCII_v20"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v126" vertex2="Pigtail004_3.step_ASCII_v125" vertex3="Pigtail004_3.step_ASCII_v20"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v126" vertex2="Pigtail004_3.step_ASCII_v20" vertex3="Pigtail004_3.step_ASCII_v9"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v128" vertex2="Pigtail004_3.step_ASCII_v9" vertex3="Pigtail004_3.step_ASCII_v8"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v128" vertex2="Pigtail004_3.step_ASCII_v126" vertex3="Pigtail004_3.step_ASCII_v9"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v131" vertex2="Pigtail004_3.step_ASCII_v8" vertex3="Pigtail004_3.step_ASCII_v7"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v131" vertex2="Pigtail004_3.step_ASCII_v128" vertex3="Pigtail004_3.step_ASCII_v8"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v133" vertex2="Pigtail004_3.step_ASCII_v7" vertex3="Pigtail004_3.step_ASCII_v6"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v133" vertex2="Pigtail004_3.step_ASCII_v131" vertex3="Pigtail004_3.step_ASCII_v7"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v134" vertex2="Pigtail004_3.step_ASCII_v6" vertex3="Pigtail004_3.step_ASCII_v11"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v134" vertex2="Pigtail004_3.step_ASCII_v133" vertex3="Pigtail004_3.step_ASCII_v6"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v136" vertex2="Pigtail004_3.step_ASCII_v11" vertex3="Pigtail004_3.step_ASCII_v10"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v136" vertex2="Pigtail004_3.step_ASCII_v134" vertex3="Pigtail004_3.step_ASCII_v11"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v148" vertex2="Pigtail004_3.step_ASCII_v10" vertex3="Pigtail004_3.step_ASCII_v12"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v148" vertex2="Pigtail004_3.step_ASCII_v136" vertex3="Pigtail004_3.step_ASCII_v10"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v139" vertex2="Pigtail004_3.step_ASCII_v12" vertex3="Pigtail004_3.step_ASCII_v19"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v139" vertex2="Pigtail004_3.step_ASCII_v148" vertex3="Pigtail004_3.step_ASCII_v12"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v147" vertex2="Pigtail004_3.step_ASCII_v19" vertex3="Pigtail004_3.step_ASCII_v18"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v147" vertex2="Pigtail004_3.step_ASCII_v139" vertex3="Pigtail004_3.step_ASCII_v19"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v146" vertex2="Pigtail004_3.step_ASCII_v18" vertex3="Pigtail004_3.step_ASCII_v17"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v146" vertex2="Pigtail004_3.step_ASCII_v147" vertex3="Pigtail004_3.step_ASCII_v18"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v145" vertex2="Pigtail004_3.step_ASCII_v17" vertex3="Pigtail004_3.step_ASCII_v16"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v145" vertex2="Pigtail004_3.step_ASCII_v146" vertex3="Pigtail004_3.step_ASCII_v17"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v144" vertex2="Pigtail004_3.step_ASCII_v16" vertex3="Pigtail004_3.step_ASCII_v15"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v144" vertex2="Pigtail004_3.step_ASCII_v145" vertex3="Pigtail004_3.step_ASCII_v16"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v143" vertex2="Pigtail004_3.step_ASCII_v14" vertex3="Pigtail004_3.step_ASCII_v13"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v143" vertex2="Pigtail004_3.step_ASCII_v15" vertex3="Pigtail004_3.step_ASCII_v14"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v143" vertex2="Pigtail004_3.step_ASCII_v144" vertex3="Pigtail004_3.step_ASCII_v15"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v142" vertex2="Pigtail004_3.step_ASCII_v143" vertex3="Pigtail004_3.step_ASCII_v13"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v141" vertex2="Pigtail004_3.step_ASCII_v13" vertex3="Pigtail004_3.step_ASCII_v3"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v141" vertex2="Pigtail004_3.step_ASCII_v142" vertex3="Pigtail004_3.step_ASCII_v13"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v140" vertex2="Pigtail004_3.step_ASCII_v3" vertex3="Pigtail004_3.step_ASCII_v5"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v140" vertex2="Pigtail004_3.step_ASCII_v141" vertex3="Pigtail004_3.step_ASCII_v3"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v138" vertex2="Pigtail004_3.step_ASCII_v5" vertex3="Pigtail004_3.step_ASCII_v4"/>
+             <triangular vertex1="Pigtail004_3.step_ASCII_v138" vertex2="Pigtail004_3.step_ASCII_v140" vertex3="Pigtail004_3.step_ASCII_v5"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Pigtail004_3.step_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="Pigtail004_3.step_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Pigtail004_3.step_ASCII"/>
+    </setup>
+</gdml>

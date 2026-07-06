@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Active6RSU_Array007_ASCII_v0" unit="mm" x="3.8977600097656193" y="3.9302307128906477" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v1" unit="mm" x="-0.013845825195318184" y="4.013787841796898" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v2" unit="mm" x="-0.013845825195318184" y="4.013787841796898" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v3" unit="mm" x="3.8977600097656193" y="3.9302307128906477" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v4" unit="mm" x="7.802041625976557" y="3.6769653320312727" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v5" unit="mm" x="7.802041625976557" y="3.6769653320312727" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v6" unit="mm" x="11.69164428710937" y="3.2544189453125227" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v7" unit="mm" x="11.69164428710937" y="3.2544189453125227" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v8" unit="mm" x="15.559243774414057" y="2.6633850097656477" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v9" unit="mm" x="15.559243774414057" y="2.6633850097656477" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v10" unit="mm" x="19.397531127929682" y="1.9050537109375227" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v11" unit="mm" x="19.397531127929682" y="1.9050537109375227" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v12" unit="mm" x="19.386788940429682" y="1.8562255859375227" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v13" unit="mm" x="19.386788940429682" y="1.8562255859375227" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v14" unit="mm" x="-0.013830566406255684" y="3.9638000488281477" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v15" unit="mm" x="-0.013830566406255684" y="3.9638000488281477" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v16" unit="mm" x="3.895608520507807" y="3.8803039550781477" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v17" unit="mm" x="3.895608520507807" y="3.8803039550781477" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v18" unit="mm" x="7.797723388671869" y="3.6271301269531477" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v19" unit="mm" x="7.797723388671869" y="3.6271301269531477" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v20" unit="mm" x="11.68517456054687" y="3.2048278808593977" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v21" unit="mm" x="11.68517456054687" y="3.2048278808593977" z="-121.97838745117187"/>
+        <position name="Active6RSU_Array007_ASCII_v22" unit="mm" x="15.550622558593744" y="2.6141601562500227" z="-251.9743896484375"/>
+        <position name="Active6RSU_Array007_ASCII_v23" unit="mm" x="15.550622558593744" y="2.6141601562500227" z="-121.97838745117187"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Active6RSU_Array007_ASCII-SOL">
+             <triangular vertex1="Active6RSU_Array007_ASCII_v0" vertex2="Active6RSU_Array007_ASCII_v1" vertex3="Active6RSU_Array007_ASCII_v2"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v0" vertex2="Active6RSU_Array007_ASCII_v2" vertex3="Active6RSU_Array007_ASCII_v3"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v4" vertex2="Active6RSU_Array007_ASCII_v3" vertex3="Active6RSU_Array007_ASCII_v5"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v4" vertex2="Active6RSU_Array007_ASCII_v5" vertex3="Active6RSU_Array007_ASCII_v6"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v4" vertex2="Active6RSU_Array007_ASCII_v0" vertex3="Active6RSU_Array007_ASCII_v3"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v7" vertex2="Active6RSU_Array007_ASCII_v4" vertex3="Active6RSU_Array007_ASCII_v6"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v8" vertex2="Active6RSU_Array007_ASCII_v6" vertex3="Active6RSU_Array007_ASCII_v9"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v8" vertex2="Active6RSU_Array007_ASCII_v9" vertex3="Active6RSU_Array007_ASCII_v10"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v8" vertex2="Active6RSU_Array007_ASCII_v7" vertex3="Active6RSU_Array007_ASCII_v6"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v11" vertex2="Active6RSU_Array007_ASCII_v8" vertex3="Active6RSU_Array007_ASCII_v10"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v12" vertex2="Active6RSU_Array007_ASCII_v11" vertex3="Active6RSU_Array007_ASCII_v10"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v12" vertex2="Active6RSU_Array007_ASCII_v10" vertex3="Active6RSU_Array007_ASCII_v13"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v14" vertex2="Active6RSU_Array007_ASCII_v15" vertex3="Active6RSU_Array007_ASCII_v16"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v16" vertex2="Active6RSU_Array007_ASCII_v17" vertex3="Active6RSU_Array007_ASCII_v18"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v15" vertex2="Active6RSU_Array007_ASCII_v17" vertex3="Active6RSU_Array007_ASCII_v16"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v17" vertex2="Active6RSU_Array007_ASCII_v19" vertex3="Active6RSU_Array007_ASCII_v18"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v18" vertex2="Active6RSU_Array007_ASCII_v20" vertex3="Active6RSU_Array007_ASCII_v21"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v19" vertex2="Active6RSU_Array007_ASCII_v20" vertex3="Active6RSU_Array007_ASCII_v18"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v21" vertex2="Active6RSU_Array007_ASCII_v22" vertex3="Active6RSU_Array007_ASCII_v23"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v20" vertex2="Active6RSU_Array007_ASCII_v22" vertex3="Active6RSU_Array007_ASCII_v21"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v23" vertex2="Active6RSU_Array007_ASCII_v12" vertex3="Active6RSU_Array007_ASCII_v13"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v22" vertex2="Active6RSU_Array007_ASCII_v12" vertex3="Active6RSU_Array007_ASCII_v23"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v1" vertex2="Active6RSU_Array007_ASCII_v15" vertex3="Active6RSU_Array007_ASCII_v14"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v1" vertex2="Active6RSU_Array007_ASCII_v14" vertex3="Active6RSU_Array007_ASCII_v2"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v12" vertex2="Active6RSU_Array007_ASCII_v22" vertex3="Active6RSU_Array007_ASCII_v11"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v22" vertex2="Active6RSU_Array007_ASCII_v8" vertex3="Active6RSU_Array007_ASCII_v11"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v22" vertex2="Active6RSU_Array007_ASCII_v20" vertex3="Active6RSU_Array007_ASCII_v8"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v20" vertex2="Active6RSU_Array007_ASCII_v7" vertex3="Active6RSU_Array007_ASCII_v8"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v19" vertex2="Active6RSU_Array007_ASCII_v4" vertex3="Active6RSU_Array007_ASCII_v20"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v20" vertex2="Active6RSU_Array007_ASCII_v4" vertex3="Active6RSU_Array007_ASCII_v7"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v17" vertex2="Active6RSU_Array007_ASCII_v0" vertex3="Active6RSU_Array007_ASCII_v19"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v19" vertex2="Active6RSU_Array007_ASCII_v0" vertex3="Active6RSU_Array007_ASCII_v4"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v15" vertex2="Active6RSU_Array007_ASCII_v1" vertex3="Active6RSU_Array007_ASCII_v17"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v17" vertex2="Active6RSU_Array007_ASCII_v1" vertex3="Active6RSU_Array007_ASCII_v0"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v23" vertex2="Active6RSU_Array007_ASCII_v13" vertex3="Active6RSU_Array007_ASCII_v10"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v9" vertex2="Active6RSU_Array007_ASCII_v23" vertex3="Active6RSU_Array007_ASCII_v10"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v21" vertex2="Active6RSU_Array007_ASCII_v23" vertex3="Active6RSU_Array007_ASCII_v9"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v6" vertex2="Active6RSU_Array007_ASCII_v21" vertex3="Active6RSU_Array007_ASCII_v9"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v5" vertex2="Active6RSU_Array007_ASCII_v18" vertex3="Active6RSU_Array007_ASCII_v21"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v5" vertex2="Active6RSU_Array007_ASCII_v21" vertex3="Active6RSU_Array007_ASCII_v6"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v3" vertex2="Active6RSU_Array007_ASCII_v16" vertex3="Active6RSU_Array007_ASCII_v18"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v3" vertex2="Active6RSU_Array007_ASCII_v18" vertex3="Active6RSU_Array007_ASCII_v5"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v2" vertex2="Active6RSU_Array007_ASCII_v14" vertex3="Active6RSU_Array007_ASCII_v16"/>
+             <triangular vertex1="Active6RSU_Array007_ASCII_v2" vertex2="Active6RSU_Array007_ASCII_v16" vertex3="Active6RSU_Array007_ASCII_v3"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Active6RSU_Array007_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="Active6RSU_Array007_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Active6RSU_Array007_ASCII"/>
+    </setup>
+</gdml>

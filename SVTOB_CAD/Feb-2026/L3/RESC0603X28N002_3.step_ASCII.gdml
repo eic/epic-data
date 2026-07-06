@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="RESC0603X28N002_3.step_ASCII_v0" unit="mm" x="-7.883001708984381" y="24.925439453125023" z="-292.56358489990237"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v1" unit="mm" x="-7.573004150390631" y="24.797509765625023" z="-292.4369522094727"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v2" unit="mm" x="-7.573004150390631" y="24.925439453125023" z="-292.56358489990237"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v3" unit="mm" x="-7.883001708984381" y="24.797509765625023" z="-292.4369522094727"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v4" unit="mm" x="-7.903005981445318" y="24.742517089843773" z="-292.7483612060547"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v5" unit="mm" x="-7.903005981445318" y="24.783441162109398" z="-292.4511657714844"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v6" unit="mm" x="-7.903005981445318" y="24.911370849609398" z="-292.5777984619141"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v7" unit="mm" x="-7.903005981445318" y="24.614587402343773" z="-292.621728515625"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v8" unit="mm" x="-7.552999877929693" y="24.742517089843773" z="-292.7483612060547"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v9" unit="mm" x="-7.565344238281256" y="24.729516601562523" z="-292.761491394043"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v10" unit="mm" x="-7.573004150390631" y="24.728448486328148" z="-292.76257476806643"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v11" unit="mm" x="-7.558859252929693" y="24.732568359375023" z="-292.7584167480469"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v12" unit="mm" x="-7.554525756835943" y="24.737145996093773" z="-292.7538009643555"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v13" unit="mm" x="-7.558859252929693" y="24.921319580078148" z="-292.5677429199219"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v14" unit="mm" x="-7.554525756835943" y="24.916741943359398" z="-292.5723587036133"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v15" unit="mm" x="-7.552999877929693" y="24.911370849609398" z="-292.5777984619141"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v16" unit="mm" x="-7.565344238281256" y="24.924371337890648" z="-292.5646682739258"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v17" unit="mm" x="-7.901480102539068" y="24.737145996093773" z="-292.7538009643555"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v18" unit="mm" x="-7.890661621093756" y="24.729516601562523" z="-292.761491394043"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v19" unit="mm" x="-7.897146606445318" y="24.732568359375023" z="-292.75840911865237"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v20" unit="mm" x="-7.883001708984381" y="24.728448486328148" z="-292.76257476806643"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v21" unit="mm" x="-7.897146606445318" y="24.921319580078148" z="-292.5677429199219"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v22" unit="mm" x="-7.890661621093756" y="24.924371337890648" z="-292.5646682739258"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v23" unit="mm" x="-7.901480102539068" y="24.916741943359398" z="-292.5723587036133"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v24" unit="mm" x="-7.883001708984381" y="24.769219970703148" z="-292.4370971679688"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v25" unit="mm" x="-7.883001708984381" y="24.600396728515648" z="-292.6076599121094"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v26" unit="mm" x="-7.573004150390631" y="24.600396728515648" z="-292.6076599121094"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v27" unit="mm" x="-7.573004150390631" y="24.769219970703148" z="-292.4370971679688"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v28" unit="mm" x="-7.883001708984381" y="24.600518798828148" z="-292.63594207763674"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v29" unit="mm" x="-7.573004150390631" y="24.600518798828148" z="-292.63594207763674"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v30" unit="mm" x="-7.552999877929693" y="24.783441162109398" z="-292.4511657714844"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v31" unit="mm" x="-7.552999877929693" y="24.614587402343773" z="-292.621728515625"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v32" unit="mm" x="-7.890661621093756" y="24.601586914062523" z="-292.63486633300784"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v33" unit="mm" x="-7.897146606445318" y="24.604638671875023" z="-292.6317840576172"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v34" unit="mm" x="-7.901480102539068" y="24.609216308593773" z="-292.6271682739258"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v35" unit="mm" x="-7.573004150390631" y="24.596154785156273" z="-292.6294799804688"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v36" unit="mm" x="-7.883001708984381" y="24.596154785156273" z="-292.6294799804688"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v37" unit="mm" x="-7.573004150390631" y="24.594598388671898" z="-292.62183532714846"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v38" unit="mm" x="-7.883001708984381" y="24.594598388671898" z="-292.62183532714846"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v39" unit="mm" x="-7.573004150390631" y="24.596093750000023" z="-292.61416778564455"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v40" unit="mm" x="-7.883001708984381" y="24.596093750000023" z="-292.61416778564455"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v41" unit="mm" x="-7.565344238281256" y="24.601586914062523" z="-292.63486633300784"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v42" unit="mm" x="-7.558859252929693" y="24.604638671875023" z="-292.6317840576172"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v43" unit="mm" x="-7.554525756835943" y="24.609216308593773" z="-292.6271682739258"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v44" unit="mm" x="-7.901480102539068" y="24.788812255859398" z="-292.4457260131836"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v45" unit="mm" x="-7.897146606445318" y="24.793389892578148" z="-292.44111785888674"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v46" unit="mm" x="-7.890661621093756" y="24.796441650390648" z="-292.4380355834961"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v47" unit="mm" x="-7.901480102539068" y="24.609155273437523" z="-292.6163497924805"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v48" unit="mm" x="-7.901480102539068" y="24.778009033203148" z="-292.44577941894534"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v49" unit="mm" x="-7.897146606445318" y="24.604547119140648" z="-292.6117797851563"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v50" unit="mm" x="-7.897146606445318" y="24.773400878906273" z="-292.44121704101565"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v51" unit="mm" x="-7.890661621093756" y="24.601464843750023" z="-292.6087280273438"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v52" unit="mm" x="-7.890661621093756" y="24.770318603515648" z="-292.43816528320315"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v53" unit="mm" x="-7.554525756835943" y="24.788812255859398" z="-292.4457260131836"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v54" unit="mm" x="-7.558859252929693" y="24.793389892578148" z="-292.44111785888674"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v55" unit="mm" x="-7.565344238281256" y="24.796441650390648" z="-292.4380355834961"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v56" unit="mm" x="-7.565344238281256" y="24.601464843750023" z="-292.6087280273438"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v57" unit="mm" x="-7.565344238281256" y="24.770318603515648" z="-292.43816528320315"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v58" unit="mm" x="-7.558859252929693" y="24.604547119140648" z="-292.6117797851563"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v59" unit="mm" x="-7.558859252929693" y="24.773400878906273" z="-292.44121704101565"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v60" unit="mm" x="-7.554525756835943" y="24.609155273437523" z="-292.6163497924805"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v61" unit="mm" x="-7.554525756835943" y="24.778009033203148" z="-292.44577941894534"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v62" unit="mm" x="-7.883001708984381" y="24.775689697265648" z="-292.43272552490237"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v63" unit="mm" x="-7.573004150390631" y="24.775689697265648" z="-292.43272552490237"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v64" unit="mm" x="-7.883001708984381" y="24.783349609375023" z="-292.431169128418"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v65" unit="mm" x="-7.573004150390631" y="24.783349609375023" z="-292.431169128418"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v66" unit="mm" x="-7.883001708984381" y="24.791009521484398" z="-292.43264923095705"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v67" unit="mm" x="-7.573004150390631" y="24.791009521484398" z="-292.43264923095705"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v68" unit="mm" x="-7.553976440429693" y="24.779779052734398" z="-292.4461837768555"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v69" unit="mm" x="-7.553976440429693" y="24.781488037109398" z="-292.44529876708987"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v70" unit="mm" x="-7.553976440429693" y="24.783410644531273" z="-292.4449859619141"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v71" unit="mm" x="-7.556814575195318" y="24.778039550781273" z="-292.4407211303711"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v72" unit="mm" x="-7.553976440429693" y="24.785302734375023" z="-292.4452758789063"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v73" unit="mm" x="-7.556814575195318" y="24.781549072265648" z="-292.43956146240237"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v74" unit="mm" x="-7.561239624023443" y="24.773858642578148" z="-292.4381271362305"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v75" unit="mm" x="-7.553976440429693" y="24.787042236328148" z="-292.44614562988284"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v76" unit="mm" x="-7.556814575195318" y="24.785211181640648" z="-292.4395462036133"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v77" unit="mm" x="-7.561239624023443" y="24.778344726562523" z="-292.43580017089846"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v78" unit="mm" x="-7.556814575195318" y="24.788720703125023" z="-292.4406677246094"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v79" unit="mm" x="-7.561239624023443" y="24.783349609375023" z="-292.4349838256836"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v80" unit="mm" x="-7.566824340820318" y="24.774713134765648" z="-292.43425903320315"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v81" unit="mm" x="-7.561239624023443" y="24.788354492187523" z="-292.4357543945313"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v82" unit="mm" x="-7.566824340820318" y="24.780358886718773" z="-292.4323974609375"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v83" unit="mm" x="-7.561239624023443" y="24.792871093750023" z="-292.4380279541016"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v84" unit="mm" x="-7.566824340820318" y="24.786309814453148" z="-292.4323669433594"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v85" unit="mm" x="-7.566824340820318" y="24.791986083984398" z="-292.4341751098633"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v86" unit="mm" x="-7.889181518554693" y="24.772180175781273" z="-292.4358306884766"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v87" unit="mm" x="-7.889181518554693" y="24.777459716796898" z="-292.43310699462893"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v88" unit="mm" x="-7.889181518554693" y="24.783349609375023" z="-292.432145690918"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v89" unit="mm" x="-7.894750976562506" y="24.776025390625023" z="-292.436784362793"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v90" unit="mm" x="-7.889181518554693" y="24.789208984375023" z="-292.4330459594727"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v91" unit="mm" x="-7.894750976562506" y="24.780816650390648" z="-292.4351974487305"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v92" unit="mm" x="-7.899176025390631" y="24.776483154296898" z="-292.4416900634766"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v93" unit="mm" x="-7.889181518554693" y="24.794549560546898" z="-292.43572387695315"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v94" unit="mm" x="-7.894750976562506" y="24.785882568359398" z="-292.4351745605469"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v95" unit="mm" x="-7.899176025390631" y="24.779748535156273" z="-292.4400039672852"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v96" unit="mm" x="-7.894750976562506" y="24.790704345703148" z="-292.4367156982422"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v97" unit="mm" x="-7.899176025390631" y="24.783380126953148" z="-292.43940887451174"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v98" unit="mm" x="-7.902029418945318" y="24.780603027343773" z="-292.4456726074219"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v99" unit="mm" x="-7.899176025390631" y="24.787011718750023" z="-292.4399658203125"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v100" unit="mm" x="-7.902029418945318" y="24.782434082031273" z="-292.44506988525393"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v101" unit="mm" x="-7.899176025390631" y="24.790307617187523" z="-292.4416213989258"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v102" unit="mm" x="-7.902029418945318" y="24.784387207031273" z="-292.44505462646487"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v103" unit="mm" x="-7.902029418945318" y="24.786218261718773" z="-292.4456420898438"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v104" unit="mm" x="-7.553976440429693" y="24.609613037109398" z="-292.625390625"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v105" unit="mm" x="-7.553976440429693" y="24.608728027343773" z="-292.6236740112305"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v106" unit="mm" x="-7.553976440429693" y="24.608422851562523" z="-292.62175903320315"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v107" unit="mm" x="-7.556814575195318" y="24.604150390625023" z="-292.6271224975586"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v108" unit="mm" x="-7.553976440429693" y="24.608697509765648" z="-292.61985168457034"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v109" unit="mm" x="-7.556814575195318" y="24.602990722656273" z="-292.6236282348633"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v110" unit="mm" x="-7.561239624023443" y="24.601556396484398" z="-292.6313110351563"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v111" unit="mm" x="-7.553976440429693" y="24.609582519531273" z="-292.61811981201174"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v112" unit="mm" x="-7.556814575195318" y="24.602960205078148" z="-292.61995086669924"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v113" unit="mm" x="-7.561239624023443" y="24.599237060546898" z="-292.62680969238284"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v114" unit="mm" x="-7.556814575195318" y="24.604089355468773" z="-292.6164489746094"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v115" unit="mm" x="-7.561239624023443" y="24.598413085937523" z="-292.62181243896487"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v116" unit="mm" x="-7.566824340820318" y="24.597680664062523" z="-292.63044891357424"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v117" unit="mm" x="-7.561239624023443" y="24.599176025390648" z="-292.61680755615237"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v118" unit="mm" x="-7.566824340820318" y="24.595819091796898" z="-292.6248031616211"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v119" unit="mm" x="-7.561239624023443" y="24.601464843750023" z="-292.61228332519534"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v120" unit="mm" x="-7.566824340820318" y="24.595788574218773" z="-292.61885223388674"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v121" unit="mm" x="-7.566824340820318" y="24.597589111328148" z="-292.61318359375"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v122" unit="mm" x="-7.889181518554693" y="24.599267578125023" z="-292.63298950195315"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v123" unit="mm" x="-7.889181518554693" y="24.596520996093773" z="-292.627702331543"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v124" unit="mm" x="-7.889181518554693" y="24.595574951171898" z="-292.62182769775393"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v125" unit="mm" x="-7.894750976562506" y="24.600213623046898" z="-292.62915191650393"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v126" unit="mm" x="-7.889181518554693" y="24.596490478515648" z="-292.61594543457034"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v127" unit="mm" x="-7.894750976562506" y="24.598626708984398" z="-292.62434539794924"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v128" unit="mm" x="-7.899176025390631" y="24.605126953125023" z="-292.6286865234375"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v129" unit="mm" x="-7.889181518554693" y="24.599145507812523" z="-292.61062774658205"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v130" unit="mm" x="-7.894750976562506" y="24.598596191406273" z="-292.6192794799805"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v131" unit="mm" x="-7.899176025390631" y="24.603448486328148" z="-292.62542114257815"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v132" unit="mm" x="-7.894750976562506" y="24.600152587890648" z="-292.61445770263674"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v133" unit="mm" x="-7.899176025390631" y="24.602838134765648" z="-292.6217895507813"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v134" unit="mm" x="-7.902029418945318" y="24.609094238281273" z="-292.62456665039065"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v135" unit="mm" x="-7.899176025390631" y="24.603387451171898" z="-292.6181579589844"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v136" unit="mm" x="-7.902029418945318" y="24.608483886718773" z="-292.6227279663086"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v137" unit="mm" x="-7.899176025390631" y="24.605035400390648" z="-292.61486968994143"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v138" unit="mm" x="-7.902029418945318" y="24.608483886718773" z="-292.6207977294922"/>
+        <position name="RESC0603X28N002_3.step_ASCII_v139" unit="mm" x="-7.902029418945318" y="24.609063720703148" z="-292.61895141601565"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="RESC0603X28N002_3.step_ASCII-SOL">
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v1" vertex3="RESC0603X28N002_3.step_ASCII_v2"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v3" vertex3="RESC0603X28N002_3.step_ASCII_v1"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v4" vertex2="RESC0603X28N002_3.step_ASCII_v5" vertex3="RESC0603X28N002_3.step_ASCII_v6"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v4" vertex2="RESC0603X28N002_3.step_ASCII_v7" vertex3="RESC0603X28N002_3.step_ASCII_v5"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v8" vertex2="RESC0603X28N002_3.step_ASCII_v9" vertex3="RESC0603X28N002_3.step_ASCII_v10"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v8" vertex2="RESC0603X28N002_3.step_ASCII_v11" vertex3="RESC0603X28N002_3.step_ASCII_v9"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v8" vertex2="RESC0603X28N002_3.step_ASCII_v12" vertex3="RESC0603X28N002_3.step_ASCII_v11"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v13" vertex2="RESC0603X28N002_3.step_ASCII_v14" vertex3="RESC0603X28N002_3.step_ASCII_v15"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v2" vertex2="RESC0603X28N002_3.step_ASCII_v16" vertex3="RESC0603X28N002_3.step_ASCII_v13"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v2" vertex2="RESC0603X28N002_3.step_ASCII_v15" vertex3="RESC0603X28N002_3.step_ASCII_v8"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v2" vertex2="RESC0603X28N002_3.step_ASCII_v8" vertex3="RESC0603X28N002_3.step_ASCII_v10"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v2" vertex2="RESC0603X28N002_3.step_ASCII_v13" vertex3="RESC0603X28N002_3.step_ASCII_v15"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v17" vertex2="RESC0603X28N002_3.step_ASCII_v18" vertex3="RESC0603X28N002_3.step_ASCII_v19"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v17" vertex2="RESC0603X28N002_3.step_ASCII_v20" vertex3="RESC0603X28N002_3.step_ASCII_v18"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v4" vertex2="RESC0603X28N002_3.step_ASCII_v20" vertex3="RESC0603X28N002_3.step_ASCII_v17"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v10" vertex3="RESC0603X28N002_3.step_ASCII_v20"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v4" vertex3="RESC0603X28N002_3.step_ASCII_v6"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v2" vertex3="RESC0603X28N002_3.step_ASCII_v10"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v20" vertex3="RESC0603X28N002_3.step_ASCII_v4"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v21" vertex2="RESC0603X28N002_3.step_ASCII_v22" vertex3="RESC0603X28N002_3.step_ASCII_v0"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v21" vertex2="RESC0603X28N002_3.step_ASCII_v6" vertex3="RESC0603X28N002_3.step_ASCII_v23"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v21" vertex2="RESC0603X28N002_3.step_ASCII_v0" vertex3="RESC0603X28N002_3.step_ASCII_v6"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v24" vertex2="RESC0603X28N002_3.step_ASCII_v25" vertex3="RESC0603X28N002_3.step_ASCII_v26"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v24" vertex2="RESC0603X28N002_3.step_ASCII_v26" vertex3="RESC0603X28N002_3.step_ASCII_v27"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v28" vertex2="RESC0603X28N002_3.step_ASCII_v20" vertex3="RESC0603X28N002_3.step_ASCII_v29"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v29" vertex2="RESC0603X28N002_3.step_ASCII_v20" vertex3="RESC0603X28N002_3.step_ASCII_v10"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v8" vertex2="RESC0603X28N002_3.step_ASCII_v15" vertex3="RESC0603X28N002_3.step_ASCII_v30"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v8" vertex2="RESC0603X28N002_3.step_ASCII_v30" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v18" vertex2="RESC0603X28N002_3.step_ASCII_v20" vertex3="RESC0603X28N002_3.step_ASCII_v28"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v18" vertex2="RESC0603X28N002_3.step_ASCII_v28" vertex3="RESC0603X28N002_3.step_ASCII_v32"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v19" vertex2="RESC0603X28N002_3.step_ASCII_v32" vertex3="RESC0603X28N002_3.step_ASCII_v33"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v19" vertex2="RESC0603X28N002_3.step_ASCII_v18" vertex3="RESC0603X28N002_3.step_ASCII_v32"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v17" vertex2="RESC0603X28N002_3.step_ASCII_v33" vertex3="RESC0603X28N002_3.step_ASCII_v34"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v17" vertex2="RESC0603X28N002_3.step_ASCII_v19" vertex3="RESC0603X28N002_3.step_ASCII_v33"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v4" vertex2="RESC0603X28N002_3.step_ASCII_v34" vertex3="RESC0603X28N002_3.step_ASCII_v7"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v4" vertex2="RESC0603X28N002_3.step_ASCII_v17" vertex3="RESC0603X28N002_3.step_ASCII_v34"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v28" vertex2="RESC0603X28N002_3.step_ASCII_v29" vertex3="RESC0603X28N002_3.step_ASCII_v35"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v36" vertex2="RESC0603X28N002_3.step_ASCII_v35" vertex3="RESC0603X28N002_3.step_ASCII_v37"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v36" vertex2="RESC0603X28N002_3.step_ASCII_v28" vertex3="RESC0603X28N002_3.step_ASCII_v35"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v38" vertex2="RESC0603X28N002_3.step_ASCII_v37" vertex3="RESC0603X28N002_3.step_ASCII_v39"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v38" vertex2="RESC0603X28N002_3.step_ASCII_v36" vertex3="RESC0603X28N002_3.step_ASCII_v37"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v40" vertex2="RESC0603X28N002_3.step_ASCII_v39" vertex3="RESC0603X28N002_3.step_ASCII_v26"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v40" vertex2="RESC0603X28N002_3.step_ASCII_v38" vertex3="RESC0603X28N002_3.step_ASCII_v39"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v25" vertex2="RESC0603X28N002_3.step_ASCII_v40" vertex3="RESC0603X28N002_3.step_ASCII_v26"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v41" vertex2="RESC0603X28N002_3.step_ASCII_v10" vertex3="RESC0603X28N002_3.step_ASCII_v9"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v41" vertex2="RESC0603X28N002_3.step_ASCII_v29" vertex3="RESC0603X28N002_3.step_ASCII_v10"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v42" vertex2="RESC0603X28N002_3.step_ASCII_v9" vertex3="RESC0603X28N002_3.step_ASCII_v11"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v42" vertex2="RESC0603X28N002_3.step_ASCII_v41" vertex3="RESC0603X28N002_3.step_ASCII_v9"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v43" vertex2="RESC0603X28N002_3.step_ASCII_v11" vertex3="RESC0603X28N002_3.step_ASCII_v12"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v43" vertex2="RESC0603X28N002_3.step_ASCII_v42" vertex3="RESC0603X28N002_3.step_ASCII_v11"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v31" vertex2="RESC0603X28N002_3.step_ASCII_v12" vertex3="RESC0603X28N002_3.step_ASCII_v8"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v31" vertex2="RESC0603X28N002_3.step_ASCII_v43" vertex3="RESC0603X28N002_3.step_ASCII_v12"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v23" vertex2="RESC0603X28N002_3.step_ASCII_v6" vertex3="RESC0603X28N002_3.step_ASCII_v5"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v23" vertex2="RESC0603X28N002_3.step_ASCII_v5" vertex3="RESC0603X28N002_3.step_ASCII_v44"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v21" vertex2="RESC0603X28N002_3.step_ASCII_v44" vertex3="RESC0603X28N002_3.step_ASCII_v45"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v21" vertex2="RESC0603X28N002_3.step_ASCII_v23" vertex3="RESC0603X28N002_3.step_ASCII_v44"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v22" vertex2="RESC0603X28N002_3.step_ASCII_v45" vertex3="RESC0603X28N002_3.step_ASCII_v46"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v22" vertex2="RESC0603X28N002_3.step_ASCII_v21" vertex3="RESC0603X28N002_3.step_ASCII_v45"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v46" vertex3="RESC0603X28N002_3.step_ASCII_v3"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v0" vertex2="RESC0603X28N002_3.step_ASCII_v22" vertex3="RESC0603X28N002_3.step_ASCII_v46"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v5" vertex2="RESC0603X28N002_3.step_ASCII_v7" vertex3="RESC0603X28N002_3.step_ASCII_v47"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v48" vertex2="RESC0603X28N002_3.step_ASCII_v47" vertex3="RESC0603X28N002_3.step_ASCII_v49"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v48" vertex2="RESC0603X28N002_3.step_ASCII_v5" vertex3="RESC0603X28N002_3.step_ASCII_v47"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v50" vertex2="RESC0603X28N002_3.step_ASCII_v49" vertex3="RESC0603X28N002_3.step_ASCII_v51"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v50" vertex2="RESC0603X28N002_3.step_ASCII_v48" vertex3="RESC0603X28N002_3.step_ASCII_v49"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v52" vertex2="RESC0603X28N002_3.step_ASCII_v51" vertex3="RESC0603X28N002_3.step_ASCII_v25"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v52" vertex2="RESC0603X28N002_3.step_ASCII_v50" vertex3="RESC0603X28N002_3.step_ASCII_v51"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v24" vertex2="RESC0603X28N002_3.step_ASCII_v52" vertex3="RESC0603X28N002_3.step_ASCII_v25"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v53" vertex2="RESC0603X28N002_3.step_ASCII_v15" vertex3="RESC0603X28N002_3.step_ASCII_v14"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v53" vertex2="RESC0603X28N002_3.step_ASCII_v30" vertex3="RESC0603X28N002_3.step_ASCII_v15"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v54" vertex2="RESC0603X28N002_3.step_ASCII_v14" vertex3="RESC0603X28N002_3.step_ASCII_v13"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v54" vertex2="RESC0603X28N002_3.step_ASCII_v53" vertex3="RESC0603X28N002_3.step_ASCII_v14"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v55" vertex2="RESC0603X28N002_3.step_ASCII_v13" vertex3="RESC0603X28N002_3.step_ASCII_v16"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v55" vertex2="RESC0603X28N002_3.step_ASCII_v54" vertex3="RESC0603X28N002_3.step_ASCII_v13"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v1" vertex2="RESC0603X28N002_3.step_ASCII_v16" vertex3="RESC0603X28N002_3.step_ASCII_v2"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v1" vertex2="RESC0603X28N002_3.step_ASCII_v55" vertex3="RESC0603X28N002_3.step_ASCII_v16"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v27" vertex2="RESC0603X28N002_3.step_ASCII_v26" vertex3="RESC0603X28N002_3.step_ASCII_v56"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v57" vertex2="RESC0603X28N002_3.step_ASCII_v56" vertex3="RESC0603X28N002_3.step_ASCII_v58"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v57" vertex2="RESC0603X28N002_3.step_ASCII_v27" vertex3="RESC0603X28N002_3.step_ASCII_v56"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v59" vertex2="RESC0603X28N002_3.step_ASCII_v58" vertex3="RESC0603X28N002_3.step_ASCII_v60"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v59" vertex2="RESC0603X28N002_3.step_ASCII_v57" vertex3="RESC0603X28N002_3.step_ASCII_v58"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v61" vertex2="RESC0603X28N002_3.step_ASCII_v60" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v61" vertex2="RESC0603X28N002_3.step_ASCII_v59" vertex3="RESC0603X28N002_3.step_ASCII_v60"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v30" vertex2="RESC0603X28N002_3.step_ASCII_v61" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v62" vertex2="RESC0603X28N002_3.step_ASCII_v24" vertex3="RESC0603X28N002_3.step_ASCII_v27"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v62" vertex2="RESC0603X28N002_3.step_ASCII_v27" vertex3="RESC0603X28N002_3.step_ASCII_v63"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v64" vertex2="RESC0603X28N002_3.step_ASCII_v63" vertex3="RESC0603X28N002_3.step_ASCII_v65"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v64" vertex2="RESC0603X28N002_3.step_ASCII_v62" vertex3="RESC0603X28N002_3.step_ASCII_v63"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v66" vertex2="RESC0603X28N002_3.step_ASCII_v65" vertex3="RESC0603X28N002_3.step_ASCII_v67"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v66" vertex2="RESC0603X28N002_3.step_ASCII_v64" vertex3="RESC0603X28N002_3.step_ASCII_v65"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v3" vertex2="RESC0603X28N002_3.step_ASCII_v67" vertex3="RESC0603X28N002_3.step_ASCII_v1"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v3" vertex2="RESC0603X28N002_3.step_ASCII_v66" vertex3="RESC0603X28N002_3.step_ASCII_v67"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v68" vertex2="RESC0603X28N002_3.step_ASCII_v61" vertex3="RESC0603X28N002_3.step_ASCII_v30"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v69" vertex2="RESC0603X28N002_3.step_ASCII_v68" vertex3="RESC0603X28N002_3.step_ASCII_v30"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v70" vertex2="RESC0603X28N002_3.step_ASCII_v69" vertex3="RESC0603X28N002_3.step_ASCII_v30"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v71" vertex2="RESC0603X28N002_3.step_ASCII_v59" vertex3="RESC0603X28N002_3.step_ASCII_v61"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v71" vertex2="RESC0603X28N002_3.step_ASCII_v68" vertex3="RESC0603X28N002_3.step_ASCII_v69"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v71" vertex2="RESC0603X28N002_3.step_ASCII_v61" vertex3="RESC0603X28N002_3.step_ASCII_v68"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v72" vertex2="RESC0603X28N002_3.step_ASCII_v70" vertex3="RESC0603X28N002_3.step_ASCII_v30"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v73" vertex2="RESC0603X28N002_3.step_ASCII_v71" vertex3="RESC0603X28N002_3.step_ASCII_v69"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v73" vertex2="RESC0603X28N002_3.step_ASCII_v69" vertex3="RESC0603X28N002_3.step_ASCII_v70"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v74" vertex2="RESC0603X28N002_3.step_ASCII_v57" vertex3="RESC0603X28N002_3.step_ASCII_v59"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v74" vertex2="RESC0603X28N002_3.step_ASCII_v59" vertex3="RESC0603X28N002_3.step_ASCII_v71"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v75" vertex2="RESC0603X28N002_3.step_ASCII_v30" vertex3="RESC0603X28N002_3.step_ASCII_v53"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v75" vertex2="RESC0603X28N002_3.step_ASCII_v72" vertex3="RESC0603X28N002_3.step_ASCII_v30"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v76" vertex2="RESC0603X28N002_3.step_ASCII_v70" vertex3="RESC0603X28N002_3.step_ASCII_v72"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v76" vertex2="RESC0603X28N002_3.step_ASCII_v73" vertex3="RESC0603X28N002_3.step_ASCII_v70"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v77" vertex2="RESC0603X28N002_3.step_ASCII_v71" vertex3="RESC0603X28N002_3.step_ASCII_v73"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v77" vertex2="RESC0603X28N002_3.step_ASCII_v74" vertex3="RESC0603X28N002_3.step_ASCII_v71"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v78" vertex2="RESC0603X28N002_3.step_ASCII_v53" vertex3="RESC0603X28N002_3.step_ASCII_v54"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v78" vertex2="RESC0603X28N002_3.step_ASCII_v75" vertex3="RESC0603X28N002_3.step_ASCII_v53"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v78" vertex2="RESC0603X28N002_3.step_ASCII_v72" vertex3="RESC0603X28N002_3.step_ASCII_v75"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v78" vertex2="RESC0603X28N002_3.step_ASCII_v76" vertex3="RESC0603X28N002_3.step_ASCII_v72"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v79" vertex2="RESC0603X28N002_3.step_ASCII_v77" vertex3="RESC0603X28N002_3.step_ASCII_v73"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v79" vertex2="RESC0603X28N002_3.step_ASCII_v73" vertex3="RESC0603X28N002_3.step_ASCII_v76"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v80" vertex2="RESC0603X28N002_3.step_ASCII_v63" vertex3="RESC0603X28N002_3.step_ASCII_v27"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v80" vertex2="RESC0603X28N002_3.step_ASCII_v27" vertex3="RESC0603X28N002_3.step_ASCII_v57"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v80" vertex2="RESC0603X28N002_3.step_ASCII_v57" vertex3="RESC0603X28N002_3.step_ASCII_v74"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v80" vertex2="RESC0603X28N002_3.step_ASCII_v74" vertex3="RESC0603X28N002_3.step_ASCII_v77"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v81" vertex2="RESC0603X28N002_3.step_ASCII_v76" vertex3="RESC0603X28N002_3.step_ASCII_v78"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v81" vertex2="RESC0603X28N002_3.step_ASCII_v79" vertex3="RESC0603X28N002_3.step_ASCII_v76"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v82" vertex2="RESC0603X28N002_3.step_ASCII_v65" vertex3="RESC0603X28N002_3.step_ASCII_v63"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v82" vertex2="RESC0603X28N002_3.step_ASCII_v63" vertex3="RESC0603X28N002_3.step_ASCII_v80"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v82" vertex2="RESC0603X28N002_3.step_ASCII_v77" vertex3="RESC0603X28N002_3.step_ASCII_v79"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v82" vertex2="RESC0603X28N002_3.step_ASCII_v80" vertex3="RESC0603X28N002_3.step_ASCII_v77"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v83" vertex2="RESC0603X28N002_3.step_ASCII_v54" vertex3="RESC0603X28N002_3.step_ASCII_v55"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v83" vertex2="RESC0603X28N002_3.step_ASCII_v78" vertex3="RESC0603X28N002_3.step_ASCII_v54"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v83" vertex2="RESC0603X28N002_3.step_ASCII_v81" vertex3="RESC0603X28N002_3.step_ASCII_v78"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v84" vertex2="RESC0603X28N002_3.step_ASCII_v67" vertex3="RESC0603X28N002_3.step_ASCII_v65"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v84" vertex2="RESC0603X28N002_3.step_ASCII_v65" vertex3="RESC0603X28N002_3.step_ASCII_v82"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v84" vertex2="RESC0603X28N002_3.step_ASCII_v79" vertex3="RESC0603X28N002_3.step_ASCII_v81"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v84" vertex2="RESC0603X28N002_3.step_ASCII_v82" vertex3="RESC0603X28N002_3.step_ASCII_v79"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v85" vertex2="RESC0603X28N002_3.step_ASCII_v55" vertex3="RESC0603X28N002_3.step_ASCII_v1"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v85" vertex2="RESC0603X28N002_3.step_ASCII_v1" vertex3="RESC0603X28N002_3.step_ASCII_v67"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v85" vertex2="RESC0603X28N002_3.step_ASCII_v67" vertex3="RESC0603X28N002_3.step_ASCII_v84"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v85" vertex2="RESC0603X28N002_3.step_ASCII_v83" vertex3="RESC0603X28N002_3.step_ASCII_v55"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v85" vertex2="RESC0603X28N002_3.step_ASCII_v81" vertex3="RESC0603X28N002_3.step_ASCII_v83"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v85" vertex2="RESC0603X28N002_3.step_ASCII_v84" vertex3="RESC0603X28N002_3.step_ASCII_v81"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v86" vertex2="RESC0603X28N002_3.step_ASCII_v52" vertex3="RESC0603X28N002_3.step_ASCII_v24"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v86" vertex2="RESC0603X28N002_3.step_ASCII_v24" vertex3="RESC0603X28N002_3.step_ASCII_v62"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v87" vertex2="RESC0603X28N002_3.step_ASCII_v62" vertex3="RESC0603X28N002_3.step_ASCII_v64"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v87" vertex2="RESC0603X28N002_3.step_ASCII_v86" vertex3="RESC0603X28N002_3.step_ASCII_v62"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v88" vertex2="RESC0603X28N002_3.step_ASCII_v87" vertex3="RESC0603X28N002_3.step_ASCII_v64"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v89" vertex2="RESC0603X28N002_3.step_ASCII_v50" vertex3="RESC0603X28N002_3.step_ASCII_v52"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v89" vertex2="RESC0603X28N002_3.step_ASCII_v86" vertex3="RESC0603X28N002_3.step_ASCII_v87"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v89" vertex2="RESC0603X28N002_3.step_ASCII_v52" vertex3="RESC0603X28N002_3.step_ASCII_v86"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v90" vertex2="RESC0603X28N002_3.step_ASCII_v64" vertex3="RESC0603X28N002_3.step_ASCII_v66"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v90" vertex2="RESC0603X28N002_3.step_ASCII_v88" vertex3="RESC0603X28N002_3.step_ASCII_v64"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v91" vertex2="RESC0603X28N002_3.step_ASCII_v89" vertex3="RESC0603X28N002_3.step_ASCII_v87"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v91" vertex2="RESC0603X28N002_3.step_ASCII_v87" vertex3="RESC0603X28N002_3.step_ASCII_v88"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v92" vertex2="RESC0603X28N002_3.step_ASCII_v48" vertex3="RESC0603X28N002_3.step_ASCII_v50"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v92" vertex2="RESC0603X28N002_3.step_ASCII_v50" vertex3="RESC0603X28N002_3.step_ASCII_v89"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v93" vertex2="RESC0603X28N002_3.step_ASCII_v66" vertex3="RESC0603X28N002_3.step_ASCII_v3"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v93" vertex2="RESC0603X28N002_3.step_ASCII_v3" vertex3="RESC0603X28N002_3.step_ASCII_v46"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v93" vertex2="RESC0603X28N002_3.step_ASCII_v90" vertex3="RESC0603X28N002_3.step_ASCII_v66"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v94" vertex2="RESC0603X28N002_3.step_ASCII_v91" vertex3="RESC0603X28N002_3.step_ASCII_v88"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v94" vertex2="RESC0603X28N002_3.step_ASCII_v88" vertex3="RESC0603X28N002_3.step_ASCII_v90"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v95" vertex2="RESC0603X28N002_3.step_ASCII_v89" vertex3="RESC0603X28N002_3.step_ASCII_v91"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v95" vertex2="RESC0603X28N002_3.step_ASCII_v92" vertex3="RESC0603X28N002_3.step_ASCII_v89"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v96" vertex2="RESC0603X28N002_3.step_ASCII_v46" vertex3="RESC0603X28N002_3.step_ASCII_v45"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v96" vertex2="RESC0603X28N002_3.step_ASCII_v93" vertex3="RESC0603X28N002_3.step_ASCII_v46"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v96" vertex2="RESC0603X28N002_3.step_ASCII_v90" vertex3="RESC0603X28N002_3.step_ASCII_v93"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v96" vertex2="RESC0603X28N002_3.step_ASCII_v94" vertex3="RESC0603X28N002_3.step_ASCII_v90"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v97" vertex2="RESC0603X28N002_3.step_ASCII_v91" vertex3="RESC0603X28N002_3.step_ASCII_v94"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v97" vertex2="RESC0603X28N002_3.step_ASCII_v95" vertex3="RESC0603X28N002_3.step_ASCII_v91"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v98" vertex2="RESC0603X28N002_3.step_ASCII_v5" vertex3="RESC0603X28N002_3.step_ASCII_v48"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v98" vertex2="RESC0603X28N002_3.step_ASCII_v48" vertex3="RESC0603X28N002_3.step_ASCII_v92"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v98" vertex2="RESC0603X28N002_3.step_ASCII_v92" vertex3="RESC0603X28N002_3.step_ASCII_v95"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v99" vertex2="RESC0603X28N002_3.step_ASCII_v94" vertex3="RESC0603X28N002_3.step_ASCII_v96"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v99" vertex2="RESC0603X28N002_3.step_ASCII_v97" vertex3="RESC0603X28N002_3.step_ASCII_v94"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v100" vertex2="RESC0603X28N002_3.step_ASCII_v5" vertex3="RESC0603X28N002_3.step_ASCII_v98"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v100" vertex2="RESC0603X28N002_3.step_ASCII_v95" vertex3="RESC0603X28N002_3.step_ASCII_v97"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v100" vertex2="RESC0603X28N002_3.step_ASCII_v98" vertex3="RESC0603X28N002_3.step_ASCII_v95"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v101" vertex2="RESC0603X28N002_3.step_ASCII_v45" vertex3="RESC0603X28N002_3.step_ASCII_v44"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v101" vertex2="RESC0603X28N002_3.step_ASCII_v99" vertex3="RESC0603X28N002_3.step_ASCII_v96"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v101" vertex2="RESC0603X28N002_3.step_ASCII_v96" vertex3="RESC0603X28N002_3.step_ASCII_v45"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v102" vertex2="RESC0603X28N002_3.step_ASCII_v5" vertex3="RESC0603X28N002_3.step_ASCII_v100"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v102" vertex2="RESC0603X28N002_3.step_ASCII_v97" vertex3="RESC0603X28N002_3.step_ASCII_v99"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v102" vertex2="RESC0603X28N002_3.step_ASCII_v100" vertex3="RESC0603X28N002_3.step_ASCII_v97"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v103" vertex2="RESC0603X28N002_3.step_ASCII_v44" vertex3="RESC0603X28N002_3.step_ASCII_v5"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v103" vertex2="RESC0603X28N002_3.step_ASCII_v5" vertex3="RESC0603X28N002_3.step_ASCII_v102"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v103" vertex2="RESC0603X28N002_3.step_ASCII_v101" vertex3="RESC0603X28N002_3.step_ASCII_v44"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v103" vertex2="RESC0603X28N002_3.step_ASCII_v99" vertex3="RESC0603X28N002_3.step_ASCII_v101"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v103" vertex2="RESC0603X28N002_3.step_ASCII_v102" vertex3="RESC0603X28N002_3.step_ASCII_v99"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v104" vertex2="RESC0603X28N002_3.step_ASCII_v43" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v105" vertex2="RESC0603X28N002_3.step_ASCII_v104" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v106" vertex2="RESC0603X28N002_3.step_ASCII_v105" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v107" vertex2="RESC0603X28N002_3.step_ASCII_v42" vertex3="RESC0603X28N002_3.step_ASCII_v43"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v107" vertex2="RESC0603X28N002_3.step_ASCII_v104" vertex3="RESC0603X28N002_3.step_ASCII_v105"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v107" vertex2="RESC0603X28N002_3.step_ASCII_v43" vertex3="RESC0603X28N002_3.step_ASCII_v104"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v108" vertex2="RESC0603X28N002_3.step_ASCII_v106" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v109" vertex2="RESC0603X28N002_3.step_ASCII_v107" vertex3="RESC0603X28N002_3.step_ASCII_v105"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v109" vertex2="RESC0603X28N002_3.step_ASCII_v105" vertex3="RESC0603X28N002_3.step_ASCII_v106"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v110" vertex2="RESC0603X28N002_3.step_ASCII_v41" vertex3="RESC0603X28N002_3.step_ASCII_v42"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v110" vertex2="RESC0603X28N002_3.step_ASCII_v42" vertex3="RESC0603X28N002_3.step_ASCII_v107"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v111" vertex2="RESC0603X28N002_3.step_ASCII_v31" vertex3="RESC0603X28N002_3.step_ASCII_v60"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v111" vertex2="RESC0603X28N002_3.step_ASCII_v108" vertex3="RESC0603X28N002_3.step_ASCII_v31"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v112" vertex2="RESC0603X28N002_3.step_ASCII_v109" vertex3="RESC0603X28N002_3.step_ASCII_v106"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v112" vertex2="RESC0603X28N002_3.step_ASCII_v106" vertex3="RESC0603X28N002_3.step_ASCII_v108"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v113" vertex2="RESC0603X28N002_3.step_ASCII_v107" vertex3="RESC0603X28N002_3.step_ASCII_v109"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v113" vertex2="RESC0603X28N002_3.step_ASCII_v110" vertex3="RESC0603X28N002_3.step_ASCII_v107"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v114" vertex2="RESC0603X28N002_3.step_ASCII_v60" vertex3="RESC0603X28N002_3.step_ASCII_v58"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v114" vertex2="RESC0603X28N002_3.step_ASCII_v111" vertex3="RESC0603X28N002_3.step_ASCII_v60"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v114" vertex2="RESC0603X28N002_3.step_ASCII_v108" vertex3="RESC0603X28N002_3.step_ASCII_v111"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v114" vertex2="RESC0603X28N002_3.step_ASCII_v112" vertex3="RESC0603X28N002_3.step_ASCII_v108"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v115" vertex2="RESC0603X28N002_3.step_ASCII_v109" vertex3="RESC0603X28N002_3.step_ASCII_v112"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v115" vertex2="RESC0603X28N002_3.step_ASCII_v113" vertex3="RESC0603X28N002_3.step_ASCII_v109"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v116" vertex2="RESC0603X28N002_3.step_ASCII_v29" vertex3="RESC0603X28N002_3.step_ASCII_v41"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v116" vertex2="RESC0603X28N002_3.step_ASCII_v35" vertex3="RESC0603X28N002_3.step_ASCII_v29"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v116" vertex2="RESC0603X28N002_3.step_ASCII_v41" vertex3="RESC0603X28N002_3.step_ASCII_v110"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v116" vertex2="RESC0603X28N002_3.step_ASCII_v110" vertex3="RESC0603X28N002_3.step_ASCII_v113"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v117" vertex2="RESC0603X28N002_3.step_ASCII_v112" vertex3="RESC0603X28N002_3.step_ASCII_v114"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v117" vertex2="RESC0603X28N002_3.step_ASCII_v115" vertex3="RESC0603X28N002_3.step_ASCII_v112"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v118" vertex2="RESC0603X28N002_3.step_ASCII_v37" vertex3="RESC0603X28N002_3.step_ASCII_v35"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v118" vertex2="RESC0603X28N002_3.step_ASCII_v35" vertex3="RESC0603X28N002_3.step_ASCII_v116"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v118" vertex2="RESC0603X28N002_3.step_ASCII_v113" vertex3="RESC0603X28N002_3.step_ASCII_v115"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v118" vertex2="RESC0603X28N002_3.step_ASCII_v116" vertex3="RESC0603X28N002_3.step_ASCII_v113"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v119" vertex2="RESC0603X28N002_3.step_ASCII_v58" vertex3="RESC0603X28N002_3.step_ASCII_v56"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v119" vertex2="RESC0603X28N002_3.step_ASCII_v114" vertex3="RESC0603X28N002_3.step_ASCII_v58"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v119" vertex2="RESC0603X28N002_3.step_ASCII_v117" vertex3="RESC0603X28N002_3.step_ASCII_v114"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v120" vertex2="RESC0603X28N002_3.step_ASCII_v39" vertex3="RESC0603X28N002_3.step_ASCII_v37"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v120" vertex2="RESC0603X28N002_3.step_ASCII_v37" vertex3="RESC0603X28N002_3.step_ASCII_v118"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v120" vertex2="RESC0603X28N002_3.step_ASCII_v115" vertex3="RESC0603X28N002_3.step_ASCII_v117"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v120" vertex2="RESC0603X28N002_3.step_ASCII_v118" vertex3="RESC0603X28N002_3.step_ASCII_v115"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v121" vertex2="RESC0603X28N002_3.step_ASCII_v56" vertex3="RESC0603X28N002_3.step_ASCII_v26"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v121" vertex2="RESC0603X28N002_3.step_ASCII_v26" vertex3="RESC0603X28N002_3.step_ASCII_v39"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v121" vertex2="RESC0603X28N002_3.step_ASCII_v39" vertex3="RESC0603X28N002_3.step_ASCII_v120"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v121" vertex2="RESC0603X28N002_3.step_ASCII_v119" vertex3="RESC0603X28N002_3.step_ASCII_v56"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v121" vertex2="RESC0603X28N002_3.step_ASCII_v117" vertex3="RESC0603X28N002_3.step_ASCII_v119"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v121" vertex2="RESC0603X28N002_3.step_ASCII_v120" vertex3="RESC0603X28N002_3.step_ASCII_v117"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v122" vertex2="RESC0603X28N002_3.step_ASCII_v28" vertex3="RESC0603X28N002_3.step_ASCII_v36"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v122" vertex2="RESC0603X28N002_3.step_ASCII_v32" vertex3="RESC0603X28N002_3.step_ASCII_v28"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v123" vertex2="RESC0603X28N002_3.step_ASCII_v36" vertex3="RESC0603X28N002_3.step_ASCII_v38"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v123" vertex2="RESC0603X28N002_3.step_ASCII_v122" vertex3="RESC0603X28N002_3.step_ASCII_v36"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v124" vertex2="RESC0603X28N002_3.step_ASCII_v123" vertex3="RESC0603X28N002_3.step_ASCII_v38"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v125" vertex2="RESC0603X28N002_3.step_ASCII_v33" vertex3="RESC0603X28N002_3.step_ASCII_v32"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v125" vertex2="RESC0603X28N002_3.step_ASCII_v122" vertex3="RESC0603X28N002_3.step_ASCII_v123"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v125" vertex2="RESC0603X28N002_3.step_ASCII_v32" vertex3="RESC0603X28N002_3.step_ASCII_v122"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v126" vertex2="RESC0603X28N002_3.step_ASCII_v38" vertex3="RESC0603X28N002_3.step_ASCII_v40"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v126" vertex2="RESC0603X28N002_3.step_ASCII_v124" vertex3="RESC0603X28N002_3.step_ASCII_v38"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v127" vertex2="RESC0603X28N002_3.step_ASCII_v123" vertex3="RESC0603X28N002_3.step_ASCII_v124"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v127" vertex2="RESC0603X28N002_3.step_ASCII_v125" vertex3="RESC0603X28N002_3.step_ASCII_v123"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v128" vertex2="RESC0603X28N002_3.step_ASCII_v34" vertex3="RESC0603X28N002_3.step_ASCII_v33"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v128" vertex2="RESC0603X28N002_3.step_ASCII_v33" vertex3="RESC0603X28N002_3.step_ASCII_v125"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v129" vertex2="RESC0603X28N002_3.step_ASCII_v40" vertex3="RESC0603X28N002_3.step_ASCII_v25"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v129" vertex2="RESC0603X28N002_3.step_ASCII_v25" vertex3="RESC0603X28N002_3.step_ASCII_v51"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v129" vertex2="RESC0603X28N002_3.step_ASCII_v126" vertex3="RESC0603X28N002_3.step_ASCII_v40"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v130" vertex2="RESC0603X28N002_3.step_ASCII_v127" vertex3="RESC0603X28N002_3.step_ASCII_v124"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v130" vertex2="RESC0603X28N002_3.step_ASCII_v124" vertex3="RESC0603X28N002_3.step_ASCII_v126"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v131" vertex2="RESC0603X28N002_3.step_ASCII_v125" vertex3="RESC0603X28N002_3.step_ASCII_v127"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v131" vertex2="RESC0603X28N002_3.step_ASCII_v128" vertex3="RESC0603X28N002_3.step_ASCII_v125"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v132" vertex2="RESC0603X28N002_3.step_ASCII_v51" vertex3="RESC0603X28N002_3.step_ASCII_v49"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v132" vertex2="RESC0603X28N002_3.step_ASCII_v130" vertex3="RESC0603X28N002_3.step_ASCII_v126"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v132" vertex2="RESC0603X28N002_3.step_ASCII_v129" vertex3="RESC0603X28N002_3.step_ASCII_v51"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v132" vertex2="RESC0603X28N002_3.step_ASCII_v126" vertex3="RESC0603X28N002_3.step_ASCII_v129"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v133" vertex2="RESC0603X28N002_3.step_ASCII_v127" vertex3="RESC0603X28N002_3.step_ASCII_v130"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v133" vertex2="RESC0603X28N002_3.step_ASCII_v131" vertex3="RESC0603X28N002_3.step_ASCII_v127"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v134" vertex2="RESC0603X28N002_3.step_ASCII_v7" vertex3="RESC0603X28N002_3.step_ASCII_v34"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v134" vertex2="RESC0603X28N002_3.step_ASCII_v34" vertex3="RESC0603X28N002_3.step_ASCII_v128"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v134" vertex2="RESC0603X28N002_3.step_ASCII_v128" vertex3="RESC0603X28N002_3.step_ASCII_v131"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v135" vertex2="RESC0603X28N002_3.step_ASCII_v130" vertex3="RESC0603X28N002_3.step_ASCII_v132"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v135" vertex2="RESC0603X28N002_3.step_ASCII_v133" vertex3="RESC0603X28N002_3.step_ASCII_v130"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v136" vertex2="RESC0603X28N002_3.step_ASCII_v7" vertex3="RESC0603X28N002_3.step_ASCII_v134"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v136" vertex2="RESC0603X28N002_3.step_ASCII_v131" vertex3="RESC0603X28N002_3.step_ASCII_v133"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v136" vertex2="RESC0603X28N002_3.step_ASCII_v134" vertex3="RESC0603X28N002_3.step_ASCII_v131"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v137" vertex2="RESC0603X28N002_3.step_ASCII_v49" vertex3="RESC0603X28N002_3.step_ASCII_v47"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v137" vertex2="RESC0603X28N002_3.step_ASCII_v132" vertex3="RESC0603X28N002_3.step_ASCII_v49"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v137" vertex2="RESC0603X28N002_3.step_ASCII_v135" vertex3="RESC0603X28N002_3.step_ASCII_v132"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v138" vertex2="RESC0603X28N002_3.step_ASCII_v7" vertex3="RESC0603X28N002_3.step_ASCII_v136"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v138" vertex2="RESC0603X28N002_3.step_ASCII_v133" vertex3="RESC0603X28N002_3.step_ASCII_v135"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v138" vertex2="RESC0603X28N002_3.step_ASCII_v136" vertex3="RESC0603X28N002_3.step_ASCII_v133"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v139" vertex2="RESC0603X28N002_3.step_ASCII_v47" vertex3="RESC0603X28N002_3.step_ASCII_v7"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v139" vertex2="RESC0603X28N002_3.step_ASCII_v7" vertex3="RESC0603X28N002_3.step_ASCII_v138"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v139" vertex2="RESC0603X28N002_3.step_ASCII_v137" vertex3="RESC0603X28N002_3.step_ASCII_v47"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v139" vertex2="RESC0603X28N002_3.step_ASCII_v135" vertex3="RESC0603X28N002_3.step_ASCII_v137"/>
+             <triangular vertex1="RESC0603X28N002_3.step_ASCII_v139" vertex2="RESC0603X28N002_3.step_ASCII_v138" vertex3="RESC0603X28N002_3.step_ASCII_v135"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="RESC0603X28N002_3.step_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="RESC0603X28N002_3.step_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="RESC0603X28N002_3.step_ASCII"/>
+    </setup>
+</gdml>
