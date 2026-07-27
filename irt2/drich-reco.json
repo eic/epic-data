@@ -1,9 +1,6 @@
 {
-    "IntegratedReconstruction": "yes",
-    "Comment#1": "Calibration file imported only if IntegratedReconstruction=yes",
-    "Calibration": "drich-calibration.json",
-    "OutputRootFile": "drich-events.root",
-    "WriteOutputTree": "yes",
+    "Calibration": "calibrations/irt2/drich-calibration.json",
+    "WriteOutputTree": "no",
 
     "UsePoissonTermInChiSquare": "no",
     "UseTimingInChiSquare": "yes",
@@ -13,7 +10,7 @@
     "MinHitCountCutoff": 5,
     "IdentifiedParticles": ["pi+", "K+"], 
     
-    "CombinedEvaluationPlots": "display",
+    "CombinedEvaluationPlots": "disabled",
     "CombinedEvaluationPlotsGeometry": [1265,  10,  625, 800],
 	
     "Acceptance": {
@@ -27,7 +24,7 @@
 	    "imaging": "yes",
 	    "acts-planes": 5,
 	    
-	    "evaluation-plots": "display",
+	    "evaluation-plots": "disabled",
 	    "evaluation-plots-geometry": [-10,  10, 1250, 540],
 	    "refractive-index-range": [1.015, 1.025],
 	    "photon-vertex-range": [1970, 2030],
@@ -41,7 +38,7 @@
 	    "imaging": "yes",
 	    "acts-planes": 10,
 	    
-	    "evaluation-plots": "display",
+	    "evaluation-plots": "disabled",
 	    "evaluation-plots-geometry": [-10, 600, 1250, 540],
 	    "refractive-index-range": [1.00050, 1.00100],
 	    "photon-vertex-range": [1900, 3200],
