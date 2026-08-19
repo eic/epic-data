@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v0" unit="mm" x="3.176644897460932" y="21.263330078125023" z="282.2743286132812"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v1" unit="mm" x="3.176705932617182" y="21.028802490234398" z="282.04218139648435"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v2" unit="mm" x="3.4066406249999943" y="21.263391113281273" z="282.2743286132812"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v3" unit="mm" x="3.4067016601562443" y="21.028863525390648" z="282.04218139648435"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v4" unit="mm" x="3.176644897460932" y="21.260949707031273" z="281.8076538085937"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v5" unit="mm" x="3.406594848632807" y="21.495538330078148" z="282.0398010253906"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v6" unit="mm" x="3.4066406249999943" y="21.261010742187523" z="281.8076538085937"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v7" unit="mm" x="3.176583862304682" y="21.495477294921898" z="282.0398010253906"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v8" unit="mm" x="3.4566284179687443" y="21.298577880859398" z="282.2388061523437"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v9" unit="mm" x="3.452828979492182" y="21.285119628906273" z="282.25238647460935"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v10" unit="mm" x="3.4556823730468693" y="21.291711425781273" z="282.2457336425781"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v11" unit="mm" x="3.4482055664062443" y="21.279016113281273" z="282.2585510253906"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v12" unit="mm" x="3.441995239257807" y="21.273706054687523" z="282.2639221191406"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v13" unit="mm" x="3.434426879882807" y="21.269311523437523" z="282.2683471679687"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v14" unit="mm" x="3.4257751464843693" y="21.266076660156273" z="282.2716125488281"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v15" unit="mm" x="3.416390991210932" y="21.264062500000023" z="282.2736572265625"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v16" unit="mm" x="3.130441284179682" y="21.285028076171898" z="282.25238647460935"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v17" unit="mm" x="3.1412902832031193" y="21.273614501953148" z="282.2639221191406"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v18" unit="mm" x="3.1488586425781193" y="21.269250488281273" z="282.2683471679687"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v19" unit="mm" x="3.1350646972656193" y="21.278955078125023" z="282.2585510253906"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v20" unit="mm" x="3.1266418457031193" y="21.298486328125023" z="282.2388061523437"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v21" unit="mm" x="3.1668945312499943" y="21.264001464843773" z="282.2736572265625"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v22" unit="mm" x="3.157510375976557" y="21.266015625000023" z="282.2716125488281"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v23" unit="mm" x="3.127603149414057" y="21.291619873046898" z="282.2457336425781"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v24" unit="mm" x="3.425729370117182" y="21.492883300781273" z="282.0425170898437"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v25" unit="mm" x="3.4163452148437443" y="21.494866943359398" z="282.04047241210935"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v26" unit="mm" x="3.434365844726557" y="21.489617919921898" z="282.0457824707031"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v27" unit="mm" x="3.4419494628906193" y="21.485253906250023" z="282.0502075195312"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v28" unit="mm" x="3.448159790039057" y="21.479913330078148" z="282.05560913085935"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v29" unit="mm" x="3.4527832031249943" y="21.473840332031273" z="282.0617431640625"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v30" unit="mm" x="3.455636596679682" y="21.467248535156273" z="282.0683959960937"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v31" unit="mm" x="3.4565979003906193" y="21.460382080078148" z="282.0753234863281"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v32" unit="mm" x="3.126596069335932" y="21.460290527343773" z="282.0753234863281"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v33" unit="mm" x="3.148812866210932" y="21.489556884765648" z="282.0457824707031"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v34" unit="mm" x="3.1668334960937443" y="21.494805908203148" z="282.04047241210935"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v35" unit="mm" x="3.157449340820307" y="21.492822265625023" z="282.0425170898437"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v36" unit="mm" x="3.1412292480468693" y="21.485192871093773" z="282.0502075195312"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v37" unit="mm" x="3.1275573730468693" y="21.467156982421898" z="282.0683959960937"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v38" unit="mm" x="3.1303955078124943" y="21.473779296875023" z="282.0617431640625"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v39" unit="mm" x="3.135018920898432" y="21.479852294921898" z="282.05560913085935"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v40" unit="mm" x="3.126687622070307" y="21.063958740234398" z="282.0066284179687"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v41" unit="mm" x="3.126657104492182" y="21.225762939453148" z="281.8431762695312"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v42" unit="mm" x="3.4566894531249943" y="21.064050292968773" z="282.0066284179687"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v43" unit="mm" x="3.416452026367182" y="21.029534912109398" z="282.0414794921875"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v44" unit="mm" x="3.4258361816406193" y="21.031549072265648" z="282.0394653320312"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v45" unit="mm" x="3.4344726562499943" y="21.034783935546898" z="282.0361694335937"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v46" unit="mm" x="3.442056274414057" y="21.039178466796898" z="282.0317749023437"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v47" unit="mm" x="3.4482666015624943" y="21.044488525390648" z="282.0263732910156"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v48" unit="mm" x="3.452890014648432" y="21.050592041015648" z="282.0202392578125"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v49" unit="mm" x="3.455728149414057" y="21.057183837890648" z="282.0135559082031"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v50" unit="mm" x="3.1489196777343693" y="21.034722900390648" z="282.0361694335937"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v51" unit="mm" x="3.166940307617182" y="21.029473876953148" z="282.0414794921875"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v52" unit="mm" x="3.1575561523437443" y="21.031488037109398" z="282.0394653320312"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v53" unit="mm" x="3.448220825195307" y="21.245385742187523" z="281.82343139648435"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v54" unit="mm" x="3.4528442382812443" y="21.239312744140648" z="281.8295654296875"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v55" unit="mm" x="3.4556823730468693" y="21.232720947265648" z="281.83624877929685"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v56" unit="mm" x="3.130502319335932" y="21.050500488281273" z="282.0202392578125"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v57" unit="mm" x="3.141336059570307" y="21.039086914062523" z="282.0317749023437"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v58" unit="mm" x="3.1351257324218693" y="21.044427490234398" z="282.0263732910156"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v59" unit="mm" x="3.4257751464843693" y="21.258355712890648" z="281.8103393554687"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v60" unit="mm" x="3.441995239257807" y="21.250726318359398" z="281.81806030273435"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v61" unit="mm" x="3.434426879882807" y="21.255090332031273" z="281.8136352539062"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v62" unit="mm" x="3.1276489257812443" y="21.057122802734398" z="282.0135559082031"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v63" unit="mm" x="3.4566589355468693" y="21.225854492187523" z="281.8431762695312"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v64" unit="mm" x="3.416390991210932" y="21.260339355468773" z="281.8083251953125"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v65" unit="mm" x="3.135079956054682" y="21.245324707031273" z="281.82343139648435"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v66" unit="mm" x="3.1276184082031193" y="21.232629394531273" z="281.83624877929685"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v67" unit="mm" x="3.1304565429687443" y="21.239251708984398" z="281.8295654296875"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v68" unit="mm" x="3.1412902832031193" y="21.250665283203148" z="281.81806030273435"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v69" unit="mm" x="3.1668945312499943" y="21.260278320312523" z="281.8083251953125"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v70" unit="mm" x="3.157510375976557" y="21.258294677734398" z="281.8103393554687"/>
+        <position name="CAPC0603X33N034_3.step001_ASCII_v71" unit="mm" x="3.148873901367182" y="21.255029296875023" z="281.8136352539062"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="CAPC0603X33N034_3.step001_ASCII-SOL">
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v0" vertex2="CAPC0603X33N034_3.step001_ASCII_v1" vertex3="CAPC0603X33N034_3.step001_ASCII_v2"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v2" vertex2="CAPC0603X33N034_3.step001_ASCII_v1" vertex3="CAPC0603X33N034_3.step001_ASCII_v3"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v5" vertex3="CAPC0603X33N034_3.step001_ASCII_v6"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v7" vertex3="CAPC0603X33N034_3.step001_ASCII_v5"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v9" vertex3="CAPC0603X33N034_3.step001_ASCII_v10"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v11" vertex3="CAPC0603X33N034_3.step001_ASCII_v9"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v12" vertex3="CAPC0603X33N034_3.step001_ASCII_v11"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v13" vertex3="CAPC0603X33N034_3.step001_ASCII_v12"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v14" vertex3="CAPC0603X33N034_3.step001_ASCII_v13"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v15" vertex3="CAPC0603X33N034_3.step001_ASCII_v14"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v2" vertex3="CAPC0603X33N034_3.step001_ASCII_v15"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v16" vertex2="CAPC0603X33N034_3.step001_ASCII_v17" vertex3="CAPC0603X33N034_3.step001_ASCII_v18"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v16" vertex2="CAPC0603X33N034_3.step001_ASCII_v19" vertex3="CAPC0603X33N034_3.step001_ASCII_v17"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v20" vertex2="CAPC0603X33N034_3.step001_ASCII_v21" vertex3="CAPC0603X33N034_3.step001_ASCII_v0"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v20" vertex2="CAPC0603X33N034_3.step001_ASCII_v22" vertex3="CAPC0603X33N034_3.step001_ASCII_v21"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v20" vertex2="CAPC0603X33N034_3.step001_ASCII_v18" vertex3="CAPC0603X33N034_3.step001_ASCII_v22"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v20" vertex2="CAPC0603X33N034_3.step001_ASCII_v23" vertex3="CAPC0603X33N034_3.step001_ASCII_v16"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v20" vertex2="CAPC0603X33N034_3.step001_ASCII_v0" vertex3="CAPC0603X33N034_3.step001_ASCII_v2"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v20" vertex2="CAPC0603X33N034_3.step001_ASCII_v2" vertex3="CAPC0603X33N034_3.step001_ASCII_v8"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v20" vertex2="CAPC0603X33N034_3.step001_ASCII_v16" vertex3="CAPC0603X33N034_3.step001_ASCII_v18"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v24" vertex3="CAPC0603X33N034_3.step001_ASCII_v25"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v26" vertex3="CAPC0603X33N034_3.step001_ASCII_v24"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v27" vertex3="CAPC0603X33N034_3.step001_ASCII_v26"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v28" vertex3="CAPC0603X33N034_3.step001_ASCII_v27"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v29" vertex3="CAPC0603X33N034_3.step001_ASCII_v28"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v30" vertex3="CAPC0603X33N034_3.step001_ASCII_v29"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v31" vertex3="CAPC0603X33N034_3.step001_ASCII_v30"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v7" vertex2="CAPC0603X33N034_3.step001_ASCII_v8" vertex3="CAPC0603X33N034_3.step001_ASCII_v31"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v7" vertex2="CAPC0603X33N034_3.step001_ASCII_v32" vertex3="CAPC0603X33N034_3.step001_ASCII_v20"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v7" vertex2="CAPC0603X33N034_3.step001_ASCII_v20" vertex3="CAPC0603X33N034_3.step001_ASCII_v8"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v7" vertex2="CAPC0603X33N034_3.step001_ASCII_v31" vertex3="CAPC0603X33N034_3.step001_ASCII_v5"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v33" vertex2="CAPC0603X33N034_3.step001_ASCII_v34" vertex3="CAPC0603X33N034_3.step001_ASCII_v35"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v36" vertex2="CAPC0603X33N034_3.step001_ASCII_v34" vertex3="CAPC0603X33N034_3.step001_ASCII_v33"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v36" vertex2="CAPC0603X33N034_3.step001_ASCII_v37" vertex3="CAPC0603X33N034_3.step001_ASCII_v32"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v36" vertex2="CAPC0603X33N034_3.step001_ASCII_v38" vertex3="CAPC0603X33N034_3.step001_ASCII_v37"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v36" vertex2="CAPC0603X33N034_3.step001_ASCII_v39" vertex3="CAPC0603X33N034_3.step001_ASCII_v38"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v36" vertex2="CAPC0603X33N034_3.step001_ASCII_v7" vertex3="CAPC0603X33N034_3.step001_ASCII_v34"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v36" vertex2="CAPC0603X33N034_3.step001_ASCII_v32" vertex3="CAPC0603X33N034_3.step001_ASCII_v7"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v20" vertex3="CAPC0603X33N034_3.step001_ASCII_v32"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v32" vertex3="CAPC0603X33N034_3.step001_ASCII_v41"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v43" vertex3="CAPC0603X33N034_3.step001_ASCII_v3"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v44" vertex3="CAPC0603X33N034_3.step001_ASCII_v43"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v45" vertex3="CAPC0603X33N034_3.step001_ASCII_v44"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v46" vertex3="CAPC0603X33N034_3.step001_ASCII_v45"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v47" vertex3="CAPC0603X33N034_3.step001_ASCII_v46"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v48" vertex3="CAPC0603X33N034_3.step001_ASCII_v47"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v49" vertex3="CAPC0603X33N034_3.step001_ASCII_v48"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v50" vertex2="CAPC0603X33N034_3.step001_ASCII_v51" vertex3="CAPC0603X33N034_3.step001_ASCII_v52"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v53" vertex2="CAPC0603X33N034_3.step001_ASCII_v54" vertex3="CAPC0603X33N034_3.step001_ASCII_v55"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v56" vertex2="CAPC0603X33N034_3.step001_ASCII_v57" vertex3="CAPC0603X33N034_3.step001_ASCII_v58"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v59" vertex2="CAPC0603X33N034_3.step001_ASCII_v60" vertex3="CAPC0603X33N034_3.step001_ASCII_v53"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v59" vertex2="CAPC0603X33N034_3.step001_ASCII_v61" vertex3="CAPC0603X33N034_3.step001_ASCII_v60"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v3" vertex3="CAPC0603X33N034_3.step001_ASCII_v1"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v56" vertex3="CAPC0603X33N034_3.step001_ASCII_v62"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v50" vertex3="CAPC0603X33N034_3.step001_ASCII_v57"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v1" vertex3="CAPC0603X33N034_3.step001_ASCII_v51"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v42" vertex3="CAPC0603X33N034_3.step001_ASCII_v3"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v51" vertex3="CAPC0603X33N034_3.step001_ASCII_v50"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v57" vertex3="CAPC0603X33N034_3.step001_ASCII_v56"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v6" vertex2="CAPC0603X33N034_3.step001_ASCII_v55" vertex3="CAPC0603X33N034_3.step001_ASCII_v63"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v6" vertex2="CAPC0603X33N034_3.step001_ASCII_v64" vertex3="CAPC0603X33N034_3.step001_ASCII_v59"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v6" vertex2="CAPC0603X33N034_3.step001_ASCII_v53" vertex3="CAPC0603X33N034_3.step001_ASCII_v55"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v6" vertex2="CAPC0603X33N034_3.step001_ASCII_v59" vertex3="CAPC0603X33N034_3.step001_ASCII_v53"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v40" vertex3="CAPC0603X33N034_3.step001_ASCII_v41"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v63" vertex3="CAPC0603X33N034_3.step001_ASCII_v42"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v42" vertex3="CAPC0603X33N034_3.step001_ASCII_v40"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v6" vertex3="CAPC0603X33N034_3.step001_ASCII_v63"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v65" vertex2="CAPC0603X33N034_3.step001_ASCII_v66" vertex3="CAPC0603X33N034_3.step001_ASCII_v67"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v66" vertex3="CAPC0603X33N034_3.step001_ASCII_v65"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v69" vertex3="CAPC0603X33N034_3.step001_ASCII_v4"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v70" vertex3="CAPC0603X33N034_3.step001_ASCII_v69"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v71" vertex3="CAPC0603X33N034_3.step001_ASCII_v70"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v41" vertex3="CAPC0603X33N034_3.step001_ASCII_v66"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v4" vertex3="CAPC0603X33N034_3.step001_ASCII_v41"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v63" vertex3="CAPC0603X33N034_3.step001_ASCII_v31"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v42" vertex2="CAPC0603X33N034_3.step001_ASCII_v31" vertex3="CAPC0603X33N034_3.step001_ASCII_v8"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v15" vertex2="CAPC0603X33N034_3.step001_ASCII_v3" vertex3="CAPC0603X33N034_3.step001_ASCII_v43"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v15" vertex2="CAPC0603X33N034_3.step001_ASCII_v2" vertex3="CAPC0603X33N034_3.step001_ASCII_v3"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v14" vertex2="CAPC0603X33N034_3.step001_ASCII_v43" vertex3="CAPC0603X33N034_3.step001_ASCII_v44"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v14" vertex2="CAPC0603X33N034_3.step001_ASCII_v15" vertex3="CAPC0603X33N034_3.step001_ASCII_v43"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v13" vertex2="CAPC0603X33N034_3.step001_ASCII_v44" vertex3="CAPC0603X33N034_3.step001_ASCII_v45"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v13" vertex2="CAPC0603X33N034_3.step001_ASCII_v14" vertex3="CAPC0603X33N034_3.step001_ASCII_v44"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v12" vertex2="CAPC0603X33N034_3.step001_ASCII_v45" vertex3="CAPC0603X33N034_3.step001_ASCII_v46"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v12" vertex2="CAPC0603X33N034_3.step001_ASCII_v13" vertex3="CAPC0603X33N034_3.step001_ASCII_v45"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v11" vertex2="CAPC0603X33N034_3.step001_ASCII_v46" vertex3="CAPC0603X33N034_3.step001_ASCII_v47"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v11" vertex2="CAPC0603X33N034_3.step001_ASCII_v12" vertex3="CAPC0603X33N034_3.step001_ASCII_v46"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v9" vertex2="CAPC0603X33N034_3.step001_ASCII_v47" vertex3="CAPC0603X33N034_3.step001_ASCII_v48"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v9" vertex2="CAPC0603X33N034_3.step001_ASCII_v11" vertex3="CAPC0603X33N034_3.step001_ASCII_v47"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v10" vertex2="CAPC0603X33N034_3.step001_ASCII_v48" vertex3="CAPC0603X33N034_3.step001_ASCII_v49"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v10" vertex2="CAPC0603X33N034_3.step001_ASCII_v9" vertex3="CAPC0603X33N034_3.step001_ASCII_v48"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v49" vertex3="CAPC0603X33N034_3.step001_ASCII_v42"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v8" vertex2="CAPC0603X33N034_3.step001_ASCII_v10" vertex3="CAPC0603X33N034_3.step001_ASCII_v49"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v51" vertex2="CAPC0603X33N034_3.step001_ASCII_v0" vertex3="CAPC0603X33N034_3.step001_ASCII_v21"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v51" vertex2="CAPC0603X33N034_3.step001_ASCII_v1" vertex3="CAPC0603X33N034_3.step001_ASCII_v0"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v52" vertex2="CAPC0603X33N034_3.step001_ASCII_v21" vertex3="CAPC0603X33N034_3.step001_ASCII_v22"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v52" vertex2="CAPC0603X33N034_3.step001_ASCII_v51" vertex3="CAPC0603X33N034_3.step001_ASCII_v21"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v50" vertex2="CAPC0603X33N034_3.step001_ASCII_v22" vertex3="CAPC0603X33N034_3.step001_ASCII_v18"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v50" vertex2="CAPC0603X33N034_3.step001_ASCII_v52" vertex3="CAPC0603X33N034_3.step001_ASCII_v22"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v57" vertex2="CAPC0603X33N034_3.step001_ASCII_v18" vertex3="CAPC0603X33N034_3.step001_ASCII_v17"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v57" vertex2="CAPC0603X33N034_3.step001_ASCII_v50" vertex3="CAPC0603X33N034_3.step001_ASCII_v18"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v58" vertex2="CAPC0603X33N034_3.step001_ASCII_v17" vertex3="CAPC0603X33N034_3.step001_ASCII_v19"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v58" vertex2="CAPC0603X33N034_3.step001_ASCII_v57" vertex3="CAPC0603X33N034_3.step001_ASCII_v17"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v56" vertex2="CAPC0603X33N034_3.step001_ASCII_v19" vertex3="CAPC0603X33N034_3.step001_ASCII_v16"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v56" vertex2="CAPC0603X33N034_3.step001_ASCII_v58" vertex3="CAPC0603X33N034_3.step001_ASCII_v19"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v62" vertex2="CAPC0603X33N034_3.step001_ASCII_v16" vertex3="CAPC0603X33N034_3.step001_ASCII_v23"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v62" vertex2="CAPC0603X33N034_3.step001_ASCII_v56" vertex3="CAPC0603X33N034_3.step001_ASCII_v16"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v23" vertex3="CAPC0603X33N034_3.step001_ASCII_v20"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v40" vertex2="CAPC0603X33N034_3.step001_ASCII_v62" vertex3="CAPC0603X33N034_3.step001_ASCII_v23"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v30" vertex2="CAPC0603X33N034_3.step001_ASCII_v63" vertex3="CAPC0603X33N034_3.step001_ASCII_v55"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v30" vertex2="CAPC0603X33N034_3.step001_ASCII_v31" vertex3="CAPC0603X33N034_3.step001_ASCII_v63"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v29" vertex2="CAPC0603X33N034_3.step001_ASCII_v55" vertex3="CAPC0603X33N034_3.step001_ASCII_v54"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v29" vertex2="CAPC0603X33N034_3.step001_ASCII_v30" vertex3="CAPC0603X33N034_3.step001_ASCII_v55"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v28" vertex2="CAPC0603X33N034_3.step001_ASCII_v54" vertex3="CAPC0603X33N034_3.step001_ASCII_v53"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v28" vertex2="CAPC0603X33N034_3.step001_ASCII_v29" vertex3="CAPC0603X33N034_3.step001_ASCII_v54"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v27" vertex2="CAPC0603X33N034_3.step001_ASCII_v53" vertex3="CAPC0603X33N034_3.step001_ASCII_v60"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v27" vertex2="CAPC0603X33N034_3.step001_ASCII_v28" vertex3="CAPC0603X33N034_3.step001_ASCII_v53"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v26" vertex2="CAPC0603X33N034_3.step001_ASCII_v60" vertex3="CAPC0603X33N034_3.step001_ASCII_v61"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v26" vertex2="CAPC0603X33N034_3.step001_ASCII_v27" vertex3="CAPC0603X33N034_3.step001_ASCII_v60"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v24" vertex2="CAPC0603X33N034_3.step001_ASCII_v61" vertex3="CAPC0603X33N034_3.step001_ASCII_v59"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v24" vertex2="CAPC0603X33N034_3.step001_ASCII_v26" vertex3="CAPC0603X33N034_3.step001_ASCII_v61"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v25" vertex2="CAPC0603X33N034_3.step001_ASCII_v59" vertex3="CAPC0603X33N034_3.step001_ASCII_v64"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v25" vertex2="CAPC0603X33N034_3.step001_ASCII_v24" vertex3="CAPC0603X33N034_3.step001_ASCII_v59"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v64" vertex3="CAPC0603X33N034_3.step001_ASCII_v6"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v5" vertex2="CAPC0603X33N034_3.step001_ASCII_v25" vertex3="CAPC0603X33N034_3.step001_ASCII_v64"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v66" vertex2="CAPC0603X33N034_3.step001_ASCII_v32" vertex3="CAPC0603X33N034_3.step001_ASCII_v37"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v66" vertex2="CAPC0603X33N034_3.step001_ASCII_v41" vertex3="CAPC0603X33N034_3.step001_ASCII_v32"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v67" vertex2="CAPC0603X33N034_3.step001_ASCII_v37" vertex3="CAPC0603X33N034_3.step001_ASCII_v38"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v67" vertex2="CAPC0603X33N034_3.step001_ASCII_v66" vertex3="CAPC0603X33N034_3.step001_ASCII_v37"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v65" vertex2="CAPC0603X33N034_3.step001_ASCII_v38" vertex3="CAPC0603X33N034_3.step001_ASCII_v39"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v65" vertex2="CAPC0603X33N034_3.step001_ASCII_v67" vertex3="CAPC0603X33N034_3.step001_ASCII_v38"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v39" vertex3="CAPC0603X33N034_3.step001_ASCII_v36"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v68" vertex2="CAPC0603X33N034_3.step001_ASCII_v65" vertex3="CAPC0603X33N034_3.step001_ASCII_v39"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v71" vertex2="CAPC0603X33N034_3.step001_ASCII_v36" vertex3="CAPC0603X33N034_3.step001_ASCII_v33"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v71" vertex2="CAPC0603X33N034_3.step001_ASCII_v68" vertex3="CAPC0603X33N034_3.step001_ASCII_v36"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v70" vertex2="CAPC0603X33N034_3.step001_ASCII_v33" vertex3="CAPC0603X33N034_3.step001_ASCII_v35"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v70" vertex2="CAPC0603X33N034_3.step001_ASCII_v71" vertex3="CAPC0603X33N034_3.step001_ASCII_v33"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v69" vertex2="CAPC0603X33N034_3.step001_ASCII_v35" vertex3="CAPC0603X33N034_3.step001_ASCII_v34"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v69" vertex2="CAPC0603X33N034_3.step001_ASCII_v70" vertex3="CAPC0603X33N034_3.step001_ASCII_v35"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v34" vertex3="CAPC0603X33N034_3.step001_ASCII_v7"/>
+             <triangular vertex1="CAPC0603X33N034_3.step001_ASCII_v4" vertex2="CAPC0603X33N034_3.step001_ASCII_v69" vertex3="CAPC0603X33N034_3.step001_ASCII_v34"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="CAPC0603X33N034_3.step001_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="CAPC0603X33N034_3.step001_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="CAPC0603X33N034_3.step001_ASCII"/>
+    </setup>
+</gdml>

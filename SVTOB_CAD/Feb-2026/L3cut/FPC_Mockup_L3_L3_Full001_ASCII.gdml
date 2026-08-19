@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v0" unit="mm" x="16.289041137695307" y="2.3326354980468977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v1" unit="mm" x="16.307260131835932" y="2.4309631347656477" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v2" unit="mm" x="17.106790161132807" y="2.1771179199218977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v3" unit="mm" x="17.125924682617182" y="2.2752624511718977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v4" unit="mm" x="16.302743530273432" y="2.4065795898437727" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v5" unit="mm" x="16.289041137695307" y="2.3326354980468977" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v6" unit="mm" x="17.923059082031244" y="2.0140319824218977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v7" unit="mm" x="17.106790161132807" y="2.1771179199218977" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v8" unit="mm" x="16.302743530273432" y="2.4065795898437727" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v9" unit="mm" x="17.125924682617182" y="2.2752624511718977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v10" unit="mm" x="17.923059082031244" y="2.0140319824218977" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v11" unit="mm" x="18.877267456054682" y="1.9134765625000227" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v12" unit="mm" x="17.94310913085937" y="2.1119934082031477" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v13" unit="mm" x="18.737771606445307" y="1.8433776855468977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v14" unit="mm" x="18.758737182617182" y="1.9411560058593977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v15" unit="mm" x="17.94310913085937" y="2.1119934082031477" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v16" unit="mm" x="18.737771606445307" y="1.8433776855468977" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v17" unit="mm" x="18.758737182617182" y="1.9411560058593977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v18" unit="mm" x="16.307260131835932" y="2.4309631347656477" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v19" unit="mm" x="16.289041137695307" y="2.3326354980468977" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v20" unit="mm" x="17.106790161132807" y="2.1771179199218977" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v21" unit="mm" x="16.289041137695307" y="2.3326354980468977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v22" unit="mm" x="17.923059082031244" y="2.0140319824218977" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v23" unit="mm" x="17.106790161132807" y="2.1771179199218977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v24" unit="mm" x="18.737771606445307" y="1.8433776855468977" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v25" unit="mm" x="18.877267456054682" y="1.9134765625000227" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v26" unit="mm" x="17.923059082031244" y="2.0140319824218977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v27" unit="mm" x="18.737771606445307" y="1.8433776855468977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v28" unit="mm" x="18.759667968749994" y="-2.0582031249999773" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v29" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="-251.4743896484375"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v30" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v31" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="-138.64163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v32" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="-251.4743896484375"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v33" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="-138.64163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v34" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="-127.14163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v35" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v36" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v37" unit="mm" x="20.659555053710932" y="-1.5478271484374773" z="-138.64163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v38" unit="mm" x="20.75957641601562" y="-1.6286376953124773" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v39" unit="mm" x="18.877267456054682" y="-2.0329345703124773" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v40" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="-127.14163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v41" unit="mm" x="18.759667968749994" y="-2.0582031249999773" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v42" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="-127.14163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v43" unit="mm" x="18.877267456054682" y="-1.9306701660156023" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v44" unit="mm" x="18.877267456054682" y="-1.9306701660156023" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v45" unit="mm" x="18.877267456054682" y="-2.0329345703124773" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v46" unit="mm" x="20.659555053710932" y="-1.5478271484374773" z="127.19104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v47" unit="mm" x="20.659555053710932" y="-1.5478271484374773" z="-251.4743896484375"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v48" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="-138.64163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v49" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="-251.4743896484375"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v50" unit="mm" x="20.659555053710932" y="-1.5478271484374773" z="-127.14163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v51" unit="mm" x="20.75957641601562" y="-1.6286376953124773" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v52" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="-251.4743896484375"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v53" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="-138.64163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v54" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="-127.14163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v55" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="-127.14163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v56" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="127.19104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v57" unit="mm" x="18.759667968749994" y="-2.0582031249999773" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v58" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v59" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="127.19104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v60" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="127.19104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v61" unit="mm" x="18.759667968749994" y="-2.0582031249999773" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v62" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="138.69104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v63" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="251.52380981445313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v64" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="251.52380981445313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v65" unit="mm" x="18.738671874999994" y="-1.9604248046874773" z="138.69104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v66" unit="mm" x="18.743859863281244" y="-1.9845947265624773" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v67" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="138.69104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v68" unit="mm" x="20.659555053710932" y="-1.5478271484374773" z="251.52380981445313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v69" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v70" unit="mm" x="20.659555053710932" y="-1.5478271484374773" z="138.69104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v71" unit="mm" x="20.759561157226557" y="-1.5521301269531023" z="251.52380981445313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v72" unit="mm" x="20.759347534179682" y="-0.6784729003906023" z="138.69104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v73" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="127.19104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v74" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="251.52380981445313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v75" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="138.69104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v76" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="251.52380981445313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v77" unit="mm" x="20.658853149414057" y="1.4316650390625227" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v78" unit="mm" x="18.877267456054682" y="1.8134704589843977" z="-3.975289916992182"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v79" unit="mm" x="20.658853149414057" y="1.4316650390625227" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v80" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="-251.4743896484375"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v81" unit="mm" x="20.758828735351557" y="1.5125061035156477" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v82" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="-138.64163360595703"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v83" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v84" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v85" unit="mm" x="20.758828735351557" y="1.5125061035156477" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v86" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="127.19104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v87" unit="mm" x="18.877267456054682" y="1.8134704589843977" z="4.024710083007818"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v88" unit="mm" x="20.67980346679687" y="1.5294433593750227" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v89" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="138.69104614257813"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v90" unit="mm" x="20.67980346679687" y="1.5294433593750227" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v91" unit="mm" x="20.658853149414057" y="1.4316650390625227" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v92" unit="mm" x="20.658853149414057" y="1.4013305664062727" z="255.85046997070313"/>
+        <position name="FPC_Mockup_L3_L3_Full001_ASCII_v93" unit="mm" x="20.758859252929682" y="1.3798767089843977" z="255.85046997070313"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="FPC_Mockup_L3_L3_Full001_ASCII-SOL">
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v1" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v2"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v1" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v3" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v2"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v4" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v1"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v2" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v5"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v2" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v3" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v6"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v2" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v6" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v7"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v5" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v4"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v1" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v4" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v8"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v2" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v7" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v5"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v5" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v7" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v4"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v1" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v9" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v3"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v4" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v7" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v10"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v4" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v11" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v8"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v3" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v12" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v6"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v6" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v12" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v13"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v12" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v14" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v13"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v6" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v13" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v10"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v7" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v6" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v10"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v3" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v15" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v12"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v4" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v10" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v11"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v10" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v13" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v16"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v12" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v17" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v14"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v10" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v16" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v11"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v1" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v8" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v18"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v19" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v8" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v20"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v19" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v18" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v8"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v19" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v20" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v21"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v1" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v18" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v9"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v8" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v22" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v20"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v20" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v22" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v23"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v3" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v9" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v15"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v19" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v21" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v18"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v20" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v23" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v21"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v21" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v9" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v18"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v21" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v23" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v9"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v23" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v15" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v9"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v8" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v24" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v22"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v8" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v25" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v24"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v8" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v11" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v25"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v22" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v24" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v26"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v12" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v15" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v17"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v23" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v22" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v26"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v23" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v26" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v15"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v26" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v24" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v27"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v26" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v17" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v15"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v26" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v27" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v17"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v29" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v30"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v31" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v29"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v31" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v32" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v29"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v33" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v31"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v34" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v33"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v35" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v34"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v30" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v36"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v31" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v37" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v32"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v38" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v39"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v33" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v37" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v31"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v33" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v34" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v40"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v41" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v35"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v39" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v41"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v34" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v35" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v42"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v42" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v35" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v43"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v41" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v39" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v35"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v35" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v39" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v43"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v39" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v44" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v43"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v34" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v42" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v40"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v39" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v38" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v45"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v42" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v43" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v46"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v28" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v36" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v38"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v37" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v47" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v32"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v33" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v37"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v33" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v40" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v48"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v38" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v36" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v49"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v38" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v49" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v48"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v42" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v50" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v40"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v42" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v46" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v50"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v38" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v51"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v40" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v51"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v49" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v52"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v37" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v53" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v47"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v37" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v53"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v50" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v54" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v40"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v40" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v55" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v56"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v58" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v44"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v59" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v58"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v58" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v59" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v44"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v44" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v45"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v39" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v45" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v44"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v60" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v59"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v45" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v61"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v62" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v60"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v38" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v61" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v45"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v43" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v44" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v46"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v44" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v59" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v46"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v60" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v46" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v59"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v63" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v62"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v57" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v61" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v63"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v62" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v64" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v65"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v62" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v63" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v64"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v61" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v66" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v63"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v60" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v62" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v67"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v62" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v65" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v67"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v65" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v64" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v68"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v61" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v51" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v66"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v63" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v68" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v64"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v63" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v66" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v69"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v38" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v51" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v61"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v60" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v56" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v46"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v40" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v56" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v51"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v65" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v70" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v67"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v60" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v67" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v56"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v65" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v68" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v70"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v63" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v71" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v68"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v66" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v51" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v69"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v63" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v69" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v71"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v56" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v67" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v51"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v51" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v71" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v69"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v70" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v72" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v67"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v67" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v72" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v51"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v51" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v72" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v71"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v50" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v46" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v73"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v46" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v56" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v73"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v70" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v68" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v74"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v68" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v71" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v74"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v70" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v75" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v72"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v71" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v72" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v76"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v13" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v14" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v77"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v13" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v78" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v16"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v16" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v78" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v11"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v78" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v25" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v11"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v13" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v79" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v78"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v53" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v80" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v47"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v52" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v81"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v82"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v48" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v82" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v53"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v40" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v54" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v55"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v50" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v73" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v54"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v14" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v77"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v77" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v83" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v80"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v77" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v83"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v84" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v83"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v52" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v84"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v77" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v80" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v53"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v55" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v82"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v53" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v82" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v54"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v82" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v55" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v54"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v13" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v77" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v14" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v85" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v81"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v86" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v55"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v77" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v53" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v53" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v54" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v24" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v25" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v87"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v78" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v87" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v25"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v24" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v87" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v78" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v79" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v87"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v14" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v17" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v88"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v24" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v79" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v27"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v27" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v88" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v17"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v56" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v55" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v86"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v56" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v86" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v73"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v70" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v89" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v75"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v70" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v74" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v89"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v72" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v75" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v76"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v71" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v76" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v74"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v14" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v88" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v90"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v14" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v90" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v85"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v75" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v86"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v76" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v75"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v54" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v73" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v81" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v85" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v76"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v27" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v79" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v91"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v27" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v91" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v88"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v73" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v86" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v89"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v86" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v75" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v89"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v73" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v89" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v89" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v74" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v74" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v92" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v74" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v93" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v92"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v92" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v93" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v79"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v74" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v76" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v93"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v79" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v93" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v85"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v76" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v85" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v93"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v79" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v90" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v91"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v91" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v90" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v88"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v79" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v85" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v90"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v30" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v29" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v49"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v49" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v29" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v32"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v32" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v47" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v49"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v36" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v30" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v49"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v49" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v47" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v52"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v80" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v52" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v47"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v83" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v84" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v80"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full001_ASCII_v84" vertex2="FPC_Mockup_L3_L3_Full001_ASCII_v52" vertex3="FPC_Mockup_L3_L3_Full001_ASCII_v80"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="FPC_Mockup_L3_L3_Full001_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="FPC_Mockup_L3_L3_Full001_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="FPC_Mockup_L3_L3_Full001_ASCII"/>
+    </setup>
+</gdml>

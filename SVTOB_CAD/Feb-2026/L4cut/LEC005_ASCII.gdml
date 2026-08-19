@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="LEC005_ASCII_v0" unit="mm" x="-0.030120849609375" y="-4.034893798828136" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v1" unit="mm" x="-0.030101776123046875" y="-3.9849060058593864" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v2" unit="mm" x="3.8793258666992188" y="-3.9014099121093864" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v3" unit="mm" x="3.881481170654297" y="-3.9513366699218864" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v4" unit="mm" x="-0.030120849609375" y="-4.034893798828136" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v5" unit="mm" x="3.881481170654297" y="-3.9513366699218864" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v6" unit="mm" x="3.8793258666992188" y="-3.9014099121093864" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v7" unit="mm" x="7.781444549560547" y="-3.6482360839843864" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v8" unit="mm" x="7.7857666015625" y="-3.6980712890625114" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v9" unit="mm" x="11.668895721435547" y="-3.2259338378906364" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v10" unit="mm" x="7.7857666015625" y="-3.6980712890625114" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v11" unit="mm" x="7.781444549560547" y="-3.6482360839843864" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v12" unit="mm" x="-0.030101776123046875" y="-3.9849060058593864" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v13" unit="mm" x="11.675373077392578" y="-3.2755249023437614" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v14" unit="mm" x="11.668895721435547" y="-3.2259338378906364" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v15" unit="mm" x="11.675373077392578" y="-3.2755249023437614" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v16" unit="mm" x="15.54296875" y="-2.6844909667968864" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v17" unit="mm" x="15.54296875" y="-2.6844909667968864" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v18" unit="mm" x="15.534347534179688" y="-2.6352661132812614" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v19" unit="mm" x="15.534347534179688" y="-2.6352661132812614" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v20" unit="mm" x="19.381263732910156" y="-1.9261596679687614" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v21" unit="mm" x="19.370506286621094" y="-1.8773315429687614" z="201.01429748535156"/>
+        <position name="LEC005_ASCII_v22" unit="mm" x="19.381263732910156" y="-1.9261596679687614" z="205.51429748535156"/>
+        <position name="LEC005_ASCII_v23" unit="mm" x="19.370506286621094" y="-1.8773315429687614" z="205.51429748535156"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="LEC005_ASCII-SOL">
+             <triangular vertex1="LEC005_ASCII_v0" vertex2="LEC005_ASCII_v1" vertex3="LEC005_ASCII_v2"/>
+             <triangular vertex1="LEC005_ASCII_v0" vertex2="LEC005_ASCII_v2" vertex3="LEC005_ASCII_v3"/>
+             <triangular vertex1="LEC005_ASCII_v0" vertex2="LEC005_ASCII_v4" vertex3="LEC005_ASCII_v1"/>
+             <triangular vertex1="LEC005_ASCII_v0" vertex2="LEC005_ASCII_v3" vertex3="LEC005_ASCII_v5"/>
+             <triangular vertex1="LEC005_ASCII_v1" vertex2="LEC005_ASCII_v6" vertex3="LEC005_ASCII_v2"/>
+             <triangular vertex1="LEC005_ASCII_v3" vertex2="LEC005_ASCII_v2" vertex3="LEC005_ASCII_v7"/>
+             <triangular vertex1="LEC005_ASCII_v3" vertex2="LEC005_ASCII_v7" vertex3="LEC005_ASCII_v8"/>
+             <triangular vertex1="LEC005_ASCII_v8" vertex2="LEC005_ASCII_v7" vertex3="LEC005_ASCII_v9"/>
+             <triangular vertex1="LEC005_ASCII_v3" vertex2="LEC005_ASCII_v8" vertex3="LEC005_ASCII_v10"/>
+             <triangular vertex1="LEC005_ASCII_v2" vertex2="LEC005_ASCII_v11" vertex3="LEC005_ASCII_v7"/>
+             <triangular vertex1="LEC005_ASCII_v7" vertex2="LEC005_ASCII_v11" vertex3="LEC005_ASCII_v9"/>
+             <triangular vertex1="LEC005_ASCII_v1" vertex2="LEC005_ASCII_v4" vertex3="LEC005_ASCII_v12"/>
+             <triangular vertex1="LEC005_ASCII_v0" vertex2="LEC005_ASCII_v5" vertex3="LEC005_ASCII_v4"/>
+             <triangular vertex1="LEC005_ASCII_v1" vertex2="LEC005_ASCII_v12" vertex3="LEC005_ASCII_v6"/>
+             <triangular vertex1="LEC005_ASCII_v4" vertex2="LEC005_ASCII_v6" vertex3="LEC005_ASCII_v12"/>
+             <triangular vertex1="LEC005_ASCII_v4" vertex2="LEC005_ASCII_v5" vertex3="LEC005_ASCII_v6"/>
+             <triangular vertex1="LEC005_ASCII_v3" vertex2="LEC005_ASCII_v10" vertex3="LEC005_ASCII_v5"/>
+             <triangular vertex1="LEC005_ASCII_v2" vertex2="LEC005_ASCII_v6" vertex3="LEC005_ASCII_v11"/>
+             <triangular vertex1="LEC005_ASCII_v8" vertex2="LEC005_ASCII_v13" vertex3="LEC005_ASCII_v10"/>
+             <triangular vertex1="LEC005_ASCII_v5" vertex2="LEC005_ASCII_v11" vertex3="LEC005_ASCII_v6"/>
+             <triangular vertex1="LEC005_ASCII_v5" vertex2="LEC005_ASCII_v10" vertex3="LEC005_ASCII_v11"/>
+             <triangular vertex1="LEC005_ASCII_v10" vertex2="LEC005_ASCII_v14" vertex3="LEC005_ASCII_v11"/>
+             <triangular vertex1="LEC005_ASCII_v8" vertex2="LEC005_ASCII_v9" vertex3="LEC005_ASCII_v15"/>
+             <triangular vertex1="LEC005_ASCII_v15" vertex2="LEC005_ASCII_v9" vertex3="LEC005_ASCII_v16"/>
+             <triangular vertex1="LEC005_ASCII_v8" vertex2="LEC005_ASCII_v15" vertex3="LEC005_ASCII_v13"/>
+             <triangular vertex1="LEC005_ASCII_v11" vertex2="LEC005_ASCII_v14" vertex3="LEC005_ASCII_v9"/>
+             <triangular vertex1="LEC005_ASCII_v15" vertex2="LEC005_ASCII_v17" vertex3="LEC005_ASCII_v13"/>
+             <triangular vertex1="LEC005_ASCII_v9" vertex2="LEC005_ASCII_v14" vertex3="LEC005_ASCII_v18"/>
+             <triangular vertex1="LEC005_ASCII_v10" vertex2="LEC005_ASCII_v13" vertex3="LEC005_ASCII_v14"/>
+             <triangular vertex1="LEC005_ASCII_v13" vertex2="LEC005_ASCII_v17" vertex3="LEC005_ASCII_v14"/>
+             <triangular vertex1="LEC005_ASCII_v9" vertex2="LEC005_ASCII_v19" vertex3="LEC005_ASCII_v16"/>
+             <triangular vertex1="LEC005_ASCII_v15" vertex2="LEC005_ASCII_v16" vertex3="LEC005_ASCII_v17"/>
+             <triangular vertex1="LEC005_ASCII_v9" vertex2="LEC005_ASCII_v18" vertex3="LEC005_ASCII_v19"/>
+             <triangular vertex1="LEC005_ASCII_v16" vertex2="LEC005_ASCII_v19" vertex3="LEC005_ASCII_v20"/>
+             <triangular vertex1="LEC005_ASCII_v19" vertex2="LEC005_ASCII_v21" vertex3="LEC005_ASCII_v20"/>
+             <triangular vertex1="LEC005_ASCII_v16" vertex2="LEC005_ASCII_v20" vertex3="LEC005_ASCII_v22"/>
+             <triangular vertex1="LEC005_ASCII_v19" vertex2="LEC005_ASCII_v23" vertex3="LEC005_ASCII_v21"/>
+             <triangular vertex1="LEC005_ASCII_v20" vertex2="LEC005_ASCII_v21" vertex3="LEC005_ASCII_v23"/>
+             <triangular vertex1="LEC005_ASCII_v14" vertex2="LEC005_ASCII_v17" vertex3="LEC005_ASCII_v18"/>
+             <triangular vertex1="LEC005_ASCII_v16" vertex2="LEC005_ASCII_v22" vertex3="LEC005_ASCII_v17"/>
+             <triangular vertex1="LEC005_ASCII_v19" vertex2="LEC005_ASCII_v18" vertex3="LEC005_ASCII_v23"/>
+             <triangular vertex1="LEC005_ASCII_v20" vertex2="LEC005_ASCII_v23" vertex3="LEC005_ASCII_v22"/>
+             <triangular vertex1="LEC005_ASCII_v17" vertex2="LEC005_ASCII_v22" vertex3="LEC005_ASCII_v18"/>
+             <triangular vertex1="LEC005_ASCII_v18" vertex2="LEC005_ASCII_v22" vertex3="LEC005_ASCII_v23"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="LEC005_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="LEC005_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="LEC005_ASCII"/>
+    </setup>
+</gdml>

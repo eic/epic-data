@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="AncASIC004_ASCII_v0" unit="mm" x="1.5451293945312443" y="-4.123419189453102" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v1" unit="mm" x="1.5442749023437443" y="-4.073431396484352" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v2" unit="mm" x="5.679299926757807" y="-3.9079956054687273" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v3" unit="mm" x="5.682443237304682" y="-3.9578918457031023" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v4" unit="mm" x="1.5451293945312443" y="-4.123419189453102" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v5" unit="mm" x="5.679299926757807" y="-3.9079956054687273" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v6" unit="mm" x="9.80236206054687" y="-3.5527404785156023" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v7" unit="mm" x="9.80779418945312" y="-3.6024536132812273" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v8" unit="mm" x="9.80779418945312" y="-3.6024536132812273" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v9" unit="mm" x="9.80236206054687" y="-3.5527404785156023" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v10" unit="mm" x="1.5442749023437443" y="-4.073431396484352" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v11" unit="mm" x="5.682443237304682" y="-3.9578918457031023" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v12" unit="mm" x="13.91246948242187" y="-3.0578674316406023" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v13" unit="mm" x="13.904748535156244" y="-3.0084594726562273" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v14" unit="mm" x="13.91246948242187" y="-3.0578674316406023" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v15" unit="mm" x="13.904748535156244" y="-3.0084594726562273" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v16" unit="mm" x="17.987771606445307" y="-2.3252624511718523" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v17" unit="mm" x="17.977807617187494" y="-2.2762817382812273" z="-138.64163360595703"/>
+        <position name="AncASIC004_ASCII_v18" unit="mm" x="17.987771606445307" y="-2.3252624511718523" z="-135.14163360595703"/>
+        <position name="AncASIC004_ASCII_v19" unit="mm" x="17.977807617187494" y="-2.2762817382812273" z="-135.14163360595703"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="AncASIC004_ASCII-SOL">
+             <triangular vertex1="AncASIC004_ASCII_v0" vertex2="AncASIC004_ASCII_v1" vertex3="AncASIC004_ASCII_v2"/>
+             <triangular vertex1="AncASIC004_ASCII_v0" vertex2="AncASIC004_ASCII_v2" vertex3="AncASIC004_ASCII_v3"/>
+             <triangular vertex1="AncASIC004_ASCII_v0" vertex2="AncASIC004_ASCII_v4" vertex3="AncASIC004_ASCII_v1"/>
+             <triangular vertex1="AncASIC004_ASCII_v0" vertex2="AncASIC004_ASCII_v3" vertex3="AncASIC004_ASCII_v4"/>
+             <triangular vertex1="AncASIC004_ASCII_v1" vertex2="AncASIC004_ASCII_v5" vertex3="AncASIC004_ASCII_v2"/>
+             <triangular vertex1="AncASIC004_ASCII_v3" vertex2="AncASIC004_ASCII_v2" vertex3="AncASIC004_ASCII_v6"/>
+             <triangular vertex1="AncASIC004_ASCII_v3" vertex2="AncASIC004_ASCII_v6" vertex3="AncASIC004_ASCII_v7"/>
+             <triangular vertex1="AncASIC004_ASCII_v3" vertex2="AncASIC004_ASCII_v7" vertex3="AncASIC004_ASCII_v8"/>
+             <triangular vertex1="AncASIC004_ASCII_v2" vertex2="AncASIC004_ASCII_v9" vertex3="AncASIC004_ASCII_v6"/>
+             <triangular vertex1="AncASIC004_ASCII_v1" vertex2="AncASIC004_ASCII_v4" vertex3="AncASIC004_ASCII_v10"/>
+             <triangular vertex1="AncASIC004_ASCII_v1" vertex2="AncASIC004_ASCII_v10" vertex3="AncASIC004_ASCII_v5"/>
+             <triangular vertex1="AncASIC004_ASCII_v3" vertex2="AncASIC004_ASCII_v11" vertex3="AncASIC004_ASCII_v4"/>
+             <triangular vertex1="AncASIC004_ASCII_v4" vertex2="AncASIC004_ASCII_v5" vertex3="AncASIC004_ASCII_v10"/>
+             <triangular vertex1="AncASIC004_ASCII_v4" vertex2="AncASIC004_ASCII_v11" vertex3="AncASIC004_ASCII_v5"/>
+             <triangular vertex1="AncASIC004_ASCII_v3" vertex2="AncASIC004_ASCII_v8" vertex3="AncASIC004_ASCII_v11"/>
+             <triangular vertex1="AncASIC004_ASCII_v2" vertex2="AncASIC004_ASCII_v5" vertex3="AncASIC004_ASCII_v9"/>
+             <triangular vertex1="AncASIC004_ASCII_v11" vertex2="AncASIC004_ASCII_v9" vertex3="AncASIC004_ASCII_v5"/>
+             <triangular vertex1="AncASIC004_ASCII_v11" vertex2="AncASIC004_ASCII_v8" vertex3="AncASIC004_ASCII_v9"/>
+             <triangular vertex1="AncASIC004_ASCII_v7" vertex2="AncASIC004_ASCII_v6" vertex3="AncASIC004_ASCII_v12"/>
+             <triangular vertex1="AncASIC004_ASCII_v6" vertex2="AncASIC004_ASCII_v13" vertex3="AncASIC004_ASCII_v12"/>
+             <triangular vertex1="AncASIC004_ASCII_v7" vertex2="AncASIC004_ASCII_v12" vertex3="AncASIC004_ASCII_v14"/>
+             <triangular vertex1="AncASIC004_ASCII_v7" vertex2="AncASIC004_ASCII_v14" vertex3="AncASIC004_ASCII_v8"/>
+             <triangular vertex1="AncASIC004_ASCII_v6" vertex2="AncASIC004_ASCII_v9" vertex3="AncASIC004_ASCII_v15"/>
+             <triangular vertex1="AncASIC004_ASCII_v8" vertex2="AncASIC004_ASCII_v14" vertex3="AncASIC004_ASCII_v9"/>
+             <triangular vertex1="AncASIC004_ASCII_v9" vertex2="AncASIC004_ASCII_v14" vertex3="AncASIC004_ASCII_v15"/>
+             <triangular vertex1="AncASIC004_ASCII_v6" vertex2="AncASIC004_ASCII_v15" vertex3="AncASIC004_ASCII_v13"/>
+             <triangular vertex1="AncASIC004_ASCII_v12" vertex2="AncASIC004_ASCII_v13" vertex3="AncASIC004_ASCII_v16"/>
+             <triangular vertex1="AncASIC004_ASCII_v13" vertex2="AncASIC004_ASCII_v17" vertex3="AncASIC004_ASCII_v16"/>
+             <triangular vertex1="AncASIC004_ASCII_v12" vertex2="AncASIC004_ASCII_v16" vertex3="AncASIC004_ASCII_v18"/>
+             <triangular vertex1="AncASIC004_ASCII_v13" vertex2="AncASIC004_ASCII_v19" vertex3="AncASIC004_ASCII_v17"/>
+             <triangular vertex1="AncASIC004_ASCII_v16" vertex2="AncASIC004_ASCII_v17" vertex3="AncASIC004_ASCII_v19"/>
+             <triangular vertex1="AncASIC004_ASCII_v12" vertex2="AncASIC004_ASCII_v18" vertex3="AncASIC004_ASCII_v14"/>
+             <triangular vertex1="AncASIC004_ASCII_v13" vertex2="AncASIC004_ASCII_v15" vertex3="AncASIC004_ASCII_v19"/>
+             <triangular vertex1="AncASIC004_ASCII_v14" vertex2="AncASIC004_ASCII_v18" vertex3="AncASIC004_ASCII_v15"/>
+             <triangular vertex1="AncASIC004_ASCII_v16" vertex2="AncASIC004_ASCII_v19" vertex3="AncASIC004_ASCII_v18"/>
+             <triangular vertex1="AncASIC004_ASCII_v15" vertex2="AncASIC004_ASCII_v18" vertex3="AncASIC004_ASCII_v19"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="AncASIC004_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="AncASIC004_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="AncASIC004_ASCII"/>
+    </setup>
+</gdml>

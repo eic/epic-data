@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Board_3.step001_ASCII_v0" unit="mm" x="10.441995239257807" y="20.081811523437523" z="281.1030639648437"/>
+        <position name="Board_3.step001_ASCII_v1" unit="mm" x="0.4419952392578068" y="20.079492187500023" z="281.1030639648437"/>
+        <position name="Board_3.step001_ASCII_v2" unit="mm" x="10.43865356445312" y="34.29558715820315" z="295.1732238769531"/>
+        <position name="Board_3.step001_ASCII_v3" unit="mm" x="0.4386535644531193" y="34.29323730468752" z="295.1732238769531"/>
+        <position name="Board_3.step001_ASCII_v4" unit="mm" x="10.442086791992182" y="19.722100830078148" z="281.4664672851562"/>
+        <position name="Board_3.step001_ASCII_v5" unit="mm" x="10.438745117187494" y="33.93584594726565" z="295.5366271972656"/>
+        <position name="Board_3.step001_ASCII_v6" unit="mm" x="0.4387451171874943" y="33.93349609375002" z="295.5366271972656"/>
+        <position name="Board_3.step001_ASCII_v7" unit="mm" x="0.4420867919921818" y="19.719750976562523" z="281.4664672851562"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Board_3.step001_ASCII-SOL">
+             <triangular vertex1="Board_3.step001_ASCII_v0" vertex2="Board_3.step001_ASCII_v1" vertex3="Board_3.step001_ASCII_v2"/>
+             <triangular vertex1="Board_3.step001_ASCII_v2" vertex2="Board_3.step001_ASCII_v1" vertex3="Board_3.step001_ASCII_v3"/>
+             <triangular vertex1="Board_3.step001_ASCII_v4" vertex2="Board_3.step001_ASCII_v5" vertex3="Board_3.step001_ASCII_v6"/>
+             <triangular vertex1="Board_3.step001_ASCII_v7" vertex2="Board_3.step001_ASCII_v4" vertex3="Board_3.step001_ASCII_v6"/>
+             <triangular vertex1="Board_3.step001_ASCII_v1" vertex2="Board_3.step001_ASCII_v0" vertex3="Board_3.step001_ASCII_v7"/>
+             <triangular vertex1="Board_3.step001_ASCII_v7" vertex2="Board_3.step001_ASCII_v0" vertex3="Board_3.step001_ASCII_v4"/>
+             <triangular vertex1="Board_3.step001_ASCII_v2" vertex2="Board_3.step001_ASCII_v5" vertex3="Board_3.step001_ASCII_v0"/>
+             <triangular vertex1="Board_3.step001_ASCII_v0" vertex2="Board_3.step001_ASCII_v5" vertex3="Board_3.step001_ASCII_v4"/>
+             <triangular vertex1="Board_3.step001_ASCII_v5" vertex2="Board_3.step001_ASCII_v2" vertex3="Board_3.step001_ASCII_v6"/>
+             <triangular vertex1="Board_3.step001_ASCII_v6" vertex2="Board_3.step001_ASCII_v2" vertex3="Board_3.step001_ASCII_v3"/>
+             <triangular vertex1="Board_3.step001_ASCII_v1" vertex2="Board_3.step001_ASCII_v6" vertex3="Board_3.step001_ASCII_v3"/>
+             <triangular vertex1="Board_3.step001_ASCII_v7" vertex2="Board_3.step001_ASCII_v6" vertex3="Board_3.step001_ASCII_v1"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Board_3.step001_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="Board_3.step001_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Board_3.step001_ASCII"/>
+    </setup>
+</gdml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Opto_3.step001_ASCII_v0" unit="mm" x="9.190408325195307" y="26.861505126953148" z="287.81452026367185"/>
+        <position name="Opto_3.step001_ASCII_v1" unit="mm" x="9.188729858398432" y="33.9683776855469" z="294.8496154785156"/>
+        <position name="Opto_3.step001_ASCII_v2" unit="mm" x="1.6904083251953068" y="26.859735107421898" z="287.81452026367185"/>
+        <position name="Opto_3.step001_ASCII_v3" unit="mm" x="1.6887298583984318" y="33.96660766601565" z="294.8496154785156"/>
+        <position name="Opto_3.step001_ASCII_v4" unit="mm" x="9.188500976562494" y="34.95327148437502" z="293.8546508789062"/>
+        <position name="Opto_3.step001_ASCII_v5" unit="mm" x="1.6901641845703068" y="27.844628906250023" z="286.8195861816406"/>
+        <position name="Opto_3.step001_ASCII_v6" unit="mm" x="1.6885009765624943" y="34.95150146484377" z="293.8546508789062"/>
+        <position name="Opto_3.step001_ASCII_v7" unit="mm" x="9.190164184570307" y="27.846398925781273" z="286.8195861816406"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Opto_3.step001_ASCII-SOL">
+             <triangular vertex1="Opto_3.step001_ASCII_v0" vertex2="Opto_3.step001_ASCII_v1" vertex3="Opto_3.step001_ASCII_v2"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v2" vertex2="Opto_3.step001_ASCII_v1" vertex3="Opto_3.step001_ASCII_v3"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v4" vertex2="Opto_3.step001_ASCII_v5" vertex3="Opto_3.step001_ASCII_v6"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v4" vertex2="Opto_3.step001_ASCII_v7" vertex3="Opto_3.step001_ASCII_v5"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v3" vertex2="Opto_3.step001_ASCII_v6" vertex3="Opto_3.step001_ASCII_v5"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v3" vertex2="Opto_3.step001_ASCII_v5" vertex3="Opto_3.step001_ASCII_v2"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v4" vertex2="Opto_3.step001_ASCII_v3" vertex3="Opto_3.step001_ASCII_v1"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v4" vertex2="Opto_3.step001_ASCII_v6" vertex3="Opto_3.step001_ASCII_v3"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v1" vertex2="Opto_3.step001_ASCII_v0" vertex3="Opto_3.step001_ASCII_v7"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v1" vertex2="Opto_3.step001_ASCII_v7" vertex3="Opto_3.step001_ASCII_v4"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v0" vertex2="Opto_3.step001_ASCII_v2" vertex3="Opto_3.step001_ASCII_v5"/>
+             <triangular vertex1="Opto_3.step001_ASCII_v0" vertex2="Opto_3.step001_ASCII_v5" vertex3="Opto_3.step001_ASCII_v7"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Opto_3.step001_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="Opto_3.step001_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Opto_3.step001_ASCII"/>
+    </setup>
+</gdml>

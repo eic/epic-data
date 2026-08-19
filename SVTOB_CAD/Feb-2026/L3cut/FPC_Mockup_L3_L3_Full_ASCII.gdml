@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v0" unit="mm" x="-18.840475463867193" y="-2.0858825683593523" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v1" unit="mm" x="-20.840475463867193" y="-1.6567749023437273" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v2" unit="mm" x="-20.840475463867193" y="-1.6567749023437273" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v3" unit="mm" x="-20.740469360351568" y="1.4035583496093977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v4" unit="mm" x="-20.740469360351568" y="-1.5759643554687273" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v5" unit="mm" x="-20.740469360351568" y="-1.5759643554687273" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v6" unit="mm" x="-18.819494628906256" y="-1.9881042480468523" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v7" unit="mm" x="-18.819494628906256" y="-1.9881042480468523" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v8" unit="mm" x="-18.840475463867193" y="-2.0858825683593523" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v9" unit="mm" x="-20.840475463867193" y="1.4843688964843977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v10" unit="mm" x="-20.840475463867193" y="1.4843688964843977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v11" unit="mm" x="-18.819494628906256" y="1.8156982421875227" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v12" unit="mm" x="-20.740469360351568" y="1.4035583496093977" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v13" unit="mm" x="-18.840475463867193" y="1.9134765625000227" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v14" unit="mm" x="-18.840475463867193" y="1.9134765625000227" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v15" unit="mm" x="-18.819494628906256" y="1.8156982421875227" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v16" unit="mm" x="-18.004812622070318" y="1.9865356445312727" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v17" unit="mm" x="-18.024877929687506" y="2.0844970703125227" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v18" unit="mm" x="-18.024877929687506" y="2.0844970703125227" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v19" unit="mm" x="-17.188589477539068" y="2.1498352050781477" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v20" unit="mm" x="-18.004812622070318" y="1.9865356445312727" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v21" unit="mm" x="-17.207739257812506" y="2.2479797363281477" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v22" unit="mm" x="-17.207739257812506" y="2.2479797363281477" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v23" unit="mm" x="-16.370870971679693" y="2.3055358886718977" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v24" unit="mm" x="-17.188589477539068" y="2.1498352050781477" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v25" unit="mm" x="-16.389120483398443" y="2.4038635253906477" z="256.5000061035156"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v26" unit="mm" x="-16.389120483398443" y="2.4038635253906477" z="-256.50000152587893"/>
+        <position name="FPC_Mockup_L3_L3_Full_ASCII_v27" unit="mm" x="-16.370870971679693" y="2.3055358886718977" z="256.5000061035156"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="FPC_Mockup_L3_L3_Full_ASCII-SOL">
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v1" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v2"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v3" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v4" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v5"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v5" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v6" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v7"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v7" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v8"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v5" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v4" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v6"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v2" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v1" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v9"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v8" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v1"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v7" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v6" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v8"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v2" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v9" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v10"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v3" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v11" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v12"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v10" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v13" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v14"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v3" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v12" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v4"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v10" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v9" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v13"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v11" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v15" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v12"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v11" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v16" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v15"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v17" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v14" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v18"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v19" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v20" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v16"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v21" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v17" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v22"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v23" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v24" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v19"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v21" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v25" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v26"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v26" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v27" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v23"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v14" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v13" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v18"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v16" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v20" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v15"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v17" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v18" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v22"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v19" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v24" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v20"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v21" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v22" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v25"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v23" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v27" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v24"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v26" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v25" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v27"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v2" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v5" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v0"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v3" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v5" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v2"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v0" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v5" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v7"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v6" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v4" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v1"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v9" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v1" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v4"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v6" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v1" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v8"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v2" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v10" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v3"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v10" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v11" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v3"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v10" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v14" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v11"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v4" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v12" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v9"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v9" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v12" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v13"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v15" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v13" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v12"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v11" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v14" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v16"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v17" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v16" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v14"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v19" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v16" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v17"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v21" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v19" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v17"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v23" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v19" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v21"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v23" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v21" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v26"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v15" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v18" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v13"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v15" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v20" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v18"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v18" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v20" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v22"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v20" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v24" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v22"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v22" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v24" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v25"/>
+             <triangular vertex1="FPC_Mockup_L3_L3_Full_ASCII_v24" vertex2="FPC_Mockup_L3_L3_Full_ASCII_v27" vertex3="FPC_Mockup_L3_L3_Full_ASCII_v25"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="FPC_Mockup_L3_L3_Full_ASCII">
+            <materialref ref="Vacuum"/>
+            <solidref ref="FPC_Mockup_L3_L3_Full_ASCII-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="FPC_Mockup_L3_L3_Full_ASCII"/>
+    </setup>
+</gdml>
