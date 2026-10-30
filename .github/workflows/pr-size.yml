@@ -1,0 +1,62 @@
+name: PR repository size
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  size:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Measure repository growth
+        id: measure
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+
+          git fetch --no-tags origin "$BASE_SHA" "$HEAD_SHA"
+
+          # On-disk (compressed) size of objects introduced by this PR but
+          # not reachable from the base commit. This is how much the git
+          # repository actually grows as a result of merging this PR.
+          growth=$(git rev-list --objects "$BASE_SHA".."$HEAD_SHA" \
+            | awk '{print $1}' \
+            | git cat-file --batch-check='%(objectsize:disk)' \
+            | awk '{s += $1} END {print s+0}')
+
+          human() {
+            numfmt --to=iec --suffix=B --format='%.2f' "$1" 2>/dev/null || echo "${1} B"
+          }
+
+          echo "growth_bytes=$growth" >> "$GITHUB_OUTPUT"
+          echo "growth_human=$(human "$growth")" >> "$GITHUB_OUTPUT"
+
+      - name: Find existing comment
+        uses: peter-evans/find-comment@v3
+        id: find-comment
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: '<!-- pr-repository-size -->'
+
+      - name: Post status comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          issue-number: ${{ github.event.pull_request.number }}
+          edit-mode: replace
+          body: |
+            <!-- pr-repository-size -->
+            ### Repository size impact
+
+            This PR adds **${{ steps.measure.outputs.growth_human }}** (${{ steps.measure.outputs.growth_bytes }} bytes) of new objects to the git repository.
