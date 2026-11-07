@@ -380,6 +380,13 @@
         <position name="K9_Split_CrossBrace_Sensor_4-008_ASCII_v375" unit="mm" x="10.144115447998047" y="1.3598510742187386" z="3.512873649597168"/>
     </define>
 
+    <materials>
+        <material name="Vacuum" Z="1.0">
+            <D value="1.0e-25" unit="g/cm3"/>
+            <atom value="1.01" unit="g/mole"/>
+        </material>
+    </materials>
+
     <solids>
         <tessellated aunit="deg" lunit="mm" name="K9_Split_CrossBrace_Sensor_4-008_ASCII-SOL">
              <triangular vertex1="K9_Split_CrossBrace_Sensor_4-008_ASCII_v0" vertex2="K9_Split_CrossBrace_Sensor_4-008_ASCII_v1" vertex3="K9_Split_CrossBrace_Sensor_4-008_ASCII_v2"/>

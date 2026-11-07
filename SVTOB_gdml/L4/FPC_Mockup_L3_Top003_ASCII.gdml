@@ -32,6 +32,13 @@
         <position name="FPC_Mockup_L3_Top003_ASCII_v27" unit="mm" x="20.860992431640625" y="1.6356689453124886" z="401.5"/>
     </define>
 
+    <materials>
+        <material name="Vacuum" Z="1.0">
+            <D value="1.0e-25" unit="g/cm3"/>
+            <atom value="1.01" unit="g/mole"/>
+        </material>
+    </materials>
+
     <solids>
         <tessellated aunit="deg" lunit="mm" name="FPC_Mockup_L3_Top003_ASCII-SOL">
              <triangular vertex1="FPC_Mockup_L3_Top003_ASCII_v0" vertex2="FPC_Mockup_L3_Top003_ASCII_v1" vertex3="FPC_Mockup_L3_Top003_ASCII_v2"/>

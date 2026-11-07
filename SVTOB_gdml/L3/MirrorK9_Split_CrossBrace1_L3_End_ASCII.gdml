@@ -405,6 +405,13 @@
         <position name="MirrorK9_Split_CrossBrace1_L3_End_ASCII_v400" unit="mm" x="17.460824584960932" y="1.9626098632812727" z="256.42536010742185"/>
     </define>
 
+    <materials>
+        <material name="Vacuum" Z="1.0">
+            <D value="1.0e-25" unit="g/cm3"/>
+            <atom value="1.01" unit="g/mole"/>
+        </material>
+    </materials>
+
     <solids>
         <tessellated aunit="deg" lunit="mm" name="MirrorK9_Split_CrossBrace1_L3_End_ASCII-SOL">
              <triangular vertex1="MirrorK9_Split_CrossBrace1_L3_End_ASCII_v0" vertex2="MirrorK9_Split_CrossBrace1_L3_End_ASCII_v1" vertex3="MirrorK9_Split_CrossBrace1_L3_End_ASCII_v2"/>
