@@ -1,0 +1,1 @@
+physics_benchmarks/SIDIS/dihadron/*.root filter=lfs diff=lfs merge=lfs -text
