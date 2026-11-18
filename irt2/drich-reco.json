@@ -1,16 +1,26 @@
 {
-    "Calibration": "calibrations/irt2/drich-calibration.json",
+    "Calibration": "drich-calibration.json",
+    "OutputRootFile": "drich.root",
     "WriteOutputTree": "no",
 
-    "UsePoissonTermInChiSquare": "no",
+    "UsePoissonTermInChiSquare": "yes",
     "UseTimingInChiSquare": "yes",
     "DefaultSinglePhotonThetaResolution": 0.002,
     "SensorActiveAreaPixellation": 8,
-    "UseMcTruthPhotonDirectionSeed": "no",
+    "UseMcTruthPhotonDirectionSeed": "yes",
     "MinHitCountCutoff": 5,
-    "IdentifiedParticles": ["pi+", "K+"], 
-    
-    "CombinedEvaluationPlots": "disabled",
+    "IdentifiedParticles": ["pi+", "K+", "proton"], 
+
+    "SinglePhotonTimingResolution": 0.100,
+    "SingleHitCCDFcut": 0.001,
+    "RemoveAmbiguousHits": "no",
+    "Estimator": "ml",
+    "ExpectedBackgroundPhotons": 0.1,
+    "AssignmentMode": "plurality",
+    "BackgroundWindow": 0.02,
+    "PosteriorCCDFPlots": "yes",
+
+    "CombinedEvaluationPlots": "store",
     "CombinedEvaluationPlotsGeometry": [1265,  10,  625, 800],
 	
     "Acceptance": {
@@ -24,7 +34,7 @@
 	    "imaging": "yes",
 	    "acts-planes": 5,
 	    
-	    "evaluation-plots": "disabled",
+	    "evaluation-plots": "store",
 	    "evaluation-plots-geometry": [-10,  10, 1250, 540],
 	    "refractive-index-range": [1.015, 1.025],
 	    "photon-vertex-range": [1970, 2030],
@@ -38,7 +48,7 @@
 	    "imaging": "yes",
 	    "acts-planes": 10,
 	    
-	    "evaluation-plots": "disabled",
+	    "evaluation-plots": "store",
 	    "evaluation-plots-geometry": [-10, 600, 1250, 540],
 	    "refractive-index-range": [1.00050, 1.00100],
 	    "photon-vertex-range": [1900, 3200],
