@@ -1,5 +1,5 @@
 {
-    "Calibration": "calibrations/irt2/drich-calibration.json",
+    "Calibration": "calibrations/irt2/pfrich-calibration.json",
     "WriteOutputTree": "no",
     
     "UsePoissonTermInChiSquare": "yes",
