@@ -1,6 +1,5 @@
 {
-    "Calibration": "pfrich-calibration.json",
-    "OutputRootFile": "pfrich.root",
+    "Calibration": "calibrations/irt2/drich-calibration.json",
     "WriteOutputTree": "no",
     
     "UsePoissonTermInChiSquare": "yes",
@@ -20,7 +19,7 @@
 
     "IdentifiedParticles": ["pi+", "K+", "proton"], 
     
-    "CombinedEvaluationPlots": "store",
+    "CombinedEvaluationPlots": "disabled",
     "CombinedEvaluationPlotsGeometry": [1265,  10,  625, 800],
 	
     "Acceptance": {
@@ -34,7 +33,7 @@
 	    "imaging": "yes",
 	    "acts-planes": 5,
 	    
-	    "evaluation-plots": "store",
+	    "evaluation-plots": "disabled",
 	    "evaluation-plots-geometry": [-10,  10, 1250, 540],
 	    "refractive-index-range": [1.035, 1.045],
 	    "photon-vertex-range": [-1275, -1240],
