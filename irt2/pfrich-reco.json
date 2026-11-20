@@ -9,7 +9,7 @@
     "SingleHitCCDFcut": 0.001,
     "RemoveAmbiguousHits": "no",
     "SensorActiveAreaPixellation": 32,
-    "UseMcTruthPhotonDirectionSeed": "yes",
+    "PhotonDirectionSeed": "plane-tangent",
     "MinHitCountCutoff": 5,
     "Estimator": "ml",
     "AssignmentMode": "plurality",
@@ -37,7 +37,7 @@
 	    "evaluation-plots-geometry": [-10,  10, 1250, 540],
 	    "refractive-index-range": [1.035, 1.045],
 	    "photon-vertex-range": [-1275, -1240],
-	    "cherenkov-angle-range": [200, 290]
+	    "cherenkov-angle-range": [230, 290]
 	},
 	"Acrylic": {
 	    "imaging": "no",

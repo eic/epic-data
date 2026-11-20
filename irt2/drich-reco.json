@@ -6,7 +6,7 @@
     "UseTimingInChiSquare": "yes",
     "DefaultSinglePhotonThetaResolution": 0.002,
     "SensorActiveAreaPixellation": 8,
-    "UseMcTruthPhotonDirectionSeed": "yes",
+    "PhotonDirectionSeed": "plane-tangent",
     "MinHitCountCutoff": 5,
     "IdentifiedParticles": ["pi+", "K+", "proton"], 
 
