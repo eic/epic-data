@@ -13,7 +13,9 @@ geometry via epic `compact/calibrations.xml` into `calibrations/dircgr/`.
   creation (in the bar), mean time to the MCP [ns], fraction of the pixel's
   photons (`OPprob`), and the spreads of the path. Paths are found by
   friends-of-friends grouping of 20M simulated photons per bar (3.18 eV,
-  isotropic into the prism hemisphere).
+  isotropic into the prism hemisphere). Each file also holds the grid as
+  `TParameter<int>`: `nPixX` = 107, `nPixY` = 73, `nBar` = 10 and `bar`
+  (= `i`); DircGR takes the pixel grid from these.
 - `chrcorr.root`: chromatic correction for the per-photon Cherenkov angle,
   TGraphs vs track polar angle [deg]:
   `gChrom{1,2}par{0,1}_Theta_0_0` (pol1 in dt/L used by DircGR; 1 = photons
